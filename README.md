@@ -1,15 +1,19 @@
 # Biển — chạm vào bình yên
 
-Video tiếng Việt về ánh sáng ban ngày, tắm biển và cát ấm. Phong cách điện ảnh, nền xanh biển sâu.
+## Bản mới: lời đọc liền mạch, nhiều thông tin hơn, có cảnh cá nhân
 
-## Tải video
+**[TẢI VIDEO BẢN 2 — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/bien-binh-yen-v2.mp4)**
 
-**[Tải video MP4 (khoảng 61 MB)](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/bien-binh-yen.mp4)**
+Nếu trình duyệt mở video, chọn **⋮ → Tải xuống**. Trên máy tính có thể nhấn chuột phải vào liên kết và chọn **Lưu liên kết thành…**.
 
-Nếu trình duyệt mở video, chọn menu **⋮ → Tải xuống** hoặc nhấn chuột phải vào liên kết và chọn **Lưu liên kết thành…**.
+Bản 2 giữ thời lượng khoảng 80 giây và phong cách điện ảnh xanh biển sâu. Lời dẫn tiếng Việt được đọc theo câu liền mạch, tăng từ 118 lên 315 chữ. Mỗi slide có thêm 2–3 ý thông tin. Hai đoạn ngắn từ clip quay thật của người dùng được chèn ở phần mở đầu và chuyển sang phần cát ấm.
 
-- [Phụ đề tiếng Việt SRT](videos/bien-binh-yen.vi.srt)
-- [Báo cáo kiểm tra](videos/KIEM-TRA.md)
-- [Ghi chú nội dung, tài nguyên và giấy phép](videos/GHI-CHU.txt)
+- [Lời dẫn bản 2](videos/LOI-DAN-v2.txt)
+- [Phụ đề tiếng Việt bản 2](videos/bien-binh-yen-v2.vi.srt)
+- [Báo cáo kiểm tra bản 2](videos/KIEM-TRA-v2.md)
+- [Ghi chú tài nguyên và giấy phép](videos/GHI-CHU-v2.txt)
+- [Video bản đầu](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/bien-binh-yen.mp4)
 
-Thông số: 1080 × 1920, 30 fps, 80,2 giây. Giọng Việt tổng hợp, ảnh minh họa AI, motion graphic và nhạc tropical/chill tự phối. Âm thanh đo trên MP4: −14,10 LUFS; true peak −1,65 dBTP.
+![Khung hình bản 2 với clip cá nhân](videos/anh-bia-v2.jpg)
+
+Thông số: 1080 × 1920, 30 fps. Giọng Việt tổng hợp, cảnh quay cá nhân kết hợp ảnh minh họa AI, motion graphic và nhạc tropical/chill tự phối.

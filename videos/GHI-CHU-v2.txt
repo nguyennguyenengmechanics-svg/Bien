@@ -1,0 +1,20 @@
+BẢN 2: Có B-roll từ clip cá nhân VID20261016091037_1.mp4 do người dùng cung cấp; các ảnh minh họa còn lại là ảnh AI. Lời dẫn315 chữ, đọc liền mạch, 70 cụm phụ đề.
+
+BIỂN — CHẠM VÀO BÌNH YÊN
+Video dọc 1080 × 1920, khoảng 80 giây, tiếng Việt.
+Phong cách điện ảnh dịu nhẹ, xanh biển sâu và vàng cát.
+
+Các ảnh minh họa được tạo bằng AI; bản 2 còn có hai đoạn B-roll quay thật do người dùng cung cấp. Giọng đọc được tổng hợp bằng mô hình Piper vi_VN-vais1000-medium, chạy qua sherpa-onnx. Mô hình: https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+Attribution dữ liệu giọng: VAIS1000 Vietnamese speech synthesis corpus, CC BY 4.0. Thẻ mô hình: https://huggingface.co/rhasspy/piper-voices/tree/main/vi/vi_VN/vais1000/medium
+Dataset: https://ieee-dataport.org/documents/vais-1000-vietnamese-speech-synthesis-corpus
+
+Nhạc nền và SFX được tổng hợp riêng cho video; tropical/chill 108 BPM. Không lấy một bản ghi âm TikTok cụ thể; chưa xác minh thứ hạng viral trên TikTok. Không có mẫu nhạc thương mại bên ngoài.
+
+Nội dung: lợi ích của ánh sáng ban ngày với nhịp sinh học; khả năng da tạo vitamin D dưới UVB kèm lưu ý bảo vệ da; vận động nhẹ trong nước; cát ấm đem lại cảm giác thư giãn. Không khẳng định đắp cát chữa bệnh hay thải độc. Biểu đồ UVB → da → vitamin D là sơ đồ khái niệm, không phải số liệu nghiên cứu.
+
+Nguồn đọc thêm về nội dung sức khỏe:
+NIH Office of Dietary Supplements — Vitamin D: https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+WHO — Ultraviolet radiation: https://www.who.int/health-topics/ultraviolet-radiation
+CDC — Healthy Swimming: https://www.cdc.gov/healthy-swimming/
+
+Tệp SRT đi kèm chứa các cụm phụ đề 3–5 chữ. Bản MP4 đã đốt phụ đề màu.
