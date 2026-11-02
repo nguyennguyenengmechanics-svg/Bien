@@ -1,0 +1,143 @@
+1
+00:00:00,650 --> 00:00:04,136
+Cùng một lực kéo, vì sao thanh mảnh lại dễ hỏng hơn thanh dày?
+
+2
+00:00:04,396 --> 00:00:07,448
+Để trả lời, ta cần phân biệt lực, ứng suất và biến dạng.
+
+3
+00:00:07,708 --> 00:00:11,655
+Hãy đi từ một lát cắt tưởng tượng đến cách kiểm tra độ bền có căn cứ.
+
+4
+00:00:13,215 --> 00:00:16,805
+Hãy tưởng tượng cắt ngang một thanh đang chịu kéo rồi giữ lại một nửa.
+
+5
+00:00:17,066 --> 00:00:20,193
+Trên mặt cắt phải có nội lực để cân bằng lực kéo bên ngoài.
+
+6
+00:00:20,453 --> 00:00:26,640
+Trong mô hình cơ học liên tục, tác động này phân bố trên mặt cắt. Ứng suất mô tả tác động nội lực trên một đơn vị diện tích.
+
+7
+00:00:28,200 --> 00:00:32,354
+Với thanh chịu kéo dọc trục, ứng suất pháp trung bình bằng lực chia diện tích mặt cắt.
+
+8
+00:00:32,615 --> 00:00:36,306
+Cùng một lực, diện tích giảm một nửa thì ứng suất trung bình tăng gấp đôi.
+
+9
+00:00:36,566 --> 00:00:43,485
+Đơn vị thường dùng là mê ga pas can, tương đương niu tơn trên milimét vuông. Gần lỗ hoặc góc nhọn, ứng suất có thể phân bố không đều.
+
+10
+00:00:45,045 --> 00:00:51,842
+Xét thanh tròn đường kính hai mươi milimét, chịu kéo đúng tâm, và giả sử giới hạn chảy là hai trăm năm mươi mê ga pas can.
+
+11
+00:00:52,102 --> 00:01:00,003
+Diện tích mặt cắt khoảng ba trăm mười bốn phẩy mười sáu milimét vuông. Nhân với giới hạn chảy, ta được khoảng bảy mươi tám phẩy năm tư ki lô niu tơn.
+
+12
+00:01:00,263 --> 00:01:05,836
+Đây là mốc bắt đầu chảy danh nghĩa theo giả thiết, không phải tải làm việc an toàn hay khẳng định thanh sẽ đứt.
+
+13
+00:01:07,396 --> 00:01:10,931
+Biến dạng pháp là độ thay đổi chiều dài chia cho chiều dài ban đầu.
+
+14
+00:01:11,191 --> 00:01:18,306
+Ví dụ minh họa: thanh dài một nghìn milimét, dãn thêm một milimét, có biến dạng không phẩy không không một, tức không phẩy một phần trăm.
+
+15
+00:01:18,566 --> 00:01:22,350
+Độ dãn mang đơn vị chiều dài; biến dạng tương đối thì không có thứ nguyên.
+
+16
+00:01:23,910 --> 00:01:27,679
+Trong miền đàn hồi tuyến tính, ứng suất bằng mô đun Young nhân với biến dạng.
+
+17
+00:01:27,939 --> 00:01:32,095
+Trên đồ thị ứng suất, biến dạng, độ dốc cho biết độ cứng đàn hồi của vật liệu.
+
+18
+00:01:32,355 --> 00:01:37,028
+Mô đun Young không phải giới hạn chảy. Vật liệu cứng hơn không tự động có độ bền cao hơn.
+
+19
+00:01:38,588 --> 00:01:41,760
+Trong miền đàn hồi, bỏ tải thì vật liệu phục hồi biến dạng.
+
+20
+00:01:42,020 --> 00:01:45,972
+Khi đã xuất hiện biến dạng dẻo, tháo tải có thể để lại biến dạng dư.
+
+21
+00:01:46,232 --> 00:01:53,313
+Không nên áp dụng đường thẳng Hooke cho toàn bộ đường cong. Quan hệ thực tế cần dựa trên đặc tính và dữ liệu thử vật liệu.
+
+22
+00:01:54,873 --> 00:01:58,118
+Ứng suất cắt có phương song song với mặt cắt, khác với ứng suất pháp.
+
+23
+00:01:58,378 --> 00:02:03,253
+Giá trị trung bình bằng lực cắt chia diện tích chịu cắt. Liên kết bu lông là một ví dụ cần xét.
+
+24
+00:02:03,513 --> 00:02:08,687
+Phải xác định đúng số mặt chịu cắt và cách truyền lực; không lấy mọi trường hợp chia cho cùng một diện tích.
+
+25
+00:02:10,247 --> 00:02:13,808
+Biến dạng cắt mô tả sự thay đổi góc giữa hai phương ban đầu vuông góc.
+
+26
+00:02:14,068 --> 00:02:20,211
+Trong miền đàn hồi tuyến tính với biến dạng nhỏ, ứng suất cắt bằng mô đun cắt nhân biến dạng góc tính bằng ra đi an.
+
+27
+00:02:20,471 --> 00:02:24,875
+Trên phần tử ứng suất, các thành phần cắt liên quan phải thỏa cân bằng lực và mô men.
+
+28
+00:02:26,435 --> 00:02:31,770
+Ngay trong thanh chịu kéo đơn trục, mặt cắt nghiêng cũng có thể đồng thời mang ứng suất pháp và ứng suất cắt.
+
+29
+00:02:32,031 --> 00:02:35,682
+Ở đây, góc thê ta được đo giữa pháp tuyến mặt cắt và phương kéo.
+
+30
+00:02:35,941 --> 00:02:44,081
+Khi góc này bằng bốn mươi lăm độ, độ lớn hai thành phần đều bằng một nửa ứng suất kéo dọc trục. Trạng thái vật lý không đổi; cách phân tích thành phần thay đổi.
+
+31
+00:02:45,641 --> 00:02:49,979
+Muốn đánh giá độ bền, trước hết xác định tải, liên kết và nội lực đúng.
+
+32
+00:02:50,238 --> 00:02:56,308
+Sau đó tính ứng suất, kiểm tra biến dạng, rồi so với giới hạn theo tiêu chí hỏng và hệ số an toàn phù hợp.
+
+33
+00:02:56,568 --> 00:03:03,348
+Công thức lực chia diện tích không thay thế việc kiểm tra tập trung ứng suất, tải kết hợp, mỏi hay mất ổn định khi chúng có liên quan.
+
+34
+00:03:04,908 --> 00:03:10,128
+Ứng suất cho biết tác động nội lực trên diện tích; biến dạng cho biết vật thể thay đổi tương đối ra sao.
+
+35
+00:03:10,388 --> 00:03:15,069
+Hiểu hai đại lượng này và giới hạn của mô hình là bước nền tảng để đánh giá thiết kế.
+
+36
+00:03:15,329 --> 00:03:19,009
+Lưu lại để đối chiếu trước khi chấp nhận một kết quả báo xanh nhé.

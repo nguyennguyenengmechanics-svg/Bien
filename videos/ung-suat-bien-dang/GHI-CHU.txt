@@ -1,0 +1,22 @@
+ỨNG SUẤT, BIẾN DẠNG VÀ ĐÁNH GIÁ ĐỘ BỀN
+Nguồn nội dung: PDF “BÁO CÁO KỸ THUẬT: CƠ SỞ LÝ THUYẾT VỀ ỨNG SUẤT, BIẾN DẠNG VÀ PHƯƠNG PHÁP ĐÁNH GIÁ ĐỘ BỀN TRONG THIẾT KẾ KẾT CẤU” do người dùng cung cấp.
+
+Video chuyển thể thành 12 cảnh với sơ đồ vẽ riêng và đồ thị định tính. Không phải mô phỏng số, dữ liệu thử nghiệm hoặc thiết kế đã được chứng nhận.
+Các điểm hiệu chỉnh và giới hạn áp dụng:
+- F/A và V/A được trình bày là ứng suất trung bình; không coi là ứng suất cực đại ở mọi vị trí hoặc mọi loại tải.
+- Ví dụ Ø20 mm được diễn đạt với GIẢ THIẾT 250 MPa là giới hạn chảy Sy. A ≈ 314,16 mm²; Fy = Sy A ≈ 78,54 kN. Đây là mốc chảy danh nghĩa theo mô hình kéo đúng tâm, không phải tải cho phép hoặc tải đứt.
+- Ví dụ L0 = 1000 mm và ΔL = 1 mm được bổ sung chỉ để minh họa định nghĩa: ε = 0,001 = 0,1%. Hình dãn dài được phóng đại và có nhãn nêu rõ.
+- Quan hệ σ = Eε và τ = Gγ giới hạn trong đàn hồi tuyến tính; quan hệ cắt được nêu với biến dạng nhỏ. Độ cứng đàn hồi không đồng nghĩa độ bền.
+- Đồ thị tải và tháo tải là định tính, không có số đo vật liệu; đường tháo tải minh họa biến dạng dư.
+- Sơ đồ bu lông chỉ minh họa một mặt chịu cắt, không bao quát ép mặt, ma sát, uốn, tải trước hoặc mọi dạng liên kết.
+- Trong cảnh mặt cắt nghiêng, θ được định nghĩa là góc giữa PHÁP TUYẾN mặt cắt và phương kéo. Với kéo đơn trục và 0 ≤ θ ≤ 90°: σn = σ cos²θ; |τn| = σ sinθ cosθ. Tại 45°, hai thành phần có độ lớn σ/2. Định nghĩa này sửa sự không nhất quán về mô tả góc trong văn bản nguồn.
+- Đánh giá thiết kế còn cần mô hình tải và liên kết, tiêu chí hỏng và hệ số an toàn phù hợp; rà các cơ chế mỏi, mất ổn định, môi trường khi liên quan.
+
+Lời đọc: tiếng Việt tổng hợp theo câu, không tuyên bố căn từng từ bằng mô hình nhận dạng. Giọng Piper vi_VN-vais1000-medium qua sherpa-onnx 1.12.40.
+Mô hình: https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+Attribution: VAIS1000 Vietnamese speech synthesis corpus, CC BY 4.0.
+https://ieee-dataport.org/documents/vais-1000-vietnamese-speech-synthesis-corpus
+https://creativecommons.org/licenses/by/4.0/
+Font: DejaVu Serif Bold và DejaVu Sans; giấy phép kèm mã nguồn.
+Nhạc nền và tín hiệu chuyển mục được tổng hợp riêng; không dùng bản thu thương mại hay sao chép footage, khuôn mặt, nhạc từ các video tham chiếu.
+Dựng bằng HyperFrames, GSAP, Chromium và FFmpeg.

@@ -1,0 +1,35 @@
+CƠ HỌC KẾT CẤU / NỀN TẢNG
+Cùng một lực kéo, vì sao thanh mảnh lại dễ hỏng hơn thanh dày? Để trả lời, ta cần phân biệt lực, ứng suất và biến dạng. Hãy đi từ một lát cắt tưởng tượng đến cách kiểm tra độ bền có căn cứ.
+
+01 / NHÌN VÀO BÊN TRONG
+Hãy tưởng tượng cắt ngang một thanh đang chịu kéo rồi giữ lại một nửa. Trên mặt cắt phải có nội lực để cân bằng lực kéo bên ngoài. Trong mô hình cơ học liên tục, tác động này phân bố trên mặt cắt. Ứng suất mô tả tác động nội lực trên một đơn vị diện tích.
+
+02 / ỨNG SUẤT PHÁP
+Với thanh chịu kéo dọc trục, ứng suất pháp trung bình bằng lực chia diện tích mặt cắt. Cùng một lực, diện tích giảm một nửa thì ứng suất trung bình tăng gấp đôi. Đơn vị thường dùng là mê ga pas can, tương đương niu tơn trên milimét vuông. Gần lỗ hoặc góc nhọn, ứng suất có thể phân bố không đều.
+
+03 / VÍ DỤ TÍNH TOÁN
+Xét thanh tròn đường kính hai mươi milimét, chịu kéo đúng tâm, và giả sử giới hạn chảy là hai trăm năm mươi mê ga pas can. Diện tích mặt cắt khoảng ba trăm mười bốn phẩy mười sáu milimét vuông. Nhân với giới hạn chảy, ta được khoảng bảy mươi tám phẩy năm tư ki lô niu tơn. Đây là mốc bắt đầu chảy danh nghĩa theo giả thiết, không phải tải làm việc an toàn hay khẳng định thanh sẽ đứt.
+
+04 / BIẾN DẠNG PHÁP
+Biến dạng pháp là độ thay đổi chiều dài chia cho chiều dài ban đầu. Ví dụ minh họa: thanh dài một nghìn milimét, dãn thêm một milimét, có biến dạng không phẩy không không một, tức không phẩy một phần trăm. Độ dãn mang đơn vị chiều dài; biến dạng tương đối thì không có thứ nguyên.
+
+05 / ĐÀN HỒI TUYẾN TÍNH
+Trong miền đàn hồi tuyến tính, ứng suất bằng mô đun Young nhân với biến dạng. Trên đồ thị ứng suất, biến dạng, độ dốc cho biết độ cứng đàn hồi của vật liệu. Mô đun Young không phải giới hạn chảy. Vật liệu cứng hơn không tự động có độ bền cao hơn.
+
+06 / ĐÀN HỒI VÀ DẺO
+Trong miền đàn hồi, bỏ tải thì vật liệu phục hồi biến dạng. Khi đã xuất hiện biến dạng dẻo, tháo tải có thể để lại biến dạng dư. Không nên áp dụng đường thẳng Hooke cho toàn bộ đường cong. Quan hệ thực tế cần dựa trên đặc tính và dữ liệu thử vật liệu.
+
+07 / ỨNG SUẤT CẮT
+Ứng suất cắt có phương song song với mặt cắt, khác với ứng suất pháp. Giá trị trung bình bằng lực cắt chia diện tích chịu cắt. Liên kết bu lông là một ví dụ cần xét. Phải xác định đúng số mặt chịu cắt và cách truyền lực; không lấy mọi trường hợp chia cho cùng một diện tích.
+
+08 / BIẾN DẠNG CẮT
+Biến dạng cắt mô tả sự thay đổi góc giữa hai phương ban đầu vuông góc. Trong miền đàn hồi tuyến tính với biến dạng nhỏ, ứng suất cắt bằng mô đun cắt nhân biến dạng góc tính bằng ra đi an. Trên phần tử ứng suất, các thành phần cắt liên quan phải thỏa cân bằng lực và mô men.
+
+09 / MẶT CẮT NGHIÊNG
+Ngay trong thanh chịu kéo đơn trục, mặt cắt nghiêng cũng có thể đồng thời mang ứng suất pháp và ứng suất cắt. Ở đây, góc thê ta được đo giữa pháp tuyến mặt cắt và phương kéo. Khi góc này bằng bốn mươi lăm độ, độ lớn hai thành phần đều bằng một nửa ứng suất kéo dọc trục. Trạng thái vật lý không đổi; cách phân tích thành phần thay đổi.
+
+10 / KIỂM TRA ĐỘ BỀN
+Muốn đánh giá độ bền, trước hết xác định tải, liên kết và nội lực đúng. Sau đó tính ứng suất, kiểm tra biến dạng, rồi so với giới hạn theo tiêu chí hỏng và hệ số an toàn phù hợp. Công thức lực chia diện tích không thay thế việc kiểm tra tập trung ứng suất, tải kết hợp, mỏi hay mất ổn định khi chúng có liên quan.
+
+GHI NHỚ CHO LẦN THIẾT KẾ TIẾP THEO
+Ứng suất cho biết tác động nội lực trên diện tích; biến dạng cho biết vật thể thay đổi tương đối ra sao. Hiểu hai đại lượng này và giới hạn của mô hình là bước nền tảng để đánh giá thiết kế. Lưu lại để đối chiếu trước khi chấp nhận một kết quả báo xanh nhé.

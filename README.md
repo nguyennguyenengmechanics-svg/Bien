@@ -1,4 +1,22 @@
-## Video mới: Tư duy thiết kế cơ khí trong kỷ nguyên AI
+## Video mới: Ứng suất, biến dạng và đánh giá độ bền
+
+**[TẢI VIDEO ỨNG SUẤT & BIẾN DẠNG — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/ung-suat-bien-dang/ung-suat-bien-dang-do-ben.mp4)**
+
+Video dọc 1080 × 1920, 30 fps, dài khoảng 3 phút 20 giây. Giải thích nội lực, ứng suất pháp, biến dạng, định luật Hooke, ứng suất cắt và mặt cắt nghiêng bằng sơ đồ chuyển động. Có lời Việt tổng hợp, phụ đề, ví dụ Ø20 mm và lưu ý phân biệt mốc chảy danh nghĩa với tải cho phép.
+
+- [Phụ đề tiếng Việt](videos/ung-suat-bien-dang/phu-de.vi.srt)
+- [Lời dẫn](videos/ung-suat-bien-dang/loi-dan.txt)
+- [Tải mã nguồn chỉnh sửa — ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/ung-suat-bien-dang/ma-nguon-video.zip)
+- [Giả thiết kỹ thuật, nguồn nội dung và giấy phép](videos/ung-suat-bien-dang/GHI-CHU.txt)
+- [Báo cáo kiểm tra](videos/ung-suat-bien-dang/KIEM-TRA.md)
+
+![Video ứng suất, biến dạng và độ bền](videos/ung-suat-bien-dang/anh-bia.jpg)
+
+Nếu trình duyệt mở video, chọn **⋮ → Tải xuống**; trên máy tính có thể nhấn chuột phải vào liên kết và chọn **Lưu liên kết thành…**.
+
+---
+
+## Video: Tư duy thiết kế cơ khí trong kỷ nguyên AI
 
 **[TẢI VIDEO TƯ DUY CƠ KHÍ & AI — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/tu-duy-co-khi-ai/tu-duy-thiet-ke-co-khi-ai.mp4)**
 
