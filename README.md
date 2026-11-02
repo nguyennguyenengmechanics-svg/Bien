@@ -1,3 +1,21 @@
+## Video mới: 9 cơ chế hỏng trong thiết kế cơ khí
+
+**[TẢI VIDEO CƠ KHÍ — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/co-khi/9-co-che-hong-co-khi.mp4)**
+
+Video dọc 1080 × 1920, 30 fps, dài khoảng 3 phút 03 giây. Giải thích 9 cơ chế hỏng bằng sơ đồ chuyển động, lời Việt tổng hợp, phụ đề và nhạc nền tự phối; kết thúc bằng checklist phòng ngừa khi duyệt thiết kế.
+
+- [Phụ đề tiếng Việt](videos/co-khi/phu-de.vi.srt)
+- [Lời dẫn](videos/co-khi/loi-dan.txt)
+- [Tải mã nguồn chỉnh sửa — ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/co-khi/ma-nguon-video.zip)
+- [Nguồn nội dung và giấy phép](videos/co-khi/GHI-CHU.txt)
+- [Báo cáo kiểm tra](videos/co-khi/KIEM-TRA.md)
+
+![Video 9 cơ chế hỏng trong thiết kế cơ khí](videos/co-khi/anh-bia.jpg)
+
+Nếu trình duyệt mở video, chọn **⋮ → Tải xuống**; trên máy tính có thể nhấn chuột phải vào liên kết và chọn **Lưu liên kết thành…**.
+
+---
+
 # Biển — chạm vào bình yên
 
 ## Bản mới: lời đọc liền mạch, nhiều thông tin hơn, có cảnh cá nhân

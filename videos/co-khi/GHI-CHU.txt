@@ -1,0 +1,25 @@
+9 CƠ CHẾ HỎNG TRONG THIẾT KẾ CƠ KHÍ
+
+Nguồn nội dung: PDF “BÁO CÁO TÓM TẮT KỸ THUẬT: CÁC DẠNG HỎNG HÓC TRONG THIẾT KẾ CƠ KHÍ VÀ BỘ NGUYÊN TẮC PHÒNG NGỪA” do người dùng cung cấp.
+Chuyển thể: 12 cảnh, gồm mở đầu, 9 cơ chế, checklist và kết luận. Sơ đồ vector được vẽ riêng; mô tả nguyên lý, không phải kết quả mô phỏng hay số liệu đo. Không sử dụng lại khuôn mặt, footage hay nhạc của 3 video tham chiếu.
+
+Các điểm biên tập kỹ thuật:
+- Mất ổn định đàn hồi phụ thuộc EI, chiều dài hiệu dụng và liên kết; không tuyệt đối hóa thành “vật liệu không có tác dụng”.
+- Không khẳng định mọi loại thép có tuổi thọ mỏi vô hạn.
+- Phun bi không được mô tả là triệt tiêu hoàn toàn ứng suất kéo.
+- Phân biệt creep (biến dạng tăng dưới tải duy trì) với stress relaxation (ứng suất giảm khi giữ biến dạng).
+- Ăn mòn điện hóa cần xét cặp kim loại, đường dẫn điện và chất điện phân.
+- Nhận diện cơ chế chi phối cùng các cơ chế tương tác; kết quả ứng suất và hệ số an toàn không thay mọi phép kiểm tra.
+
+Hình thức: video dọc 1080 × 1920, 30 fps; nền kem, sơ đồ xanh mực, nhấn cam đất, thẻ phòng ngừa xanh olive. Lời đọc được tổng hợp theo câu tiếng Việt. Phụ đề hiển thị theo các câu với mốc âm thanh tương ứng; không tuyên bố căn từng từ bằng mô hình nhận dạng.
+
+Giọng đọc: Piper vi_VN-vais1000-medium qua sherpa-onnx 1.12.40. Mô hình tải từ bản phát hành k2-fsa/sherpa-onnx:
+https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+Attribution: VAIS1000 Vietnamese speech synthesis corpus, CC BY 4.0.
+https://ieee-dataport.org/documents/vais-1000-vietnamese-speech-synthesis-corpus
+https://creativecommons.org/licenses/by/4.0/
+Model card đính kèm trong mã nguồn.
+
+Nhạc và tín hiệu chuyển mục được tổng hợp riêng bằng các nốt nhạc và sóng âm; không dùng bản thu thương mại.
+Font: DejaVu Serif Bold, DejaVu Sans; giữ tệp giấy phép trong mã nguồn.
+Dựng bằng HyperFrames + GSAP; xuất MP4 bằng Chromium và FFmpeg.

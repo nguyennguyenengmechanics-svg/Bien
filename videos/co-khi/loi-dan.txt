@@ -1,0 +1,35 @@
+TƯ DUY THIẾT KẾ
+Ứng suất báo xanh, vì sao chi tiết vẫn hỏng? Vì kiểm tra giới hạn chảy mới chỉ trả lời một phần câu hỏi. Muốn thiết kế bền, hãy nhận diện chín cơ chế hỏng, từ tải trọng đến thời gian và môi trường.
+
+01 / TẢI TRỌNG
+Thứ nhất, biến dạng dẻo: bỏ tải rồi, chi tiết vẫn cong. Khi ứng suất vượt giới hạn chảy, hình dạng có thể thay đổi vĩnh viễn. Đừng chỉ đổi vật liệu. Hãy xem lại tải thực tế, đường truyền lực, tiết diện và gân tăng cứng.
+
+02 / TẢI TRỌNG
+Thứ hai, mất ổn định: thanh mảnh chịu nén có thể oằn sang bên. Trong miền đàn hồi, tải tới hạn phụ thuộc độ cứng uốn và điều kiện liên kết, không chỉ giới hạn chảy. Tăng mô men quán tính mặt cắt, thêm giằng, hoặc giảm chiều dài hiệu dụng.
+
+03 / TẢI TRỌNG
+Thứ ba, nứt và gãy. Góc nhọn, rãnh và chỗ đổi tiết diện làm tập trung ứng suất. Một vết nứt có thể phát triển nhanh, đặc biệt khi vật liệu kém dai hoặc làm việc ở nhiệt độ bất lợi. Bo góc là bước đầu; còn phải xét độ dai phá hủy và khuyết tật chế tạo.
+
+04 / THEO THỜI GIAN
+Thứ tư, mỏi: tải lặp lại có thể gây nứt dù ứng suất dưới giới hạn chảy. Hãy xét số chu kỳ, phổ tải, bề mặt và các vị trí tập trung ứng suất. Thiết kế theo dữ liệu mỏi phù hợp. Đừng mặc định mọi loại thép đều có tuổi thọ vô hạn.
+
+05 / THEO THỜI GIAN
+Thứ năm, mài mòn: vật liệu bề mặt mất dần ở nơi tiếp xúc. Dính xé, hạt cứng cào xước hay dao động rất nhỏ đều có thể làm tăng khe hở và rung. Chọn cặp vật liệu phù hợp, kiểm soát bôi trơn, áp suất tiếp xúc và tạp chất.
+
+06 / THEO THỜI GIAN
+Thứ sáu, biến dạng chậm: dưới tải duy trì, chi tiết tiếp tục biến dạng theo thời gian. Hiện tượng này đáng chú ý ở nhiệt độ cao; với một số nhựa, ngay nhiệt độ phòng cũng cần xét. Chọn vật liệu và giới hạn vận hành theo cả ứng suất, nhiệt độ và tuổi thọ.
+
+07 / THEO THỜI GIAN
+Thứ bảy, chùng ứng suất: khi giữ biến dạng gần như cố định, ứng suất có thể giảm dần. Gioăng vẫn nằm giữa hai mặt bích, nhưng lực làm kín suy giảm và có thể gây rò rỉ. Khác với biến dạng chậm: ở đây ta theo dõi lực giảm, thay vì biến dạng tăng.
+
+08 / MÔI TRƯỜNG
+Thứ tám, ăn mòn: môi trường làm suy giảm vật liệu và có thể rút ngắn tuổi thọ mỏi. Hai kim loại khác nhau, có tiếp xúc điện và chất điện phân, có thể tạo cặp ăn mòn điện hóa. Chọn vật liệu tương thích, bảo vệ bề mặt, tạo đường thoát nước và cách điện khi cần.
+
+09 / NHIỆT ĐỘ
+Thứ chín, mỏi nhiệt: nóng lạnh lặp lại gây co giãn; nếu bị cản trở, ứng suất chu kỳ xuất hiện. Chi tiết có thể nứt dù không có ngoại lực quá tải. Tạo không gian giãn nở, dùng lỗ rãnh trượt hoặc khớp giãn nở, và xét chênh lệch hệ số giãn nở.
+
+CHECKLIST TRƯỚC KHI CHỐT THIẾT KẾ
+Trước khi chốt thiết kế, kiểm tra năm đầu vào: tải trọng, hình học, vật liệu, môi trường và thời gian. Xác định cơ chế chi phối, đồng thời xét các cơ chế tương tác. Sau đó chọn phép tính, tiêu chuẩn và thử nghiệm phù hợp. Một hệ số an toàn không thay thế tất cả.
+
+NGUYÊN TẮC CỐT LÕI
+Thiết kế bền bắt đầu từ việc hiểu đúng cách một chi tiết có thể hỏng. Đó là cách biến một kết quả báo xanh thành quyết định kỹ thuật có cơ sở. Hãy lưu checklist này cho lần duyệt thiết kế tiếp theo.
