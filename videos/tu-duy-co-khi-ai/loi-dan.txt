@@ -1,0 +1,35 @@
+CƠ KHÍ TRONG KỶ NGUYÊN AI
+AI có thể giúp dựng hình nhanh hơn. Nhưng một mô hình đẹp chưa phải sản phẩm tốt. Chi tiết còn phải chế tạo được, lắp được và vượt qua thử nghiệm. Đây là năm năng lực kỹ sư cơ khí cần rèn khi làm việc cùng AI.
+
+TỪ MÀN HÌNH ĐẾN NHÀ MÁY
+Trong máy tính, hình học có thể hoàn hảo. Ngoài xưởng, có dung sai, ma sát và sai lệch chế tạo. Mô phỏng phải được kiểm chứng bằng đo lường và thử nghiệm phù hợp. Vì thế, tốc độ tạo mô hình không thay thế việc hiểu sản phẩm trong thế giới thật.
+
+01 / Ý ĐỒ THIẾT KẾ
+Năng lực thứ nhất: hiểu ý đồ thiết kế. AI có thể đề xuất nhiều giá đỡ. Kỹ sư cần hỏi: vì sao hai linh kiện phải nối theo cách này? Có thể đổi vị trí lắp để bỏ hẳn giá đỡ không? Phương án ít chi tiết hơn vẫn phải được kiểm tra chức năng và độ bền.
+
+02 / PHÁN ĐOÁN SẢN XUẤT
+Thứ hai: phán đoán sản xuất thực tế. Phần mềm có thể kiểm tra thành mỏng hay hốc sâu, nhưng cần dữ liệu thực tế để đánh giá đồ gá, bavia và cách đo. Một chi tiết dễ gia công vẫn có thể khó kiểm tra hoặc khó lắp. Hãy trao đổi với xưởng từ sớm.
+
+03 / PHỐI HỢP CÁC BÊN
+Thứ ba: kết nối các bên liên quan. Thiết kế phải cân bằng giá thành, thẩm mỹ, không gian điện tử, tiến độ và chất lượng. Kỹ sư cần giải thích đánh đổi bằng bằng chứng, thống nhất tiêu chí và làm rõ ai phê duyệt quyết định.
+
+04 / KHI THIẾU DỮ LIỆU
+Thứ tư: ra quyết định khi thông tin chưa đầy đủ. Vỏ hộp đã qua thử tải tĩnh, nhưng một mẫu xuất hiện nứt khi thử tải chu kỳ ngay trước ngày sản xuất. Đó là lỗi vật liệu, tập trung ứng suất, hay bất thường riêng của mẫu? Dữ liệu hiện tại chưa trả lời được.
+
+04 / ĐÁNH GIÁ RỦI RO
+Nếu vết nứt nằm ở điểm chịu lực quan trọng, không nên bỏ qua chỉ vì mới gặp một mẫu. Hãy khoanh vùng ảnh hưởng, phân tích nguyên nhân và tổ chức kiểm chứng theo mức rủi ro. AI có thể hỗ trợ phân tích; trách nhiệm chấp nhận rủi ro thuộc về người và tổ chức có thẩm quyền.
+
+05 / HỆ QUẢ THAY ĐỔI CAD
+Thứ năm: nhìn ra hệ quả dây chuyền của thay đổi CAD. Đổi lỗ từ tám lên mười milimét chỉ mất vài thao tác, nhưng có thể ảnh hưởng dụng cụ, đồ gá và chi tiết lắp cùng. Còn bản vẽ, tiêu chí kiểm tra và hàng tồn kho? Phải rà soát tác động trước khi phát hành.
+
+05 / QUẢN TRỊ THAY ĐỔI
+Ai phê duyệt thay đổi? Nhà cung cấp đang dùng phiên bản nào? Hàng cũ sẽ dùng tiếp, sửa lại hay loại bỏ? Có cần thử nghiệm hoặc đánh giá chứng nhận lại không? Không phải thay đổi nào cũng kéo theo mọi việc, nhưng các tác động liên quan phải được nhận diện và kiểm soát.
+
+LỘ TRÌNH CHO KỸ SƯ TRẺ
+Muốn rèn các năng lực này, hãy giữ chắc nền tảng cơ học, vật liệu và chế tạo. Chủ động làm dự án, thực tập và đi trọn vòng thiết kế, chế tạo, thử nghiệm rồi sửa sai. Dùng AI giảm việc lặp lại, đồng thời tự giải thích giả định, kết quả và giới hạn của công cụ.
+
+CHECKLIST TRƯỚC KHI DUYỆT
+Trước khi chấp nhận một kết quả do AI hỗ trợ, hãy tự hỏi: công cụ đã tạo gì, và vì sao thiết kế như vậy? Tôi đã thấy các đánh đổi chưa? Kết quả có hợp lý về vật lý không? Và tôi đã làm việc với đúng người ở xưởng, nhà cung cấp và các nhóm kỹ thuật liên quan chưa?
+
+THÔNG ĐIỆP CỐT LÕI
+Giá trị của kỹ sư không chỉ nằm ở tốc độ thao tác CAD. Hãy hiểu sản phẩm, quy trình sản xuất, con người và hệ quả của quyết định. Đó là nền tảng để làm việc có trách nhiệm cùng AI. Lưu lại cho lần duyệt thiết kế tiếp theo nhé.

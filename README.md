@@ -1,4 +1,22 @@
-## Video mới: 9 cơ chế hỏng trong thiết kế cơ khí
+## Video mới: Tư duy thiết kế cơ khí trong kỷ nguyên AI
+
+**[TẢI VIDEO TƯ DUY CƠ KHÍ & AI — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/tu-duy-co-khi-ai/tu-duy-thiet-ke-co-khi-ai.mp4)**
+
+“AI vẽ được. Ai chịu trách nhiệm?” — Video dọc 1080 × 1920, 30 fps, dài khoảng 3 phút 13 giây. Năm năng lực kỹ sư cần rèn: ý đồ thiết kế, phán đoán sản xuất, phối hợp các bên, quyết định khi thiếu dữ liệu và đánh giá tác động thay đổi CAD. Có sơ đồ chuyển động, lời Việt tổng hợp, phụ đề, ví dụ Ø8 → Ø10 và checklist cuối video.
+
+- [Phụ đề tiếng Việt](videos/tu-duy-co-khi-ai/phu-de.vi.srt)
+- [Lời dẫn](videos/tu-duy-co-khi-ai/loi-dan.txt)
+- [Tải mã nguồn chỉnh sửa — ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/tu-duy-co-khi-ai/ma-nguon-video.zip)
+- [Nguồn nội dung và giấy phép](videos/tu-duy-co-khi-ai/GHI-CHU.txt)
+- [Báo cáo kiểm tra](videos/tu-duy-co-khi-ai/KIEM-TRA.md)
+
+![Video tư duy thiết kế cơ khí và AI](videos/tu-duy-co-khi-ai/anh-bia.jpg)
+
+Nếu trình duyệt mở video, chọn **⋮ → Tải xuống**; trên máy tính có thể nhấn chuột phải vào liên kết và chọn **Lưu liên kết thành…**.
+
+---
+
+## Video: 9 cơ chế hỏng trong thiết kế cơ khí
 
 **[TẢI VIDEO CƠ KHÍ — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/co-khi/9-co-che-hong-co-khi.mp4)**
 

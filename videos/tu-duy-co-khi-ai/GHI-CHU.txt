@@ -1,0 +1,23 @@
+AI VẼ ĐƯỢC. AI CHỊU TRÁCH NHIỆM?
+Tư duy thiết kế cơ khí trong kỷ nguyên AI
+
+Nguồn nội dung: PDF “BẢN PHÂN TÍCH: BẢN CHẤT TƯ DUY THIẾT KẾ CƠ KHÍ VÀ NĂNG LỰC CỐT LÕI KHÔNG THỂ THAY THẾ TRONG KỶ NGUYÊN AI” do người dùng cung cấp.
+Chuyển thể thành 12 cảnh, xoay quanh 5 năng lực: ý đồ thiết kế; phán đoán sản xuất; phối hợp các bên; quyết định khi thiếu dữ liệu; đánh giá tác động thay đổi CAD.
+
+Các lựa chọn biên tập:
+- Không biến ý kiến của tài liệu thành bảo đảm về khả năng giữ việc hoặc dự báo chắc chắn về AI.
+- AI có thể hỗ trợ tạo hình, kiểm tra và phân tích; các kết quả cần dữ liệu thực tế và kiểm chứng phù hợp. Trách nhiệm phê duyệt thuộc về người và tổ chức có thẩm quyền.
+- Trường hợp vỏ hộp nứt và ví dụ Ø8 → Ø10 được dùng làm tình huống minh họa, không phải sự kiện sản xuất đã được xác minh.
+- Các tác động của thay đổi CAD là những việc cần rà soát; không khẳng định mọi thay đổi đều buộc làm lại tất cả thử nghiệm, đồ gá hay chứng nhận.
+- Sơ đồ được vẽ riêng để giải thích nguyên lý, không phải CAD sản phẩm, mô phỏng định lượng hay kết quả thử nghiệm.
+
+Phong cách: infographic nền kem, sơ đồ xanh mực, nhấn cam đất, thẻ hành động xanh olive. Hình và nhạc không sao chép từ 3 video tham chiếu.
+Lời đọc: tiếng Việt tổng hợp theo câu, hiển thị phụ đề theo mốc câu. Không tuyên bố căn từng từ bằng nhận dạng giọng nói.
+Giọng: Piper vi_VN-vais1000-medium qua sherpa-onnx 1.12.40.
+Mô hình: https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+Attribution: VAIS1000 Vietnamese speech synthesis corpus, CC BY 4.0.
+https://ieee-dataport.org/documents/vais-1000-vietnamese-speech-synthesis-corpus
+https://creativecommons.org/licenses/by/4.0/
+Font: DejaVu Serif Bold và DejaVu Sans; giấy phép nằm trong mã nguồn.
+Nhạc nền và tín hiệu chuyển mục được tổng hợp riêng, không dùng bản thu thương mại.
+Công cụ dựng: HyperFrames, GSAP, Chromium và FFmpeg.
