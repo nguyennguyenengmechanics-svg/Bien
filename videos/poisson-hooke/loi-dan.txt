@@ -1,0 +1,35 @@
+HỆ SỐ POISSON / NHÌN BẰNG CHUYỂN ĐỘNG
+Kéo một dải vật liệu thông thường, nó dài ra nhưng lại hẹp đi. Vì sao? Vì biến dạng theo các phương có liên hệ với nhau. Hệ số Poisson mô tả mối liên hệ ấy trong điều kiện phù hợp. Hiểu điều này giúp ta đọc đúng cả biến dạng lẫn điều kiện biên của bài toán.
+
+01 / ĐỊNH NGHĨA VÀ QUY ƯỚC DẤU
+Trong thử kéo đơn trục với các mặt bên tự do, hệ số Poisson bằng âm của biến dạng bên chia biến dạng dọc. Với vật liệu thông thường, kéo dọc là dương, còn co bên là âm. Dấu trừ giúp hệ số thu được dương. Biến dạng là thay đổi kích thước tương đối, nên hệ số Poisson không có thứ nguyên.
+
+02 / THỬ TÍNH MỘT VÍ DỤ
+Ví dụ giả định: đoạn đo dài một trăm milimét dãn thêm không phẩy một milimét; bề rộng hai mươi milimét giảm không phẩy không không sáu milimét. Biến dạng dọc là không phẩy không không một. Biến dạng bên là âm không phẩy không không không ba. Thay vào tỉ số, ta được hệ số Poisson bằng không phẩy ba.
+
+03 / BA KIỂU PHẢN ỨNG BÊN
+Nếu hệ số Poisson dương, kéo dọc làm vật liệu co bên. Nếu bằng không, mô hình lý tưởng không đổi kích thước bên. Nếu hệ số âm, vật liệu có thể vừa dãn dọc vừa nở ngang: đó là đáp ứng auxetic. Đáp ứng này có thể đến từ cấu trúc vi mô; không chỉ có ở vật liệu nhân tạo. Hình trên minh họa chiều biến dạng, không phải phép đo.
+
+04 / NÉN DỌC THÌ SAO?
+Với hệ số Poisson dương, nén dọc thường làm vật liệu ngắn lại và nở ra theo phương bên. Đây là hình dung trong điều kiện mặt bên tự do. Ma sát ở đầu nén hoặc tiếp xúc thực tế có thể làm biến dạng không đều. Muốn dùng công thức đúng, phải biết vật liệu được phép co nở theo những hướng nào.
+
+05 / KHÔNG CÓ TẢI NGANG VẪN CO NGANG
+Trong kéo đơn trục đẳng hướng, ứng suất theo hai hướng bên bằng không, nhưng biến dạng bên vẫn có thể khác không. Biến dạng dọc bằng ứng suất dọc chia E. Hai biến dạng bên bằng âm hệ số Poisson nhân biến dạng dọc. Đây là lý do không được coi mặt tự do là mặt bị khóa chuyển vị.
+
+06 / HOOKE TỔNG QUÁT: PHẦN ỨNG SUẤT PHÁP
+Khi có ứng suất theo nhiều trục, biến dạng theo một phương nhận cả tác động trực tiếp lẫn hiệu ứng Poisson từ hai phương còn lại. Với vật liệu đẳng hướng, đàn hồi tuyến tính và biến dạng nhỏ, ta cộng các đóng góp này theo nguyên lý chồng chất. Lưu ý quan trọng: toàn bộ biểu thức trong ngoặc phải chia cho E, để kết quả là biến dạng không thứ nguyên.
+
+07 / VÍ DỤ HAI TRỤC
+Giả sử E bằng hai trăm gi ga pas can, hệ số Poisson không phẩy ba; ứng suất x là một trăm, y là năm mươi, z bằng không mê ga pas can. Khi đó, biến dạng x bằng một trăm trừ không phẩy ba nhân năm mươi, tất cả chia hai trăm nghìn. Kết quả là không phẩy không không không bốn hai năm. Không còn là kết quả kéo đơn trục, vì đã có thêm ứng suất y.
+
+08 / BIẾN DẠNG THỂ TÍCH
+Ở biến dạng nhỏ, thay đổi thể tích tương đối xấp xỉ tổng ba biến dạng pháp. Với điều kiện vật liệu đang xét, tổng này bằng một trừ hai lần hệ số Poisson, nhân tổng ba ứng suất rồi chia E. Trong ví dụ vừa rồi, biến dạng thể tích là không phẩy không không không ba, tức không phẩy không ba phần trăm.
+
+09 / GIỚI HẠN GẦN KHÔNG NÉN THỂ TÍCH
+Khi hệ số Poisson tiến gần không phẩy năm, mô hình đàn hồi đẳng hướng mô tả vật liệu khó thay đổi thể tích. Nhưng nó vẫn có thể đổi hình dạng. Gần không nén thể tích không có nghĩa là cứng theo mọi kiểu tải. Cao su thường được mô hình hóa gần không nén; khi biến dạng lớn, cần mô hình phù hợp, không kéo dài công thức tuyến tính một cách tùy ý.
+
+10 / KHÓA HÔNG THÌ BÀI TOÁN KHÁC
+Nếu chặn sự nở hông khi nén, các mặt bên có thể sinh phản lực và ứng suất. Lúc này không còn đúng giả thiết chỉ có ứng suất dọc với mặt bên tự do. Vì vậy, đừng lấy tỉ số biến dạng trong một trạng thái nhiều ràng buộc rồi mặc định đó là hệ số Poisson của phép thử đơn trục.
+
+CHECKLIST TRƯỚC KHI TÍNH
+Trước khi tính, hãy kiểm tra giả thiết vật liệu, miền đàn hồi tuyến tính, biến dạng nhỏ và điều kiện biên. Với mô hình đàn hồi đẳng hướng ổn định, nén được, hệ số Poisson lớn hơn âm một và nhỏ hơn không phẩy năm. Không áp khoảng này máy móc cho mọi hệ dị hướng. Lưu lại để nhớ: một phương chịu tải không có nghĩa chỉ một phương biến dạng.

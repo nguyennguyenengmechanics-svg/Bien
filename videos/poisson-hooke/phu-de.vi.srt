@@ -1,0 +1,143 @@
+1
+00:00:00,650 --> 00:00:04,794
+Kéo một dải vật liệu thông thường, nó dài ra nhưng lại hẹp đi. Vì sao?
+
+2
+00:00:05,054 --> 00:00:10,964
+Vì biến dạng theo các phương có liên hệ với nhau. Hệ số Poisson mô tả mối liên hệ ấy trong điều kiện phù hợp.
+
+3
+00:00:11,224 --> 00:00:15,623
+Hiểu điều này giúp ta đọc đúng cả biến dạng lẫn điều kiện biên của bài toán.
+
+4
+00:00:17,183 --> 00:00:23,395
+Trong thử kéo đơn trục với các mặt bên tự do, hệ số Poisson bằng âm của biến dạng bên chia biến dạng dọc.
+
+5
+00:00:23,655 --> 00:00:29,613
+Với vật liệu thông thường, kéo dọc là dương, còn co bên là âm. Dấu trừ giúp hệ số thu được dương.
+
+6
+00:00:29,872 --> 00:00:34,328
+Biến dạng là thay đổi kích thước tương đối, nên hệ số Poisson không có thứ nguyên.
+
+7
+00:00:35,888 --> 00:00:43,882
+Ví dụ: L₀ = 100 mm; ΔL = +0,1 mm; b₀ = 20 mm; Δb = −0,006 mm.
+
+8
+00:00:44,143 --> 00:00:48,735
+ε dọc = +0,001. ε bên = −0,0003.
+
+9
+00:00:48,995 --> 00:00:52,359
+ν = −(−0,0003) / 0,001 = 0,3.
+
+10
+00:00:53,919 --> 00:01:00,489
+Nếu hệ số Poisson dương, kéo dọc làm vật liệu co bên. Nếu bằng không, mô hình lý tưởng không đổi kích thước bên.
+
+11
+00:01:00,749 --> 00:01:05,776
+Nếu hệ số âm, vật liệu có thể vừa dãn dọc vừa nở ngang: đó là đáp ứng auxetic.
+
+12
+00:01:06,036 --> 00:01:13,194
+Đáp ứng này có thể đến từ cấu trúc vi mô; không chỉ có ở vật liệu nhân tạo. Hình trên minh họa chiều biến dạng, không phải phép đo.
+
+13
+00:01:14,755 --> 00:01:19,723
+Với hệ số Poisson dương, nén dọc thường làm vật liệu ngắn lại và nở ra theo phương bên.
+
+14
+00:01:19,983 --> 00:01:26,731
+Đây là hình dung trong điều kiện mặt bên tự do. Ma sát ở đầu nén hoặc tiếp xúc thực tế có thể làm biến dạng không đều.
+
+15
+00:01:26,991 --> 00:01:31,637
+Muốn dùng công thức đúng, phải biết vật liệu được phép co nở theo những hướng nào.
+
+16
+00:01:33,197 --> 00:01:39,362
+Kéo đơn trục đẳng hướng: σy = σz = 0, nhưng εy và εz có thể khác 0.
+
+17
+00:01:39,622 --> 00:01:45,004
+εx = σx/E ; εy = εz = −νσx/E.
+
+18
+00:01:45,264 --> 00:01:48,854
+Mặt tự do khác mặt bị khóa chuyển vị.
+
+19
+00:01:50,414 --> 00:01:57,238
+Khi có ứng suất theo nhiều trục, biến dạng theo một phương nhận cả tác động trực tiếp lẫn hiệu ứng Poisson từ hai phương còn lại.
+
+20
+00:01:57,498 --> 00:02:04,089
+Với vật liệu đẳng hướng, đàn hồi tuyến tính và biến dạng nhỏ, ta cộng các đóng góp này theo nguyên lý chồng chất.
+
+21
+00:02:04,349 --> 00:02:10,171
+Lưu ý quan trọng: toàn bộ biểu thức trong ngoặc phải chia cho E, để kết quả là biến dạng không thứ nguyên.
+
+22
+00:02:11,731 --> 00:02:20,202
+Giả định: E = 200 GPa; ν = 0,3; σx = 100 MPa; σy = 50 MPa; σz = 0.
+
+23
+00:02:20,462 --> 00:02:25,892
+εx = [100 − 0,3 × 50] / 200.000.
+
+24
+00:02:26,152 --> 00:02:32,285
+εx = 0,000425 ; khác 100/200.000 = 0,0005 khi chỉ kéo đơn trục.
+
+25
+00:02:33,845 --> 00:02:38,225
+Biến dạng nhỏ: εv = ΔV/V₀ ≈ εx + εy + εz.
+
+26
+00:02:38,485 --> 00:02:44,770
+εv = [(1 − 2ν)/E] × (σx + σy + σz).
+
+27
+00:02:45,031 --> 00:02:50,992
+Ví dụ trước: εv = 0,0003 = 0,03%.
+
+28
+00:02:52,552 --> 00:02:58,627
+Khi hệ số Poisson tiến gần không phẩy năm, mô hình đàn hồi đẳng hướng mô tả vật liệu khó thay đổi thể tích.
+
+29
+00:02:58,887 --> 00:03:04,027
+Nhưng nó vẫn có thể đổi hình dạng. Gần không nén thể tích không có nghĩa là cứng theo mọi kiểu tải.
+
+30
+00:03:04,286 --> 00:03:12,005
+Cao su thường được mô hình hóa gần không nén; khi biến dạng lớn, cần mô hình phù hợp, không kéo dài công thức tuyến tính một cách tùy ý.
+
+31
+00:03:13,565 --> 00:03:18,015
+Nếu chặn sự nở hông khi nén, các mặt bên có thể sinh phản lực và ứng suất.
+
+32
+00:03:18,275 --> 00:03:22,306
+Lúc này không còn đúng giả thiết chỉ có ứng suất dọc với mặt bên tự do.
+
+33
+00:03:22,566 --> 00:03:29,724
+Vì vậy, đừng lấy tỉ số biến dạng trong một trạng thái nhiều ràng buộc rồi mặc định đó là hệ số Poisson của phép thử đơn trục.
+
+34
+00:03:31,284 --> 00:03:37,513
+Trước khi tính, hãy kiểm tra giả thiết vật liệu, miền đàn hồi tuyến tính, biến dạng nhỏ và điều kiện biên.
+
+35
+00:03:37,773 --> 00:03:46,975
+Với mô hình đàn hồi đẳng hướng ổn định, nén được, hệ số Poisson lớn hơn âm một và nhỏ hơn không phẩy năm. Không áp khoảng này máy móc cho mọi hệ dị hướng.
+
+36
+00:03:47,235 --> 00:03:50,933
+Lưu lại để nhớ: một phương chịu tải không có nghĩa chỉ một phương biến dạng.

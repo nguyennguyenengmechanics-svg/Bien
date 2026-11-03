@@ -1,0 +1,27 @@
+HỆ SỐ POISSON VÀ ĐỊNH LUẬT HOOKE TỔNG QUÁT
+
+Nguồn nội dung: PDF “TÀI LIỆU KỸ THUẬT: PHÂN TÍCH CHUYÊN SÂU VỀ HỆ SỐ POISSON VÀ ĐỊNH LUẬT HOOKE TỔNG QUÁT TRONG PHÂN TÍCH ỨNG SUẤT CƠ HỌC” do người dùng cung cấp.
+Video gồm 12 cảnh minh họa tự vẽ, lời Việt tổng hợp, phụ đề theo câu và nhạc tự phối.
+
+Hiệu chỉnh và giả thiết kỹ thuật:
+- Các công thức của video dùng vật liệu đàn hồi tuyến tính đẳng hướng và biến dạng nhỏ, trừ khi đang giải thích giới hạn của mô hình. Hình co–nở được phóng đại và chỉ minh họa chiều, không phải số liệu thử hoặc mô phỏng định lượng.
+- Định nghĩa ν = -ε bên/ε dọc được dùng trong thử đơn trục, mặt bên tự do, vùng đo phù hợp và biến dạng dọc khác 0. Vật liệu dị hướng có các hệ số Poisson theo hướng; không thể thay bằng một hằng số duy nhất trong công thức đẳng hướng.
+- Dấu: kéo dương, nén âm. ν có thể âm, không mặc định lúc nào cũng dương.
+- Ví dụ L0 = 100 mm, ΔL = +0,1 mm, b0 = 20 mm, Δb = -0,006 mm là số liệu GIẢ ĐỊNH bổ sung, không phải thí nghiệm thực: ε dọc = +0,001; ε bên = -0,0003; ν = 0,3.
+- Trường hợp ν = 0 và ba phản ứng bên là mô hình minh họa. Không khẳng định nút bần có ν bằng 0 tuyệt đối ở mọi hướng, hoặc giải thích thao tác đóng nút chai chỉ bằng nén dọc. Auxetic không chỉ có ở vật liệu nhân tạo; một số vật liệu tự nhiên hoặc đáp ứng theo hướng cũng có hệ số Poisson âm.
+- Phần cuối của PDF ghi một số phương trình Hooke thiếu ngoặc/chia E cho các hạng Poisson. Video sử dụng dạng nhất quán đơn vị: εx = [σx - ν(σy + σz)]/E; tương tự cho y,z. Toàn bộ ngoặc chia cho E.
+- Ba phương trình trên chỉ là phần ứng suất pháp của quan hệ đàn hồi đẳng hướng; các thành phần cắt còn dùng γij = τij/G (γ là biến dạng cắt kỹ thuật), với G = E/[2(1+ν)] trong cùng mô hình.
+- Ví dụ đa trục bổ sung: E = 200 GPa = 200000 MPa, ν = 0,3, (σx,σy,σz) = (100,50,0) MPa. Kết quả: εx = 0,000425; εy = 0,000100; εz = -0,000225. Không coi đây là dữ liệu của một vật liệu/mác hoặc phép thử thực.
+- Biến dạng thể tích bậc nhất εv ≈ ΔV/V0 ≈ εx + εy + εz. Trong mô hình trên, εv = [(1-2ν)/E](σx+σy+σz). Ví dụ cho εv = 0,0003 = 0,03%. Ở biến dạng hữu hạn, tổng này không thay công thức thể tích đầy đủ.
+- Với vật liệu đàn hồi tuyến tính đẳng hướng ổn định, nén được, mô đun dương hữu hạn: -1 < ν < 0,5. Không coi hai đầu mút là giá trị thông thường cho mô hình nén được, không áp cứng khoảng này cho mọi hệ dị hướng.
+- ν = 0,5 là giới hạn không nén lý tưởng; ν gần 0,5 biểu thị khó thay đổi thể tích, không có nghĩa không thể đổi hình dạng. Cao su ở biến dạng lớn cần mô hình thích hợp, không ngoại suy Hooke tuyến tính cho tải tùy ý. Hình lập phương chỉ minh họa nguyên lý giữ thể tích và đổi hình, không phải mô phỏng cao su.
+- Cản nở bên có thể tạo ứng suất bên. Không đồng nhất σ bên = 0 với ε bên = 0; mặt tự do khác ràng buộc chuyển vị.
+
+Giọng: Piper vi_VN-vais1000-medium qua sherpa-onnx 1.12.40. Phụ đề theo mốc câu, có chuẩn hóa số/ký hiệu, không tuyên bố căn từng từ bằng nhận dạng.
+Mô hình: https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+Attribution: VAIS1000 Vietnamese speech synthesis corpus, CC BY 4.0.
+https://ieee-dataport.org/documents/vais-1000-vietnamese-speech-synthesis-corpus
+https://creativecommons.org/licenses/by/4.0/
+Font: DejaVu Serif Bold và DejaVu Sans; giấy phép kèm mã nguồn.
+Nhạc và tín hiệu chuyển mục được tổng hợp riêng; không dùng bản thu thương mại hoặc footage của các video tham chiếu.
+Công cụ: HyperFrames, GSAP, Chromium và FFmpeg.

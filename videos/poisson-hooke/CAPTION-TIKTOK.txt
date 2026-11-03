@@ -1,0 +1,8 @@
+Không kéo ngang, vì sao vật liệu vẫn co ngang? ⚙️
+
+Hiểu hệ số Poisson để thấy vì sao một phương chịu tải có thể tạo biến dạng theo nhiều phương — và vì sao gần không nén thể tích vẫn có thể đổi hình dạng.
+
+📌 Lưu lại để ôn sức bền vật liệu và kiểm tra điều kiện biên khi mô phỏng!
+Bạn từng nhầm “ứng suất bên bằng 0” với “biến dạng bên bằng 0” chưa? 👇
+
+#HeSoPoisson #CoKhi #SucBenVatLieu #CoHocVatRan #MechanicalEngineering

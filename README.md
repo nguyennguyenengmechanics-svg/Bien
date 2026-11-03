@@ -1,4 +1,23 @@
-## Video mới: Khám phá mô đun Young — hiểu độ cứng vật liệu
+## Video mới: Hệ số Poisson và định luật Hooke tổng quát
+
+**[TẢI VIDEO POISSON & HOOKE — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/poisson-hooke/he-so-poisson-hooke-tong-quat.mp4)**
+
+Video dọc 1080 × 1920, 30 fps, dài khoảng 3 phút 52 giây. Sơ đồ kéo–co ngang, nén–nở hông, ba dấu của ν, Hooke đa trục, biến dạng thể tích và ảnh hưởng ràng buộc chuyển vị. Có ví dụ số từng bước, công thức đã rà đúng ngoặc, lời Việt tổng hợp, phụ đề và nhạc tự phối.
+
+- [Phụ đề tiếng Việt](videos/poisson-hooke/phu-de.vi.srt)
+- [Lời dẫn](videos/poisson-hooke/loi-dan.txt)
+- [Caption TikTok](videos/poisson-hooke/CAPTION-TIKTOK.txt)
+- [Tải mã nguồn chỉnh sửa — ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/poisson-hooke/ma-nguon-video.zip)
+- [Giả thiết, hiệu chỉnh kỹ thuật, nguồn và giấy phép](videos/poisson-hooke/GHI-CHU.txt)
+- [Báo cáo kiểm tra](videos/poisson-hooke/KIEM-TRA.md)
+
+![Video hệ số Poisson và Hooke tổng quát](videos/poisson-hooke/anh-bia.jpg)
+
+Nếu trình duyệt mở video, chọn **⋮ → Tải xuống**; trên máy tính có thể nhấn chuột phải vào liên kết và chọn **Lưu liên kết thành…**.
+
+---
+
+## Video: Khám phá mô đun Young — hiểu độ cứng vật liệu
 
 **[TẢI VIDEO KHÁM PHÁ MÔ ĐUN YOUNG — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/kham-pha-mo-dun-young/kham-pha-mo-dun-young.mp4)**
 
