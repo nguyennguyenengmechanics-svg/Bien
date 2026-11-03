@@ -1,0 +1,5 @@
+Ứng suất phẳng ≠ biến dạng phẳng! ⚙️ σz = 0 nhưng chiều dày vẫn có thể co do Poisson. Vậy khi nào dùng mô hình 2D, khi nào cần tấm/vỏ hoặc 3D? Xem ví dụ tấm có lỗ, bình thành mỏng và chân răng để hiểu cách chọn.
+
+Bạn thường kiểm tra điều kiện nào trước khi chọn mô hình? 👇 Lưu lại để ôn nhé!
+
+#CoKhi #ThietKeCoKhi #UngSuatPhang #SucBenVatLieu #FEA #CoHocVatLieu #KienThucKyThuat

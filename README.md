@@ -1,4 +1,23 @@
-## Video mới: Các thuyết phá hủy trong cơ học vật liệu
+## Video mới: Ứng suất phẳng trong thiết kế cơ khí
+
+**[TẢI VIDEO ỨNG SUẤT PHẲNG — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/ung-suat-phang/ung-suat-phang.mp4)**
+
+Video dọc 1080 × 1920, 30 fps, dài khoảng 4 phút 9 giây. Giải thích ba thành phần ứng suất còn lại, mặt tự do và điều kiện áp dụng; phân biệt ứng suất phẳng với biến dạng phẳng qua ví dụ Poisson. Minh họa tấm có lỗ, uốn tấm, bình trụ thành mỏng và chân răng; có cây chọn 2D/tấm-vỏ/3D. Từ khóa đậm tô màu, giọng Việt tổng hợp, phụ đề và nhạc nền. Các ví dụ số là giả định.
+
+- [Phụ đề tiếng Việt](videos/ung-suat-phang/phu-de.vi.srt)
+- [Lời dẫn](videos/ung-suat-phang/loi-dan.txt)
+- [Caption TikTok](videos/ung-suat-phang/CAPTION-TIKTOK.txt)
+- [Tải mã nguồn chỉnh sửa — ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/ung-suat-phang/ma-nguon-video.zip)
+- [Giả thiết, hiệu chỉnh kỹ thuật, nguồn và giấy phép](videos/ung-suat-phang/GHI-CHU.txt)
+- [Báo cáo kiểm tra](videos/ung-suat-phang/KIEM-TRA.md)
+
+![Video ứng suất phẳng](videos/ung-suat-phang/anh-bia.jpg)
+
+Nếu trình duyệt mở video, chọn **⋮ → Tải xuống**.
+
+---
+
+## Video: Các thuyết phá hủy trong cơ học vật liệu
 
 **[TẢI VIDEO CÁC THUYẾT PHÁ HỦY — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/cac-thuyet-pha-huy/cac-thuyet-pha-huy.mp4)**
 

@@ -1,0 +1,139 @@
+1
+00:00:00,650 --> 00:00:04,893
+Một tấm mỏng có thể được tính bằng mô hình hai chiều. Nhưng mỏng thôi chưa đủ.
+
+2
+00:00:05,153 --> 00:00:09,441
+Giả thiết ứng suất phẳng bỏ qua ba thành phần ứng suất ngoài mặt phẳng đang xét.
+
+3
+00:00:09,701 --> 00:00:15,491
+Hãy nhìn chiều dày, cách đặt tải và chỗ bị kẹp để biết khi nào phép đơn giản hóa này hợp lý.
+
+4
+00:00:17,051 --> 00:00:23,544
+Chọn mặt phẳng x y, với z theo chiều dày. Mô hình đặt ứng suất pháp z và hai ứng suất cắt liên quan z bằng không.
+
+5
+00:00:23,803 --> 00:00:29,523
+Ba thành phần còn lại là xích ma x, xích ma y và tao x y. Chúng không mặc định là ứng suất chính.
+
+6
+00:00:29,783 --> 00:00:35,137
+Muốn tìm ứng suất chính trong mặt phẳng, phải đổi hướng trục. Một ứng suất chính ngoài mặt phẳng bằng không.
+
+7
+00:00:36,697 --> 00:00:42,027
+Trên hai mặt phẳng tự do không có tải mặt, vectơ lực mặt trên các mặt có pháp tuyến z bằng không.
+
+8
+00:00:42,287 --> 00:00:48,423
+Với tấm mỏng chịu tải trong mặt phẳng phù hợp, ta có thể xấp xỉ các ứng suất ngoài mặt phẳng nhỏ cả bên trong.
+
+9
+00:00:48,683 --> 00:00:54,270
+Nhưng gần chỗ kẹp, tiếp xúc hoặc tải tập trung, hiệu ứng cục bộ ba chiều vẫn có thể đáng kể.
+
+10
+00:00:55,830 --> 00:01:01,670
+Kiểm tra chiều dày có nhỏ so với chiều dài đặc trưng liên quan hay không. Không chỉ nhìn kích thước bao ngoài.
+
+11
+00:01:01,929 --> 00:01:08,510
+Tải chủ yếu nằm trong mặt phẳng, không gây uốn ngoài mặt phẳng đáng kể. Liên kết cần cho phép biến dạng chiều dày phù hợp.
+
+12
+00:01:08,770 --> 00:01:15,725
+Tỷ lệ không phẩy một chỉ là gợi ý sơ bộ. Vẫn phải xét kích thước lỗ, chỗ đặt tải, liên kết và sai số chấp nhận được.
+
+13
+00:01:17,285 --> 00:01:23,243
+Ứng suất phẳng không phải biến dạng phẳng. Dù ứng suất z bằng không, chiều dày vẫn có thể co do hiệu ứng Poisson.
+
+14
+00:01:23,503 --> 00:01:32,232
+Ví dụ giả định: mô đun đàn hồi hai trăm ghi ga pas can, hệ số Poisson không phẩy ba. Ứng suất x một trăm mê ga pas can, ứng suất y bằng không.
+
+15
+00:01:32,492 --> 00:01:39,049
+Biến dạng z bằng âm không phẩy không không không một năm, tức âm một trăm năm mươi microstrain. Tấm co lại theo chiều dày.
+
+16
+00:01:40,610 --> 00:01:46,110
+Nếu biến dạng z bị giữ bằng không trong mô hình biến dạng phẳng, ứng suất z thường không bằng không.
+
+17
+00:01:46,370 --> 00:01:51,958
+Với đàn hồi tuyến tính đẳng hướng, ứng suất z bằng hệ số Poisson nhân tổng ứng suất x và y.
+
+18
+00:01:52,218 --> 00:01:58,016
+Nếu các ứng suất trong mặt phẳng được cho giống ví dụ trước, ứng suất z sẽ là ba mươi mê ga pas can.
+
+19
+00:01:58,276 --> 00:02:04,923
+Đây là so sánh công thức tại cùng ứng suất đã cho. Hai mô hình không mặc định cho cùng lời giải dưới cùng tải và liên kết.
+
+20
+00:02:06,483 --> 00:02:13,145
+Tấm có lỗ chịu kéo trong mặt phẳng là ví dụ quen thuộc. Mô hình hai chiều vẫn có thể mô tả tập trung ứng suất quanh lỗ.
+
+21
+00:02:13,405 --> 00:02:18,927
+Nhưng độ chính xác còn phụ thuộc chiều dày so với kích thước cục bộ, cách đặt tải và vùng đang xét.
+
+22
+00:02:19,187 --> 00:02:26,177
+Nếu cần ứng suất chi tiết qua chiều dày, hoặc có chỗ kẹp và tiếp xúc phức tạp, hãy đánh giá bằng mô hình ba chiều phù hợp.
+
+23
+00:02:27,737 --> 00:02:35,313
+Nếu lực hoặc áp suất làm tấm võng ra ngoài mặt phẳng, phần tử ứng suất phẳng hai chiều thông thường không mô tả được cơ chế uốn đó.
+
+24
+00:02:35,573 --> 00:02:41,296
+Có thể cần mô hình tấm hoặc vỏ để giữ cơ chế uốn và sự biến thiên ứng suất theo chiều dày.
+
+25
+00:02:41,556 --> 00:02:49,013
+Điều này không có nghĩa mọi phần tử vỏ đều bỏ giả thiết ứng suất phẳng. Hãy phân biệt giả thiết vật liệu với khả năng chuyển vị của phần tử.
+
+26
+00:02:50,572 --> 00:02:57,135
+Ở bình trụ thành mỏng kín hai đầu, áp suất trong tạo ứng suất vòng và ứng suất dọc trục trên mặt tiếp tuyến thành bình.
+
+27
+00:02:57,395 --> 00:03:07,506
+Ví dụ giả định: áp suất dư một mê ga pas can, bán kính một trăm mi li mét, chiều dày hai mi li mét. Ứng suất vòng xấp xỉ năm mươi, dọc trục hai mươi lăm mê ga pas can.
+
+28
+00:03:07,766 --> 00:03:15,146
+Ứng suất hướng tâm đi từ âm một đến không mê ga pas can. Ta bỏ qua nó vì nhỏ tương đối, không phải vì nó bằng không trên cả thành.
+
+29
+00:03:16,706 --> 00:03:23,335
+Với răng có bề rộng hẹp và tải phân bố phù hợp, mô hình ứng suất phẳng có thể hữu ích để ước lượng uốn chân răng.
+
+30
+00:03:23,595 --> 00:03:30,047
+Bề rộng lớn, lệch tải theo bề rộng, vùng tiếp xúc và sai lệch lắp ráp có thể tạo hiệu ứng ba chiều đáng kể.
+
+31
+00:03:30,308 --> 00:03:36,460
+Không dùng chỉ một nhãn bánh răng thẳng để chọn mô hình. Bài toán tiếp xúc và uốn chân răng cũng cần được phân biệt.
+
+32
+00:03:38,020 --> 00:03:46,191
+Trước khi chọn ứng suất phẳng, hãy hỏi: tấm có đủ mỏng, tải có chủ yếu trong mặt phẳng, và chiều dày có được co giãn phù hợp không?
+
+33
+00:03:46,451 --> 00:03:53,448
+Nếu có uốn ngoài mặt phẳng, xét tấm hoặc vỏ. Nếu có hiệu ứng cục bộ phức tạp, xét mô hình ba chiều hoặc mô hình cục bộ.
+
+34
+00:03:53,708 --> 00:04:00,933
+Kiểm tra hội tụ lưới và so sánh mô hình hoặc số liệu thực nghiệm khi cần. Hội tụ lưới không tự chứng minh giả thiết vật lý đúng.
+
+35
+00:04:01,193 --> 00:04:07,578
+Lưu lại để nhớ: ứng suất phẳng là một giả thiết về ứng suất, không phải cam kết mọi biến dạng chỉ nằm trong một mặt phẳng.

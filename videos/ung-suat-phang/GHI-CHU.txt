@@ -1,0 +1,26 @@
+ỨNG SUẤT PHẲNG TRONG THIẾT KẾ CƠ KHÍ
+Nguồn: PDF “BÁO CÁO KỸ THUẬT: LÝ THUYẾT VÀ TIÊU CHÍ ỨNG DỤNG GIẢ THIẾT ỨNG SUẤT PHẲNG TRONG TÍNH TOÁN THIẾT KẾ CƠ KHÍ” do người dùng cung cấp. Video diễn giải lại và hiệu chỉnh các khẳng định quá rộng trong tài liệu.
+
+QUY ƯỚC VÀ HIỆU CHỈNH
+- Chọn x–y là mặt phẳng xét, z là phương chiều dày. Trong mô hình ứng suất phẳng: σz=τxz=τyz=0; trong kết cấu thực phù hợp thường dùng xấp xỉ nhỏ so với các thành phần chi phối.
+- Ba thành phần độc lập còn lại là σx, σy, τxy trong hệ tọa độ chọn; không gọi chúng là ba ứng suất chính. Tính đối xứng tensor dùng cơ học môi trường liên tục cổ điển không có ngẫu lực. Một ứng suất chính bằng0 là theo phương z; khi sắp thứ tự đại số nó không nhất thiết là σ3.
+- Trên các mặt phẳng có pháp tuyến ±z và không có tải mặt, vectơ lực mặt t=σn bằng0 nên σz=τxz=τyz=0 tại mặt. Điều kiện biên này không tự suy ra các thành phần đó bằng0 trong mọi điểm bên trong. Mở rộng xấp xỉ qua chiều dày cần điều kiện hình học, tải, liên kết và miền đánh giá phù hợp.
+- Tỷ lệ t/L khoảng0,1 chỉ là gợi ý sơ bộ, không phải ngưỡng chính xác phổ quát. Xét các thang độ dài cục bộ: kích thước lỗ, khoảng cách đến mép, vùng tải, vị trí kẹp, tiếp xúc và sai số cho phép. Tải trong mặt phẳng và tấm mỏng cũng không tự loại bỏ mọi cản trở co chiều dày hoặc hiệu ứng3D.
+- Không khẳng định ứng suất phẳng chính xác là bất khả thi trong mọi bài toán thực hoặc lý tưởng. Video tập trung giả thiết kỹ thuật xấp xỉ và giới hạn của nó.
+- Đàn hồi tuyến tính đẳng hướng: εz=[σz−ν(σx+σy)]/E. Với σz=0: εz=−ν(σx+σy)/E, thường khác0. Ví dụ giả định E=200 GPa=200.000 MPa, ν=0,3, σx=100 MPa, σy=0 → εz=−0,00015=−150 µε. Hình co dày và kéo dài phóng đại, không theo tỉ lệ thực.
+- Biến dạng phẳng cổ điển: εz=γxz=γyz=0. Với đàn hồi tuyến tính đẳng hướng: σz=ν(σx+σy). Nếu cùng cho σx=100 MPa, σy=0, ν=0,3 → σz=30 MPa. Đây là so sánh công thức tại cùng ứng suất trong mặt phẳng đã cho; hai mô hình dưới cùng tải/biên không mặc định cho cùng trường ứng suất trong mặt phẳng. Một liên kết cản co cục bộ không tự biến toàn bộ vật thể thành bài toán biến dạng phẳng lý tưởng.
+- Tấm có lỗ: mô hình2D có thể mô tả tập trung ứng suất trong mặt phẳng; lỗ không tự làm giả thiết vô hiệu. Khả năng mô tả ứng suất qua chiều dày và hiệu ứng3D phải đánh giá theo hình học, tải, liên kết và đại lượng cần tính. Các chấm ở lỗ chỉ đánh dấu vùng chú ý, không phải kết quả FEA.
+- Phần tử ứng suất phẳng2D thông thường chỉ có bậc tự do trong mặt phẳng, không mô tả uốn ngoài mặt phẳng. Phần tử tấm/vỏ có thể mô tả uốn dù quan hệ vật liệu vẫn dùng giả thiết ứng suất phẳng thích hợp. Không đồng nhất mô hình màng2D với mọi mô hình tấm/vỏ. Ứng suất cắt ngang có thể quan trọng tùy lý thuyết tấm/vỏ, độ mỏng và vùng cục bộ.
+- Bình trụ: áp suất dư P=1 MPa (ngoài bằng0 theo áp suất dư), r=100 mm, t=2 mm, t/r=0,02; giả thiết thành mỏng, kín hai đầu, không có tải dọc bổ sung và xét xa chỗ nối, đầu bình, lỗ/gián đoạn. Công thức màng gần đúng σθ≈Pr/t=50 MPa, σa≈Pr/(2t)=25 MPa. Bán kính trong hoặc bán kính trung bình chỉ khác bậc nhỏ khi t/r nhỏ; ví dụ dùng r đặc trưng trong công thức thành mỏng. Không áp cùng σa cho bình hở đầu nếu thiếu điều kiện tạo lực dọc tương ứng.
+- Ứng suất hướng tâm bình trụ biến thiên từ−P ở mặt trong đến0 ở mặt ngoài; bỏ qua tương đối so với ứng suất màng, không phải bằng0 tuyệt đối. Ví dụ |σr|max/σθ≈2%, /σa≈4%. Mặt phẳng ứng suất ở đây là mặt tiếp tuyến cục bộ của vỏ cong, không phải cùng một mặt phẳng toàn cục bao trùm cả bình. Cần kiểm tra sai số theo mục đích thiết kế, không chỉ t/r.
+- Bánh răng: bề rộng đủ hẹp và tải phân bố thích hợp có thể cho phép xấp xỉ2D để phân tích uốn chân răng. Bánh răng thẳng không mặc định là ứng suất phẳng; ứng suất dọc trục không mặc định triệt tiêu tuyệt đối. Tải lệch bề rộng, tiếp xúc, ràng buộc và sai lệch lắp ráp có thể yêu cầu3D. Công thức Lewis và FEA2D không phải cùng một mô hình; video không thực hiện tính Lewis hoặc tiếp xúc Hertz.
+- Hội tụ lưới không xác nhận giả thiết vật lý. Có thể đối chiếu3D, mô hình cục bộ hoặc thí nghiệm phù hợp với yêu cầu. Không có thử nghiệm hay FEA thực được thực hiện trong video; mọi hình vẽ là sơ đồ, dữ liệu số nêu rõ là giả định.
+
+SẢN XUẤT VÀ GIẤY PHÉP
+HTML/SVG và hoạt họa GSAP dựng riêng. Từ khóa đậm cam, tải và dữ liệu xanh, tiêu chí xanh lá; không dùng màu thay cho nội dung ký hiệu. Nhạc nền được tổng hợp riêng theo phong cách các video trước. Không sao chép hình/âm thanh từ video tham khảo.
+Giọng Việt tổng hợp: sherpa-onnx1.12.40, Piper vi_VN-vais1000-medium, đã chỉnh tốc độ và chuẩn hóa âm lượng.
+Mô hình: https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+Dữ liệu giọng: VAIS1000 Vietnamese speech synthesis corpus, CC BY4.0.
+https://ieee-dataport.org/documents/vais-1000-vietnamese-speech-synthesis-corpus
+https://creativecommons.org/licenses/by/4.0/
+Model card và giấy phép font DejaVu nằm trong assets. GSAP: xem thông báo trong gsap.min.js và https://gsap.com/standard-license/.
