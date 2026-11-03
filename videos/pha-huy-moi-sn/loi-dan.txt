@@ -1,0 +1,35 @@
+PHÁ HỦY MỎI / S–N
+Một chi tiết có thể gãy dù tải mỗi lần chưa làm nó vượt giới hạn chảy danh nghĩa. Nguyên nhân có thể là phá hủy mỏi: hư hại phát triển dưới tác động của tải lặp lại. Hãy nhìn vết nứt lớn dần, rồi học cách đọc đường cong S N để đánh giá tuổi thọ có căn cứ.
+
+01 / BA GIAI ĐOẠN
+Quá trình thường đi qua ba giai đoạn: khởi tạo vết nứt, lan truyền, rồi gãy cuối cùng. Trượt dẻo cục bộ có thể tích lũy gần bề mặt hoặc nơi tập trung ứng suất. Khi vết nứt lớn, phần vật liệu còn chịu tải suy giảm. Vì vậy một sự cố nhìn như đột ngột có thể đã phát triển từ trước.
+
+02 / ĐỌC ĐÚNG MỘT CHU KỲ
+Phạm vi ứng suất là giá trị lớn nhất trừ nhỏ nhất. Biên độ bằng một nửa phạm vi. Ví dụ: ứng suất đi từ âm năm mươi đến dương năm mươi mê ga pas can. Phạm vi là một trăm, biên độ năm mươi và ứng suất trung bình bằng không. Đó là một chu kỳ đảo chiều hoàn toàn. Đừng nhầm phạm vi một trăm với biên độ một trăm.
+
+03 / XÂY DỰNG ĐƯỜNG CONG S–N
+Thử nhiều mẫu ở các mức biên độ, ghi số chu kỳ tới tiêu chí hỏng, rồi lập đường cong S N. Trong video này, S là biên độ ứng suất; N là số chu kỳ. Trục N dùng thang lô ga để chứa dải chu kỳ rất rộng. Thử đảo chiều hoàn toàn chỉ là một trường hợp. Phải kiểm tra tỉ số ứng suất và các điều kiện đi kèm dữ liệu.
+
+04 / ĐỌC TUỔI THỌ TỪ ĐƯỜNG CONG
+Giả sử đường cong phù hợp cho năm trăm nghìn chu kỳ tại biên độ năm mươi mê ga pas can. Nếu chạy liên tục một chu kỳ mỗi phút, thời gian quy đổi khoảng năm trăm nghìn phút, tức ba trăm bốn mươi bảy ngày. Đây là dự báo theo giả thiết, không phải lời hẹn chính xác rằng ngày đó chi tiết sẽ gãy.
+
+05 / GIỚI HẠN BỀN MỎI
+Một số vật liệu có đường S N tiến tới vùng gần nằm ngang, thường được mô tả bằng giới hạn bền mỏi. Nhưng không mặc định mọi loại thép hay mọi môi trường đều bảo đảm tuổi thọ vô hạn dưới một con số tra bảng. Bề mặt, kích thước, tập trung ứng suất, ăn mòn và tải thực tế đều có thể làm thay đổi khả năng chịu mỏi.
+
+06 / DỮ LIỆU CÓ PHÂN TÁN
+Các mẫu tương tự có thể hỏng ở những số chu kỳ khác nhau. Vì vậy dữ liệu mỏi có phân tán. Đường dùng trong thiết kế cần phù hợp độ tin cậy, phương pháp thống kê và tiêu chuẩn áp dụng. Không thể mặc định cứ dịch hai độ lệch chuẩn là xác suất hỏng còn một phần trăm trong mọi trường hợp.
+
+07 / CHỌN CÁCH TIẾP CẬN
+Với mỏi chu kỳ cao, biến dạng vĩ mô thường chủ yếu đàn hồi; cách tiếp cận S N thường hữu ích. Khi biến dạng dẻo chu kỳ đáng kể, thường cần cách tiếp cận biến dạng, tuổi thọ, như các quan hệ Coffin Manson. HCF và LCF không chỉ được phân biệt bằng một ngưỡng số chu kỳ cố định cho mọi vật liệu.
+
+08 / ỨNG SUẤT TRUNG BÌNH
+Hai chu kỳ có cùng biên độ nhưng ứng suất trung bình khác nhau có thể cho tuổi thọ khác nhau. Ứng suất trung bình kéo thường bất lợi cho mỏi. Goodman là một mô hình gần đúng để xét ảnh hưởng này trong phạm vi phù hợp. Điểm nằm dưới đường mô hình không tự chứng minh kết cấu an toàn hoặc có tuổi thọ vô hạn.
+
+09 / PHỔ TẢI VÀ TÍCH LŨY HƯ HẠI
+Với tải biến thiên, Rainflow giúp đếm chu kỳ từ lịch sử tải. Miner cộng các tỉ phần số chu kỳ đã dùng so với tuổi thọ ở từng nhóm. Ví dụ giả định: hai mươi nghìn trên một trăm nghìn, cộng một trăm nghìn trên năm trăm nghìn, cho tổng D bằng không phẩy bốn. Dưới một không bảo đảm chưa thể hỏng. Mô hình không mô tả đầy đủ thứ tự tải, tương tác và mọi cơ chế thực tế.
+
+10 / NẾU ĐÃ PHÁT HIỆN VẾT NỨT
+Khi đã phát hiện vết nứt, không nên lấy đường S N mẫu trơn để thay trực tiếp cho bài toán tuổi thọ còn lại. Thường cần đánh giá sự phát triển vết nứt bằng cách tiếp cận cơ học phá hủy phù hợp. Đàn hồi tuyến tính chỉ dùng khi thỏa các giả thiết. Kết quả còn phải gắn với khả năng phát hiện nứt và kế hoạch kiểm tra, không chỉ một con số chu kỳ.
+
+CHECKLIST THIẾT KẾ CHỐNG MỎI
+Muốn giảm nguy cơ mỏi, hãy xử lý tập trung ứng suất, bo góc hợp lý và kiểm soát chất lượng bề mặt. Đồng thời xác định phổ tải, chọn dữ liệu đúng điều kiện, xét độ tin cậy và kế hoạch kiểm chứng. Lưu lại để nhớ: chưa quá tải một lần không có nghĩa chịu được tải lặp mãi mãi.

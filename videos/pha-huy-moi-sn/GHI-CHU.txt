@@ -1,0 +1,22 @@
+PHÁ HỦY MỎI VÀ ĐƯỜNG CONG S–N
+Nguồn nội dung: PDF “HƯỚNG DẪN TOÀN DIỆN VỀ PHÁ HỦY MỎI VÀ ĐƯỜNG CONG S-N TRONG KỸ THUẬT” do người dùng cung cấp. Video diễn giải lại, không sao chép nguyên văn mọi kết luận trong tài liệu.
+
+QUY ƯỚC VÀ HIỆU CHỈNH
+- Trong video S = σa, biên độ ứng suất. Δσ = σmax − σmin và σa = Δσ/2. Chu kỳ +50 đến −50 MPa có phạm vi 100 MPa, biên độ 50 MPa, trung bình 0 và R = −1.
+- Mọi đường cong, mẫu nứt, sóng tải và dữ liệu chấm đều là minh họa giả định. Không có dữ liệu thử nghiệm vật liệu thực hay mô phỏng kết cấu được thực hiện.
+- Ví dụ σa = 50 MPa → N = 500.000 chỉ để đọc đồ thị. Ở 1 chu kỳ/phút liên tục, 500.000 phút ≈ 347,22 ngày. Đây là phép đổi đơn vị với giả thiết vận hành, không phải lịch hỏng hoặc dự báo chứng nhận.
+- S–N có phân tán và phụ thuộc vật liệu, hình học, bề mặt, R, môi trường, điều kiện thử. Không mặc định mọi thép có tuổi thọ vô hạn. Không mặc định dịch 2 độ lệch chuẩn tương ứng 1% hỏng; cần phân bố và mức tin cậy phù hợp.
+- HCF chủ yếu đàn hồi ở cấp vĩ mô, vẫn có thể có dẻo cục bộ; LCF có biến dạng dẻo chu kỳ đáng kể. Không phân loại chỉ bằng một ngưỡng số chu kỳ cố định.
+- Goodman là mô hình gần đúng: σa/Se + σm/Sut ≤ 1. Se chỉ phù hợp trong điều kiện xác định. Điểm dưới đường không tự bảo đảm an toàn hoặc tuổi thọ vô hạn; còn kiểm tra chảy, hệ số an toàn và phạm vi áp dụng.
+- Rainflow dùng đếm chu kỳ. Sóng tải vẽ chỉ minh họa, các nhóm chu kỳ ví dụ không được tính từ sóng này.
+- Miner D = Σni/Ni là gần đúng. Ví dụ 20.000/100.000 + 100.000/500.000 = 0,4. D < 1 không bảo đảm an toàn; thứ tự và tương tác tải ảnh hưởng kết quả. D ≈ 1 là quy ước dự báo, không phải định luật hỏng chính xác.
+- Khi đã có vết nứt, cần phương pháp đánh giá phát triển nứt/phá hủy phù hợp; không thay trực tiếp bằng S–N mẫu nhẵn. LEFM chỉ khi thỏa giả thiết, gồm điều kiện dẻo vùng nhỏ thích hợp.
+
+SẢN XUẤT VÀ GIẤY PHÉP
+Sơ đồ SVG và hoạt họa được dựng cho video này. Từ khóa quan trọng dùng chữ đậm, cam tương phản; nhánh sơ đồ tăng độ dày và màu phân biệt. Nhạc nền được tổng hợp riêng, không lấy âm thanh/khung hình từ video tham khảo.
+Giọng đọc tiếng Việt tổng hợp bằng sherpa-onnx 1.12.40, Piper vi_VN-vais1000-medium.
+Mô hình: https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+Nguồn dữ liệu giọng: VAIS1000 Vietnamese speech synthesis corpus, CC BY 4.0.
+https://ieee-dataport.org/documents/vais-1000-vietnamese-speech-synthesis-corpus
+https://creativecommons.org/licenses/by/4.0/
+Giọng đã điều chỉnh tốc độ và chuẩn hóa mức âm. Model card và giấy phép font DejaVu nằm trong gói mã nguồn. GSAP: xem thông báo trong gsap.min.js và https://gsap.com/standard-license/.

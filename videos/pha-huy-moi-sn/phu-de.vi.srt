@@ -1,0 +1,143 @@
+1
+00:00:00,650 --> 00:00:05,417
+Một chi tiết có thể gãy dù tải mỗi lần chưa làm nó vượt giới hạn chảy danh nghĩa.
+
+2
+00:00:05,677 --> 00:00:10,149
+Nguyên nhân có thể là phá hủy mỏi: hư hại phát triển dưới tác động của tải lặp lại.
+
+3
+00:00:10,410 --> 00:00:16,291
+Hãy nhìn vết nứt lớn dần, rồi học cách đọc đường cong S N để đánh giá tuổi thọ có căn cứ.
+
+4
+00:00:17,850 --> 00:00:22,786
+Quá trình thường đi qua ba giai đoạn: khởi tạo vết nứt, lan truyền, rồi gãy cuối cùng.
+
+5
+00:00:23,046 --> 00:00:27,172
+Trượt dẻo cục bộ có thể tích lũy gần bề mặt hoặc nơi tập trung ứng suất.
+
+6
+00:00:27,432 --> 00:00:34,301
+Khi vết nứt lớn, phần vật liệu còn chịu tải suy giảm. Vì vậy một sự cố nhìn như đột ngột có thể đã phát triển từ trước.
+
+7
+00:00:35,861 --> 00:00:40,316
+Phạm vi Δσ = σmax − σmin. Biên độ σa = Δσ/2.
+
+8
+00:00:40,576 --> 00:00:48,715
+Từ −50 đến +50 MPa: Δσ = 100 MPa; σa = 50 MPa; σm = 0.
+
+9
+00:00:48,975 --> 00:00:53,618
+Đảo chiều hoàn toàn, R = −1. Phạm vi 100 MPa không phải biên độ 100 MPa.
+
+10
+00:00:55,178 --> 00:01:00,822
+Thử nhiều mức biên độ, ghi số chu kỳ tới tiêu chí hỏng để lập đường cong S–N.
+
+11
+00:01:01,082 --> 00:01:07,699
+Quy ước video: S là biên độ σa; N là số chu kỳ, trên thang log.
+
+12
+00:01:07,959 --> 00:01:13,925
+R = −1 chỉ là một trường hợp thử. Phải kiểm tra R và điều kiện dữ liệu.
+
+13
+00:01:15,485 --> 00:01:20,490
+Ví dụ giả định: tại σa = 50 MPa, đọc N = 500.000 chu kỳ.
+
+14
+00:01:20,750 --> 00:01:26,957
+f = 1 chu kỳ/phút liên tục → t = 500.000 phút ≈ 347 ngày.
+
+15
+00:01:27,218 --> 00:01:32,288
+Dự báo theo giả thiết, không phải ngày hỏng chính xác.
+
+16
+00:01:33,847 --> 00:01:39,853
+Một số vật liệu có đường S N tiến tới vùng gần nằm ngang, thường được mô tả bằng giới hạn bền mỏi.
+
+17
+00:01:40,113 --> 00:01:45,856
+Nhưng không mặc định mọi loại thép hay mọi môi trường đều bảo đảm tuổi thọ vô hạn dưới một con số tra bảng.
+
+18
+00:01:46,117 --> 00:01:52,265
+Bề mặt, kích thước, tập trung ứng suất, ăn mòn và tải thực tế đều có thể làm thay đổi khả năng chịu mỏi.
+
+19
+00:01:53,825 --> 00:01:59,153
+Các mẫu tương tự có thể hỏng ở những số chu kỳ khác nhau. Vì vậy dữ liệu mỏi có phân tán.
+
+20
+00:01:59,413 --> 00:02:04,533
+Đường dùng trong thiết kế cần phù hợp độ tin cậy, phương pháp thống kê và tiêu chuẩn áp dụng.
+
+21
+00:02:04,792 --> 00:02:09,913
+Không thể mặc định cứ dịch hai độ lệch chuẩn là xác suất hỏng còn một phần trăm trong mọi trường hợp.
+
+22
+00:02:11,473 --> 00:02:17,241
+HCF: biến dạng vĩ mô chủ yếu đàn hồi; thường dùng cách tiếp cận S–N.
+
+23
+00:02:17,501 --> 00:02:24,973
+LCF: dẻo chu kỳ đáng kể; thường xét biến dạng–tuổi thọ, như Coffin–Manson.
+
+24
+00:02:25,232 --> 00:02:30,193
+Không dùng một ngưỡng số chu kỳ cứng nhắc để phân loại mọi vật liệu.
+
+25
+00:02:31,753 --> 00:02:36,477
+Hai chu kỳ có cùng biên độ nhưng ứng suất trung bình khác nhau có thể cho tuổi thọ khác nhau.
+
+26
+00:02:36,737 --> 00:02:43,160
+Ứng suất trung bình kéo thường bất lợi cho mỏi. Goodman là một mô hình gần đúng để xét ảnh hưởng này trong phạm vi phù hợp.
+
+27
+00:02:43,420 --> 00:02:47,991
+Điểm nằm dưới đường mô hình không tự chứng minh kết cấu an toàn hoặc có tuổi thọ vô hạn.
+
+28
+00:02:49,551 --> 00:02:57,361
+Rainflow đếm chu kỳ; Miner cộng D = Σ(ni/Ni) theo dữ liệu phù hợp.
+
+29
+00:02:57,621 --> 00:03:04,255
+Ví dụ: D = 20.000/100.000 + 100.000/500.000 = 0,4.
+
+30
+00:03:04,515 --> 00:03:10,922
+D < 1 không bảo đảm an toàn. Cần xét giới hạn mô hình và yêu cầu thiết kế.
+
+31
+00:03:12,482 --> 00:03:18,474
+Khi đã phát hiện vết nứt, không nên lấy đường S N mẫu trơn để thay trực tiếp cho bài toán tuổi thọ còn lại.
+
+32
+00:03:18,734 --> 00:03:26,041
+Thường cần đánh giá sự phát triển vết nứt bằng cách tiếp cận cơ học phá hủy phù hợp. Đàn hồi tuyến tính chỉ dùng khi thỏa các giả thiết.
+
+33
+00:03:26,301 --> 00:03:31,864
+Kết quả còn phải gắn với khả năng phát hiện nứt và kế hoạch kiểm tra, không chỉ một con số chu kỳ.
+
+34
+00:03:33,424 --> 00:03:39,338
+Muốn giảm nguy cơ mỏi, hãy xử lý tập trung ứng suất, bo góc hợp lý và kiểm soát chất lượng bề mặt.
+
+35
+00:03:39,598 --> 00:03:45,415
+Đồng thời xác định phổ tải, chọn dữ liệu đúng điều kiện, xét độ tin cậy và kế hoạch kiểm chứng.
+
+36
+00:03:45,676 --> 00:03:50,098
+Lưu lại để nhớ: chưa quá tải một lần không có nghĩa chịu được tải lặp mãi mãi.

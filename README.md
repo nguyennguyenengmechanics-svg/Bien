@@ -1,4 +1,23 @@
-## Video mới: Hệ số Poisson và định luật Hooke tổng quát
+## Video mới: Phá hủy mỏi và đường cong S–N
+
+**[TẢI VIDEO PHÁ HỦY MỎI & S–N — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/pha-huy-moi-sn/pha-huy-moi-duong-cong-sn.mp4)**
+
+Video dọc 1080 × 1920, 30 fps, dài khoảng 3 phút 51 giây. Minh họa ba giai đoạn nứt mỏi, biên độ và phạm vi ứng suất, đọc S–N, HCF/LCF, Goodman, Rainflow và Miner. Từ khóa in đậm, tô màu tương phản; nhánh sơ đồ xanh–cam rõ hơn. Có lời Việt tổng hợp, phụ đề và nhạc tự phối. Đồ thị và ví dụ chỉ minh họa.
+
+- [Phụ đề tiếng Việt](videos/pha-huy-moi-sn/phu-de.vi.srt)
+- [Lời dẫn](videos/pha-huy-moi-sn/loi-dan.txt)
+- [Caption TikTok](videos/pha-huy-moi-sn/CAPTION-TIKTOK.txt)
+- [Tải mã nguồn chỉnh sửa — ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/pha-huy-moi-sn/ma-nguon-video.zip)
+- [Giả thiết, hiệu chỉnh kỹ thuật, nguồn và giấy phép](videos/pha-huy-moi-sn/GHI-CHU.txt)
+- [Báo cáo kiểm tra](videos/pha-huy-moi-sn/KIEM-TRA.md)
+
+![Video phá hủy mỏi và đường cong S–N](videos/pha-huy-moi-sn/anh-bia.jpg)
+
+Nếu trình duyệt mở video, chọn **⋮ → Tải xuống**.
+
+---
+
+## Video: Hệ số Poisson và định luật Hooke tổng quát
 
 **[TẢI VIDEO POISSON & HOOKE — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/poisson-hooke/he-so-poisson-hooke-tong-quat.mp4)**
 
