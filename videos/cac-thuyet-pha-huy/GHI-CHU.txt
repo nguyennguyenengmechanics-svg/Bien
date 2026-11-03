@@ -1,0 +1,26 @@
+CÁC THUYẾT PHÁ HỦY TRONG CƠ HỌC VẬT LIỆU
+Nguồn: PDF “KHÁI NIỆM CỐT LÕI VỀ CÁC THUYẾT PHÁ HỦY TRONG CƠ HỌC VẬT LIỆU” do người dùng cung cấp. Video diễn giải và giới hạn phạm vi các nhận định; không xem mọi khẳng định trong tài liệu là quy luật phổ quát.
+
+QUY ƯỚC VÀ PHẠM VI
+- Kiểm tra bắt đầu chảy dẻo khác kiểm tra nứt gãy hoặc mất chức năng. Chảy dẻo có thể được cho phép trong một số phương pháp thiết kế; video xét trường hợp cần tránh bắt đầu chảy. Giới hạn chảy σy không đồng nhất với độ bền kéo cuối cùng Sut. Độ bền nén Suc dùng giá trị dương.
+- Ứng suất chính sắp σ1 ≥ σ2 ≥ σ3; kéo dương, nén âm. Trong ứng suất phẳng, σC=0 vẫn phải tham gia tìm cực trị; nó không mặc định là σ3 theo thứ tự.
+- σm=(σ1+σ2+σ3)/3, tensor ứng suất = σm I + s, với si=σi−σm. Diễn giải tách đổi thể tích/đổi hình dạng giả thiết đàn hồi tuyến tính đẳng hướng thích hợp.
+- Tresca và von Mises là mô hình chảy không nhạy áp suất phù hợp với nhiều kim loại đặc dẻo đẳng hướng; không phải mọi vật liệu dẻo. Áp suất có thể ảnh hưởng hư hại, độ dẻo phá hủy, nứt, vật liệu rỗng/xốp, polymer hay cơ chế khác. Không khẳng định kim loại chịu được áp suất vô hạn mà không hỏng.
+- σT=maxσi−minσi=2τmax. σVM=√[((σ1−σ2)²+(σ2−σ3)²+(σ3−σ1)²)/2]. Bắt đầu chảy khi ứng suất tương đương đạt σy trong mô hình.
+- Ví dụ giả định (120,40,−80) MPa, σy=250 MPa: σT=200 MPa, nT=1,25; σVM=√30400≈174,356 MPa; nVM≈1,4338. Các hệ số dự trữ này chưa phải xác nhận thiết kế đáp ứng hệ số an toàn yêu cầu; cách tính giả thiết tải tỷ lệ và dữ liệu phù hợp.
+- Trên mặt phẳng hai ứng suất chính chuẩn hóa, Tresca là max(|σA|,|σB|,|σA−σB|)=σy; von Mises là σA²−σAσB+σB²=σy². Lục giác nằm trong elip. Tresca thận trọng hơn về ngưỡng chảy khi cùng dữ liệu, không bảo đảm an toàn mọi cơ chế.
+- Cắt thuần túy có ứng suất chính (τ,0,−τ). Với σy=250 MPa: τT=125 MPa, τVM=250/√3≈144,338 MPa. Chênh lệch 15,47% dùng ngưỡng Tresca làm mẫu số; dùng ngưỡng von Mises làm mẫu số sẽ là 13,40%. Không phải phần trăm độ chính xác.
+- Nhiều, không phải mọi, vật liệu giòn có Suc lớn hơn Sut nhiều. Rankine có thể hữu ích cho một số kiểm tra giòn, thường không phù hợp thay thế Tresca/von Mises để dự báo chảy kim loại dẻo dưới ứng suất tổng quát.
+- Coulomb–Mohr trong miền kéo–nén σ1≥0≥σ3: ICM=σ1/Sut−σ3/Suc. Ví dụ Sut=100, Suc=300, σ1=40, σ3=−120 MPa → ICM=0,8. Ngưỡng là1 trước hệ số an toàn; nếu yêu cầu n thì kiểm tra thích hợp ICM≤1/n với giả thiết tải tỷ lệ.
+- Mohr sửa đổi dùng công thức từng miền, có thể phù hợp một số dữ liệu giòn hơn Coulomb–Mohr; không khẳng định tối ưu mọi vật liệu. Video giới thiệu định tính, không đưa công thức đầy đủ mọi miền hay nhầm nó với công thức Coulomb–Mohr.
+- Không suy rộng rằng mọi mô hình giòn đều có mặt phá hủy hình nón/kim tự tháp hoặc mọi tiêu chí đều chịu ảnh hưởng thủy tĩnh giống nhau.
+- Không có bài toán FEA hay thí nghiệm vật liệu được thực hiện. Đường cong ứng suất–biến dạng, hình vỡ và sơ đồ khối là minh họa; đường giới hạn Tresca/von Mises được dựng từ phương trình mô hình. Kiểm tra tĩnh không thay thế mỏi, cơ học nứt, mất ổn định và các yêu cầu chức năng khác.
+
+SẢN XUẤT VÀ NGUỒN TÀI NGUYÊN
+HTML/SVG + GSAP, giọng Việt tổng hợp, phụ đề theo từng đoạn lời đọc. Từ khóa in đậm và tô cam; dữ liệu/nhánh phân tích dùng xanh, nhánh nứt giòn/cảnh báo dùng cam. Nhạc được tổng hợp riêng theo phong cách các video trước. Không sao chép khung hình hoặc âm thanh từ video tham khảo.
+Giọng: sherpa-onnx 1.12.40, Piper vi_VN-vais1000-medium, đã điều chỉnh tốc độ và chuẩn hóa âm lượng.
+Mô hình: https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+Dữ liệu giọng: VAIS1000 Vietnamese speech synthesis corpus, CC BY 4.0.
+https://ieee-dataport.org/documents/vais-1000-vietnamese-speech-synthesis-corpus
+https://creativecommons.org/licenses/by/4.0/
+Model card và giấy phép font DejaVu trong assets. GSAP: xem thông báo trong gsap.min.js và https://gsap.com/standard-license/.

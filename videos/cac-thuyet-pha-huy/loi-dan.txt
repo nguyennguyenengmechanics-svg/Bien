@@ -1,0 +1,32 @@
+CÁC THUYẾT PHÁ HỦY
+Chi tiết chưa gãy chưa chắc còn dùng tốt. Biến dạng dư cũng có thể làm nó mất chức năng. Với nhiều kim loại dẻo, ta kiểm tra bắt đầu chảy dẻo. Với vật liệu giòn, cần chú ý nứt gãy. Vậy giữa Tresca, von Mises và các thuyết Mohr, chọn cách nào? Hãy bắt đầu từ cơ chế hỏng.
+
+01 / MỐC GIỚI HẠN
+Trong thử kéo kim loại dẻo, giới hạn chảy đánh dấu mốc xuất hiện biến dạng dẻo theo quy ước thử. Sau khi bỏ tải, phần biến dạng này không hồi phục hoàn toàn. Nhưng chi tiết chưa nhất thiết đã đứt. Vật liệu giòn thường nứt gãy khi biến dạng dẻo còn nhỏ. Độ bền kéo và nén phải phân biệt. Không được gán độ bền kéo cuối cùng bằng giới hạn chảy chỉ vì vật liệu được gọi là dẻo.
+
+02 / TỪ ĐƠN TRỤC ĐẾN ĐA TRỤC
+Chi tiết thực có thể chịu ứng suất theo nhiều phương. Ta tìm ba ứng suất chính tại điểm đang xét. Quy ước ở đây: xích ma một lớn hơn hoặc bằng xích ma hai, rồi đến xích ma ba. Kéo dương, nén âm. Với mô hình chảy dẻo phù hợp, ta quy đổi chúng thành ứng suất tương đương để so với giới hạn chảy. Giá trị tương đương phụ thuộc tiêu chí. Nó không phải một ứng suất pháp thực trên mọi mặt cắt.
+
+03 / TÁCH HAI THÀNH PHẦN
+Ứng suất có thể tách thành phần thủy tĩnh và phần lệch. Trong đàn hồi đẳng hướng, chúng gắn với đổi thể tích và đổi hình dạng. Với nhiều kim loại đặc, dẻo và đẳng hướng, Tresca cùng von Mises mô tả chảy dẻo do phần lệch. Cộng cùng một ứng suất vào cả ba phương sẽ không đổi dự báo chảy của hai mô hình này. Điều đó không bảo đảm không hỏng. Áp suất vẫn có thể ảnh hưởng hư hại, nứt và vật liệu nhạy áp suất.
+
+04 / TRESCA
+Tresca nhìn ứng suất cắt lớn nhất: bằng một nửa chênh lệch giữa ứng suất chính lớn nhất và nhỏ nhất. Đặt ứng suất tương đương Tresca bằng chính độ chênh này. Bắt đầu chảy khi nó đạt giới hạn chảy đơn trục. Ví dụ giả định: ba ứng suất chính là một trăm hai mươi, bốn mươi và âm tám mươi mê ga pas can. Kết quả Tresca bằng hai trăm mê ga pas can. Nếu giới hạn chảy là hai trăm năm mươi, hệ số dự trữ theo mô hình bằng một phẩy hai lăm.
+
+05 / VON MISES
+Von Mises dùng tổ hợp bình phương của cả ba hiệu ứng suất chính. Nó gắn với năng lượng biến dạng lệch. Vẫn ví dụ vừa rồi: các độ chênh là tám mươi, một trăm hai mươi và hai trăm mê ga pas can. Ứng suất von Mises xấp xỉ một trăm bảy mươi tư mê ga pas can. Hệ số dự trữ xấp xỉ một phẩy bốn ba. Đây là kết quả của mô hình với dữ liệu giả định. Chưa đủ để kết luận một thiết kế thực đạt mọi yêu cầu.
+
+06 / SO SÁNH HAI TIÊU CHÍ
+Trên mặt phẳng hai ứng suất chính, đường giới hạn Tresca là lục giác. Von Mises là elip bao ngoài. Ứng suất chính thứ ba bằng không vẫn phải được đưa vào phép tìm lớn nhất và nhỏ nhất. Vì vậy hai ứng suất kéo bằng nhau không làm ứng suất tương đương bằng không trong trạng thái ứng suất phẳng. Cùng giới hạn chảy, Tresca cho tải bắt đầu chảy thấp hơn hoặc bằng von Mises. Đây không phải bảo đảm an toàn cho mọi cơ chế.
+
+07 / CẮT THUẦN TÚY
+Ở cắt thuần túy, ba ứng suất chính là tao, không và âm tao. Nếu giới hạn chảy là hai trăm năm mươi mê ga pas can, Tresca cho ngưỡng cắt một trăm hai mươi lăm. Von Mises cho khoảng một trăm bốn mươi bốn mê ga pas can. Mức này cao hơn Tresca khoảng mười lăm phẩy năm phần trăm. Con số phần trăm phải nói rõ mẫu số. Không có nghĩa von Mises luôn chính xác hơn đúng mười lăm phẩy năm phần trăm.
+
+08 / VẬT LIỆU GIÒN
+Nhiều vật liệu giòn chịu nén tốt hơn chịu kéo. Vì vậy không nên dùng một giá trị độ bền chung cho cả hai. Tiêu chí ứng suất chính lớn nhất, thường gọi là Rankine, là một lựa chọn đơn giản cho một số bài toán giòn. Coulomb Mohr xét cả độ bền kéo và nén. Trong vùng kéo nén kết hợp, hai ứng suất cực trị cùng ảnh hưởng chỉ số. Không nên dùng riêng màu von Mises trên bản đồ mô phỏng để kết luận một chi tiết giòn sẽ không nứt.
+
+09 / COULOMB–MOHR VÀ MOHR SỬA ĐỔI
+Ví dụ giả định: độ bền kéo một trăm, độ bền nén ba trăm. Ứng suất lớn nhất bốn mươi, nhỏ nhất âm một trăm hai mươi, cùng đơn vị. Chỉ số Coulomb Mohr trong miền kéo nén bằng không phẩy bốn cộng không phẩy bốn, tức không phẩy tám. Ngưỡng mô hình là một, trước khi đưa hệ số an toàn yêu cầu vào kiểm tra. Mohr sửa đổi điều chỉnh từng miền để phù hợp hơn với một số dữ liệu vật liệu giòn. Nó không phải lựa chọn tốt nhất cho mọi vật liệu.
+
+10 / CÂY LỰA CHỌN
+Trước hết xác định cơ chế mất chức năng, đặc tính vật liệu và điều kiện làm việc. Với chảy dẻo kim loại phù hợp, xét Tresca hoặc von Mises. Với nứt giòn, chọn tiêu chí và dữ liệu kéo nén thích hợp. Kiểm tra thêm hệ số an toàn, điều kiện biên, hội tụ mô phỏng và kết quả thực nghiệm khi cần. Lưu lại để nhớ: một công thức đúng chỉ có ích khi được dùng cho đúng cơ chế và đúng phạm vi.

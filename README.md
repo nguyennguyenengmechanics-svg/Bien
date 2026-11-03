@@ -1,4 +1,23 @@
-## Video mới: Phá hủy mỏi và đường cong S–N
+## Video mới: Các thuyết phá hủy trong cơ học vật liệu
+
+**[TẢI VIDEO CÁC THUYẾT PHÁ HỦY — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/cac-thuyet-pha-huy/cac-thuyet-pha-huy.mp4)**
+
+Video dọc 1080 × 1920, 30 fps, dài khoảng 4 phút 31 giây. Phân biệt chảy dẻo và nứt gãy; tách thủy tĩnh–lệch; so sánh Tresca, von Mises bằng ví dụ số và đồ thị lục giác–elip. Giải thích chênh lệch 15,5% ở cắt thuần túy, giới thiệu Rankine, Coulomb–Mohr và Mohr sửa đổi trong phạm vi phù hợp. Có cây lựa chọn, từ khóa in đậm tô màu, lời Việt tổng hợp, phụ đề và nhạc nền.
+
+- [Phụ đề tiếng Việt](videos/cac-thuyet-pha-huy/phu-de.vi.srt)
+- [Lời dẫn](videos/cac-thuyet-pha-huy/loi-dan.txt)
+- [Caption TikTok](videos/cac-thuyet-pha-huy/CAPTION-TIKTOK.txt)
+- [Tải mã nguồn chỉnh sửa — ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/cac-thuyet-pha-huy/ma-nguon-video.zip)
+- [Giả thiết, hiệu chỉnh kỹ thuật, nguồn và giấy phép](videos/cac-thuyet-pha-huy/GHI-CHU.txt)
+- [Báo cáo kiểm tra](videos/cac-thuyet-pha-huy/KIEM-TRA.md)
+
+![Video các thuyết phá hủy](videos/cac-thuyet-pha-huy/anh-bia.jpg)
+
+Nếu trình duyệt mở video, chọn **⋮ → Tải xuống**.
+
+---
+
+## Video: Phá hủy mỏi và đường cong S–N
 
 **[TẢI VIDEO PHÁ HỦY MỎI & S–N — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/pha-huy-moi-sn/pha-huy-moi-duong-cong-sn.mp4)**
 
