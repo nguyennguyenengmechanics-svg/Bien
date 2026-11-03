@@ -1,0 +1,143 @@
+1
+00:00:00,650 --> 00:00:04,792
+Đổi sang thép có độ bền cao hơn, dầm có chắc chắn bớt võng không?
+
+2
+00:00:05,052 --> 00:00:09,951
+Chưa chắc. Độ bền cho biết ngưỡng chịu đựng; mô đun Young mô tả độ cứng đàn hồi của vật liệu.
+
+3
+00:00:10,211 --> 00:00:14,643
+Hãy đi từ liên kết nguyên tử đến hình dạng kết cấu để thấy sự khác biệt.
+
+4
+00:00:16,202 --> 00:00:22,456
+Trong phép thử kéo, cảm biến lực đo lực tác dụng, còn thiết bị đo độ giãn theo dõi đoạn đo của mẫu.
+
+5
+00:00:22,716 --> 00:00:29,604
+Từ lực và diện tích ban đầu, ta tính ứng suất kỹ thuật. Từ độ dãn và chiều dài ban đầu, ta tính biến dạng kỹ thuật.
+
+6
+00:00:29,864 --> 00:00:33,359
+Kết hợp hai đại lượng này, ta có đồ thị ứng suất, biến dạng.
+
+7
+00:00:34,919 --> 00:00:39,738
+Trong miền đàn hồi tuyến tính, mô đun Young là độ dốc của đồ thị ứng suất, biến dạng.
+
+8
+00:00:39,998 --> 00:00:46,751
+Cùng một ứng suất, đường dốc hơn cho biến dạng nhỏ hơn. Vì vậy, E lớn nghĩa là vật liệu khó biến dạng đàn hồi hơn.
+
+9
+00:00:47,011 --> 00:00:51,514
+E thường được ghi bằng gi ga pas can. Đừng kéo công thức tuyến tính qua mọi miền vật liệu.
+
+10
+00:00:53,074 --> 00:00:56,463
+Hãy hình dung liên kết giữa các nguyên tử như những lò xo nhỏ.
+
+11
+00:00:56,723 --> 00:01:01,596
+Khi kéo nhẹ, khoảng cách nguyên tử thay đổi; lực liên kết chống lại sự thay đổi ấy.
+
+12
+00:01:01,856 --> 00:01:10,214
+Trong mô hình đàn hồi lý tưởng, bỏ tải thì các nguyên tử trở về gần vị trí cân bằng. Hình trên chỉ minh họa cơ chế, không phải mô phỏng nguyên tử thực.
+
+13
+00:01:11,774 --> 00:01:15,693
+Trên đường thế năng liên kết, vị trí cân bằng nằm ở đáy giếng năng lượng.
+
+14
+00:01:15,953 --> 00:01:21,182
+Độ cong quanh đáy càng lớn, lực phục hồi cho một dịch chuyển nhỏ càng lớn: liên kết càng cứng.
+
+15
+00:01:21,442 --> 00:01:27,513
+Nhưng không thể đồng nhất độ cứng một liên kết với mô đun Young. Còn phải xét cách các liên kết tạo nên cấu trúc vật liệu.
+
+16
+00:01:29,073 --> 00:01:33,641
+Biến dạng dẻo trong kim loại thường liên quan đến chuyển động lệch và trượt trong tinh thể.
+
+17
+00:01:33,901 --> 00:01:38,233
+Các nguyên tử sắp xếp lại, nên tháo tải không phục hồi được toàn bộ biến dạng.
+
+18
+00:01:38,493 --> 00:01:44,990
+Đây là cơ chế khác với việc chỉ kéo giãn đàn hồi liên kết. Không nên hiểu rằng mọi liên kết trong mẫu đều đồng loạt đứt.
+
+19
+00:01:46,551 --> 00:01:49,076
+Các nhóm vật liệu có mô đun Young rất khác nhau.
+
+20
+00:01:49,336 --> 00:01:55,175
+Ví dụ minh họa E: polyme 2, nhôm 70, thép 200, một loại gốm 300 GPa.
+
+21
+00:01:55,435 --> 00:02:02,939
+Không phải hằng số cho cả nhóm. Với vật liệu cụ thể, phải xét đúng nhiệt độ, thời gian và điều kiện thử.
+
+22
+00:02:04,499 --> 00:02:09,204
+Với gỗ hoặc composite định hướng, độ cứng có thể thay đổi mạnh theo hướng đặt tải.
+
+23
+00:02:09,464 --> 00:02:12,972
+Kéo dọc sợi và kéo ngang sợi không nhất thiết cho cùng mô đun Young.
+
+24
+00:02:13,232 --> 00:02:19,291
+Vì vậy, một con số E duy nhất có thể chưa đủ. Cần xét phương tải, hướng sợi và cách bố trí các lớp.
+
+25
+00:02:20,851 --> 00:02:25,836
+Thành phần và xử lý nhiệt có thể làm thay đổi đáng kể giới hạn chảy của thép.
+
+26
+00:02:26,096 --> 00:02:31,593
+Trong khi đó, E của nhiều loại thép vẫn gần 200–210 GPa.
+
+27
+00:02:31,853 --> 00:02:40,195
+Cùng hình học, tải và miền đàn hồi: thép bền cao có thể võng gần như thép thường. E không tăng tương ứng độ bền.
+
+28
+00:02:41,755 --> 00:02:47,763
+Dầm tựa hai đầu, lực giữa nhịp; mô hình dầm mảnh, đàn hồi tuyến tính.
+
+29
+00:02:48,023 --> 00:02:52,741
+Độ võng giữa nhịp: δ = FL³ / (48EI).
+
+30
+00:02:53,001 --> 00:02:59,203
+Giữ các yếu tố khác: E × 2 → δ / 2. L × 2 → δ × 8.
+
+31
+00:03:00,763 --> 00:03:04,511
+Ví dụ: cùng tiết diện chữ nhật 40 × 10 mm, xoay hướng đặt.
+
+32
+00:03:04,770 --> 00:03:11,319
+Diện tích A không đổi. Với I = bh³ / 12, mô men quán tính theo phương uốn tăng 16 lần.
+
+33
+00:03:11,579 --> 00:03:20,185
+Giữ E, tải, nhịp và gối đỡ: độ võng lý thuyết còn 1/16. Vẫn phải kiểm tra các ràng buộc và cơ chế hỏng khác.
+
+34
+00:03:21,745 --> 00:03:26,614
+Mô đun Young nối cơ chế liên kết vi mô với đáp ứng đàn hồi mà ta thấy ở kết cấu.
+
+35
+00:03:26,874 --> 00:03:31,667
+Nhưng chọn vật liệu tốt phải xét cùng hình học, tải, hướng vật liệu và điều kiện làm việc.
+
+36
+00:03:31,927 --> 00:03:37,801
+Hãy nhớ: độ bền cao chưa chắc ít võng; đúng E vẫn cần đúng mô hình. Lưu lại để dùng khi thiết kế nhé.

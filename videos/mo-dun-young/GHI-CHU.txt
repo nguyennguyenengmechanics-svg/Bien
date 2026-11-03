@@ -1,0 +1,27 @@
+MÔ ĐUN YOUNG: TỪ LIÊN KẾT NGUYÊN TỬ ĐẾN ĐỘ VÕNG
+
+Nguồn: PDF “BÁO CÁO KỸ THUẬT CHUYÊN SÂU: CƠ CHẾ NGUYÊN TỬ VÀ ỨNG DỤNG CỦA MÔ ĐUN YOUNG TRONG THIẾT KẾ KẾT CẤU VÀ LỰA CHỌN VẬT LIỆU” do người dùng cung cấp.
+
+Video gồm 12 cảnh; hình vẽ và chuyển động được tạo riêng. Các lò xo nguyên tử, giếng thế năng, mạng trượt và đồ thị vật liệu là minh họa định tính, không phải mô phỏng nguyên tử, dữ liệu đo hay vật liệu cụ thể. Chuyển động nguyên tử, độ võng và độ giãn được phóng đại để nhìn rõ.
+
+Hiệu chỉnh và giới hạn kỹ thuật:
+- E là độ dốc trong miền đàn hồi tuyến tính; không đánh đồng mọi biến dạng đàn hồi với một quan hệ tuyến tính duy nhất.
+- Độ cong thế năng gần r0 liên quan độ cứng liên kết. Không đồng nhất trực tiếp k nguyên tử (đơn vị N/m) với E (đơn vị Pa); cấu trúc, mật độ và hướng liên kết còn đóng vai trò.
+- Trượt mạng chỉ minh họa biến đổi tương đối không hồi phục. Không thể coi đó là quỹ đạo thực của lệch hoặc nói mọi liên kết cùng đứt.
+- Không khẳng định gốm luôn cứng nhất hoặc mọi polyme, kim loại đều có cùng E. Các số E = 2, 70, 200, 300 GPa là giá trị đại diện minh họa trong dải tài liệu, không phải bảng chọn mác; biểu đồ dùng thang tuyến tính.
+- Gỗ và composite có thể dị hướng; cần xét hướng sợi, phương tải và cấu trúc các lớp.
+- E của nhiều loại thép gần 200–210 GPa nhưng không tuyệt đối bất biến theo thành phần, vi cấu trúc, hướng và nhiệt độ. So sánh độ võng được giới hạn cùng hình học, tải và cả hai còn trong miền đàn hồi tuyến tính, E gần nhau.
+- Công thức δ = FL³/(48EI) áp dụng minh họa cho dầm thẳng, tiết diện không đổi, gối tựa hai đầu, lực tập trung giữa nhịp, theo lý thuyết Euler–Bernoulli, biến dạng nhỏ, đàn hồi tuyến tính; bỏ qua biến dạng cắt. Không áp dụng hệ số 1/48 cho mọi liên kết và dạng tải.
+- Ví dụ tiết diện 40 × 10 mm bổ sung từ I = bh³/12: đặt nằm I = 3333,333 mm4; đặt đứng I = 53333,333 mm4; cùng A = 400 mm2, tỉ số I = 16. Khi giữ E, tải, nhịp và liên kết, độ võng trong mô hình trên còn 1/16. Xoay tiết diện không tự chứng minh ổn định hay độ bền; phải kiểm tra các ràng buộc thiết kế khác.
+- Báo cáo nguồn gọi E, G, K là ba hằng số độc lập. Video không lặp lại nhận định đó: với vật liệu đàn hồi tuyến tính đẳng hướng, chỉ cần hai hằng số độc lập để xác định các quan hệ đàn hồi; vật liệu dị hướng cần mô tả khác.
+- Không có lựa chọn vật liệu nào tự bảo đảm tuyệt đối an toàn. Cần kiểm tra cả độ bền, độ võng, ổn định, liên kết và điều kiện dùng.
+
+Lời đọc tiếng Việt tổng hợp theo câu. Phụ đề đồng bộ theo mốc câu; ký hiệu và số trên phụ đề được chuẩn hóa để dễ đọc, không tuyên bố căn từng từ bằng nhận dạng giọng nói.
+Giọng Piper vi_VN-vais1000-medium qua sherpa-onnx 1.12.40.
+Mô hình: https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+Attribution: VAIS1000 Vietnamese speech synthesis corpus, CC BY 4.0.
+https://ieee-dataport.org/documents/vais-1000-vietnamese-speech-synthesis-corpus
+https://creativecommons.org/licenses/by/4.0/
+Font: DejaVu Serif Bold và DejaVu Sans; giấy phép kèm mã nguồn.
+Nhạc và tín hiệu chuyển mục được tổng hợp riêng; không dùng bản thu thương mại, footage hay khuôn mặt từ video tham chiếu.
+Dựng bằng HyperFrames, GSAP, Chromium và FFmpeg.

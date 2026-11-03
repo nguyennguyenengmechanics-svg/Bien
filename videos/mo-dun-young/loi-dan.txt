@@ -1,0 +1,35 @@
+MÔ ĐUN YOUNG / HIỂU BẰNG HÌNH
+Đổi sang thép có độ bền cao hơn, dầm có chắc chắn bớt võng không? Chưa chắc. Độ bền cho biết ngưỡng chịu đựng; mô đun Young mô tả độ cứng đàn hồi của vật liệu. Hãy đi từ liên kết nguyên tử đến hình dạng kết cấu để thấy sự khác biệt.
+
+01 / ĐO TRONG PHÒNG THỬ
+Trong phép thử kéo, cảm biến lực đo lực tác dụng, còn thiết bị đo độ giãn theo dõi đoạn đo của mẫu. Từ lực và diện tích ban đầu, ta tính ứng suất kỹ thuật. Từ độ dãn và chiều dài ban đầu, ta tính biến dạng kỹ thuật. Kết hợp hai đại lượng này, ta có đồ thị ứng suất, biến dạng.
+
+02 / ĐỘ DỐC ĐÀN HỒI
+Trong miền đàn hồi tuyến tính, mô đun Young là độ dốc của đồ thị ứng suất, biến dạng. Cùng một ứng suất, đường dốc hơn cho biến dạng nhỏ hơn. Vì vậy, E lớn nghĩa là vật liệu khó biến dạng đàn hồi hơn. E thường được ghi bằng gi ga pas can. Đừng kéo công thức tuyến tính qua mọi miền vật liệu.
+
+03 / PHÓNG TO ĐẾN NGUYÊN TỬ
+Hãy hình dung liên kết giữa các nguyên tử như những lò xo nhỏ. Khi kéo nhẹ, khoảng cách nguyên tử thay đổi; lực liên kết chống lại sự thay đổi ấy. Trong mô hình đàn hồi lý tưởng, bỏ tải thì các nguyên tử trở về gần vị trí cân bằng. Hình trên chỉ minh họa cơ chế, không phải mô phỏng nguyên tử thực.
+
+04 / GIẾNG THẾ NĂNG
+Trên đường thế năng liên kết, vị trí cân bằng nằm ở đáy giếng năng lượng. Độ cong quanh đáy càng lớn, lực phục hồi cho một dịch chuyển nhỏ càng lớn: liên kết càng cứng. Nhưng không thể đồng nhất độ cứng một liên kết với mô đun Young. Còn phải xét cách các liên kết tạo nên cấu trúc vật liệu.
+
+05 / VÌ SAO CÒN BIẾN DẠNG DƯ?
+Biến dạng dẻo trong kim loại thường liên quan đến chuyển động lệch và trượt trong tinh thể. Các nguyên tử sắp xếp lại, nên tháo tải không phục hồi được toàn bộ biến dạng. Đây là cơ chế khác với việc chỉ kéo giãn đàn hồi liên kết. Không nên hiểu rằng mọi liên kết trong mẫu đều đồng loạt đứt.
+
+06 / SO SÁNH VẬT LIỆU
+Các nhóm vật liệu có mô đun Young rất khác nhau. Ví dụ minh họa: polyme hai, nhôm bảy mươi, thép hai trăm, và một loại gốm ba trăm gi ga pas can. Đó không phải hằng số cho cả nhóm. Polyme còn nhạy với nhiệt độ và thời gian; vật liệu cụ thể phải được tra và kiểm chứng đúng điều kiện.
+
+07 / HƯỚNG SỢI QUAN TRỌNG
+Với gỗ hoặc composite định hướng, độ cứng có thể thay đổi mạnh theo hướng đặt tải. Kéo dọc sợi và kéo ngang sợi không nhất thiết cho cùng mô đun Young. Vì vậy, một con số E duy nhất có thể chưa đủ. Cần xét phương tải, hướng sợi và cách bố trí các lớp.
+
+08 / THÉP BỀN CAO KHÔNG ĐỒNG NGHĨA E CAO
+Thay thành phần hoặc xử lý nhiệt có thể làm thay đổi đáng kể giới hạn chảy của thép. Trong khi đó, mô đun Young của nhiều loại thép vẫn gần hai trăm đến hai trăm mười gi ga pas can. Bởi vậy, cùng hình học và tải, nếu cả hai còn đàn hồi, thép bền cao có thể võng gần như thép thường. Bền hơn không có nghĩa E tăng tương ứng.
+
+09 / TỪ VẬT LIỆU ĐẾN DẦM
+Xét dầm đơn giản tựa hai đầu, chịu một lực ở giữa nhịp, theo mô hình dầm mảnh đàn hồi tuyến tính. Độ võng giữa nhịp tỉ lệ nghịch với E nhân I, và tỉ lệ với lập phương chiều dài nhịp. Giữ các yếu tố khác như nhau: tăng E gấp đôi thì võng giảm một nửa; tăng nhịp gấp đôi thì võng tăng tám lần.
+
+10 / XOAY TIẾT DIỆN, ĐỔI ĐỘ CỨNG
+Một ví dụ trực quan: tiết diện chữ nhật bốn mươi nhân mười milimét. Xoay từ đặt nằm sang đặt đứng, diện tích không đổi, nhưng mô men quán tính diện tích theo phương uốn tăng mười sáu lần. Với cùng E và các điều kiện dầm như trước, độ võng lý thuyết còn một phần mười sáu. Tuy nhiên vẫn phải xét không gian, liên kết và các cơ chế hỏng khác.
+
+GHI NHỚ KHI CHỌN VẬT LIỆU
+Mô đun Young nối cơ chế liên kết vi mô với đáp ứng đàn hồi mà ta thấy ở kết cấu. Nhưng chọn vật liệu tốt phải xét cùng hình học, tải, hướng vật liệu và điều kiện làm việc. Hãy nhớ: độ bền cao chưa chắc ít võng; đúng E vẫn cần đúng mô hình. Lưu lại để dùng khi thiết kế nhé.

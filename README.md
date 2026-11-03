@@ -1,4 +1,23 @@
-## Video mới: Ứng suất, biến dạng và đánh giá độ bền
+## Video mới: Mô đun Young — từ nguyên tử đến độ võng
+
+**[TẢI VIDEO MÔ ĐUN YOUNG — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/mo-dun-young/mo-dun-young-nguyen-tu-ket-cau.mp4)**
+
+Video dọc 1080 × 1920, 30 fps, dài khoảng 3 phút 39 giây. Liên kết nguyên tử giãn–hồi, mạng tinh thể trượt, giếng thế năng, đồ thị E, dầm võng và tiết diện xoay được minh họa bằng chuyển động. Giải thích vì sao thép bền hơn chưa chắc ít võng, và vì sao cùng lượng vật liệu nhưng đổi hướng tiết diện có thể thay đổi độ cứng uốn. Có giọng Việt tổng hợp, phụ đề và nhạc tự phối.
+
+- [Phụ đề tiếng Việt](videos/mo-dun-young/phu-de.vi.srt)
+- [Lời dẫn](videos/mo-dun-young/loi-dan.txt)
+- [Caption TikTok](videos/mo-dun-young/CAPTION-TIKTOK.txt)
+- [Tải mã nguồn chỉnh sửa — ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/mo-dun-young/ma-nguon-video.zip)
+- [Giả thiết kỹ thuật, nguồn và giấy phép](videos/mo-dun-young/GHI-CHU.txt)
+- [Báo cáo kiểm tra](videos/mo-dun-young/KIEM-TRA.md)
+
+![Video mô đun Young — từ nguyên tử đến kết cấu](videos/mo-dun-young/anh-bia.jpg)
+
+Nếu trình duyệt mở video, chọn **⋮ → Tải xuống**; trên máy tính có thể nhấn chuột phải vào liên kết và chọn **Lưu liên kết thành…**.
+
+---
+
+## Video: Ứng suất, biến dạng và đánh giá độ bền
 
 **[TẢI VIDEO ỨNG SUẤT & BIẾN DẠNG — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/ung-suat-bien-dang/ung-suat-bien-dang-do-ben.mp4)**
 
