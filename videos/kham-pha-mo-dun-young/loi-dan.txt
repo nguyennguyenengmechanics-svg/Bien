@@ -1,0 +1,35 @@
+KHÁM PHÁ MÔ ĐUN YOUNG
+Một thanh thép dày hơn khó kéo dãn hơn. Vậy mô đun Young của nó có lớn hơn không? Không nhất thiết. Ta cần tách độ cứng của vật liệu khỏi độ cứng của cả chi tiết. Hãy bắt đầu từ phép thử kéo, rồi thử tự đọc và tính E qua một ví dụ đơn giản.
+
+01 / BẮT ĐẦU BẰNG PHÉP THỬ KÉO
+Mẫu thử được kẹp vào máy và kéo dọc trục. Thiết bị ghi lực, đồng thời đo độ dãn trên một đoạn đo xác định. Lực và độ dãn còn phụ thuộc kích thước mẫu, không chỉ bản thân vật liệu. Vì thế, cần biết diện tích mặt cắt ban đầu và chiều dài đoạn đo ban đầu để chuẩn hóa dữ liệu.
+
+02 / CHUẨN HÓA DỮ LIỆU
+Lấy lực chia diện tích ban đầu, ta được ứng suất kỹ thuật. Lấy độ dãn chia chiều dài ban đầu, ta được biến dạng kỹ thuật. Với cùng vật liệu và chiều dài trong đàn hồi tuyến tính, thanh có diện tích gấp đôi cần lực gấp đôi để đạt cùng độ dãn. Nhưng sau chuẩn hóa, cả hai có thể cho cùng độ dốc ứng suất, biến dạng.
+
+03 / ĐỘ DỐC LÀ MÔ ĐUN YOUNG
+Trên phần tuyến tính của đồ thị, mô đun Young là độ dốc: độ tăng ứng suất chia độ tăng biến dạng. Cùng một ứng suất, E lớn hơn thì biến dạng đàn hồi nhỏ hơn. Đừng nhầm E với giới hạn chảy hoặc độ cứng chống ấn lõm; chúng mô tả những đặc tính khác nhau.
+
+04 / CÙNG TÍNH MỘT VÍ DỤ
+Giả sử đo được lực mười ki lô niu tơn, diện tích một trăm milimét vuông, chiều dài một trăm milimét và độ dãn không phẩy không năm milimét. Ứng suất bằng một trăm mê ga pas can. Biến dạng bằng không phẩy không không không năm. Lấy ứng suất chia biến dạng, ta được hai trăm nghìn mê ga pas can, tức hai trăm gi ga pas can.
+
+05 / LỖI PHẦN TRĂM RẤT DỄ GẶP
+Trong ví dụ vừa rồi, biến dạng không phẩy không không không năm cũng chính là không phẩy không năm phần trăm. Nếu nhập nhầm không phẩy không năm vào mẫu số, E tính ra sẽ nhỏ hơn một trăm lần. Vì vậy, hãy đổi phần trăm thành số thập phân và kiểm tra đơn vị trước khi kết luận vật liệu mềm hay cứng.
+
+06 / NHÌN ĐẾN LIÊN KẾT NGUYÊN TỬ
+Có thể hình dung liên kết giữa nguyên tử như những lò xo nhỏ. Kéo nhẹ làm thay đổi khoảng cách nguyên tử. Khi bỏ tải trong mô hình đàn hồi lý tưởng, lực liên kết đưa chúng về gần vị trí cân bằng. Đây chỉ là hình dung đơn giản hóa; E còn liên quan đến cấu trúc, mật độ và hướng liên kết của vật liệu.
+
+07 / DẺO LÀ MỘT CƠ CHẾ KHÁC
+Biến dạng dẻo trong kim loại thường gắn với chuyển động lệch và trượt trong tinh thể. Sau khi cấu trúc đã sắp xếp lại, tháo tải không phục hồi toàn bộ biến dạng. Không phải mọi vật liệu đều có một vùng dẻo dài rõ rệt. Và không phải mọi hành vi đàn hồi đều tuyến tính.
+
+08 / THÉP CACBON VÀ SỰ NHẦM LẪN
+Thành phần và xử lý nhiệt có thể làm thép khó biến dạng dẻo hơn, trong khi E không thay đổi tương ứng. Mô đun Young của nhiều loại thép vẫn gần hai trăm gi ga pas can. Vì vậy, cùng tải, hình học và điều kiện đàn hồi, hai loại thép có độ bền khác nhau vẫn có thể dãn gần như nhau.
+
+09 / VẬT LIỆU VÀ HƯỚNG TẢI
+Gốm, kim loại và polyme có thể có mô đun Young rất khác nhau; không có một con số đại diện cho mọi vật liệu trong nhóm. Với gỗ hoặc composite, kéo dọc sợi và kéo ngang sợi có thể cho độ cứng khác nhau. Chọn dữ liệu đúng vật liệu, đúng hướng và điều kiện làm việc, đặc biệt khi nhiệt độ hay thời gian ảnh hưởng đáng kể.
+
+10 / TỪ E ĐẾN ĐỘ VÕNG CỦA DẦM
+Với dầm cầu, chọn E lớn có thể giúp giảm võng khi giữ những yếu tố khác như nhau. Nhưng độ võng còn phụ thuộc tiết diện, chiều dài nhịp, cách đặt tải và gối đỡ. Một vật liệu E cao không tự bảo đảm cầu an toàn. Vẫn phải kiểm tra độ bền, ổn định, mỏi và các yêu cầu sử dụng liên quan.
+
+CHECKLIST TRƯỚC KHI DÙNG E
+Trước khi dùng E, hãy kiểm tra đúng vật liệu và hướng, đúng miền đàn hồi tuyến tính, đúng đơn vị và biến dạng. Sau đó đưa E vào mô hình kết cấu phù hợp, thay vì chỉ nhìn một con số trên bảng tra. Lưu lại để nhớ: chi tiết dày hơn có thể cứng hơn, nhưng mô đun Young của vật liệu không vì thế tự tăng.

@@ -1,0 +1,26 @@
+KHÁM PHÁ MÔ ĐUN YOUNG: HIỂU ĐỘ CỨNG VẬT LIỆU
+
+Nguồn nội dung: PDF “Khám Phá Mô Đun Young: Khái Niệm Cốt Lõi Về Độ Cứng Vật Liệu” do người dùng cung cấp.
+Chuyển thể thành 12 cảnh, tập trung vào phép thử kéo, chuẩn hóa dữ liệu, độ dốc E, ví dụ số, lỗi phần trăm và cách dùng E trong thiết kế.
+
+Giả thiết và hiệu chỉnh:
+- Phân biệt mô đun Young của vật liệu (E, đơn vị Pa) với độ cứng dọc trục của chi tiết (k = EA0/L0, đơn vị lực/chiều dài). Công thức k xét thanh đều, kéo đúng tâm, đàn hồi tuyến tính, biến dạng nhỏ, bỏ qua ảnh hưởng máy thử và ngàm.
+- So sánh hai thanh chỉ giữ nguyên tính chất vật liệu khi cùng mác, hướng, điều kiện vật liệu và môi trường. Hình độ dãn được phóng đại.
+- Chuẩn hóa σ = F/A0 và ε = ΔL/L0 là ứng suất và biến dạng kỹ thuật. Khi cùng vật liệu, L0 và độ dãn trong đàn hồi tuyến tính: A0 gấp đôi cần lực gấp đôi, nhưng σ, ε và độ dốc E có thể như nhau.
+- Ví dụ F = 10 kN, A0 = 100 mm2, L0 = 100 mm, ΔL = 0,05 mm là số liệu GIẢ ĐỊNH do bản chuyển thể bổ sung, không phải kết quả thử trong PDF. Giả sử điểm này nằm trong đàn hồi tuyến tính: σ = 100 MPa; ε = 0,0005; E = 200000 MPa = 200 GPa.
+- 0,05% = 0,0005. Dùng nhầm ε = 0,05 với σ = 100 MPa cho E = 2000 MPa = 2 GPa, thấp hơn kết quả đúng 100 lần. Ví dụ nhấn mạnh lỗi nhập phần trăm, không mô tả một vật liệu E = 2 GPa thật.
+- E được đọc trong miền đàn hồi tuyến tính; không coi mọi đàn hồi đều tuyến tính hoặc mọi vật liệu đều có vùng dẻo dài. E không đồng nghĩa độ cứng chống ấn lõm, giới hạn chảy hay độ bền kéo.
+- Các nguyên tử và lò xo là mô hình trực quan đơn giản hóa, không phải mô phỏng nguyên tử thực. Trượt mạng chỉ minh họa biến đổi tương đối không hồi phục, không phải quỹ đạo thực của lệch và không có nghĩa mọi liên kết đồng loạt đứt.
+- Thành phần và xử lý nhiệt có thể thay đổi giới hạn chảy mà không làm E thay đổi tương ứng. Không khẳng định E mọi loại thép hoàn toàn giống nhau hay bất biến. So độ dãn cần giữ tải, hình học, môi trường và điều kiện đàn hồi.
+- Không khẳng định gốm luôn có E lớn nhất hoặc mọi vật liệu cùng nhóm có E cố định. Vật liệu dị hướng cần dữ liệu theo phương tải và cấu trúc thực; nhiệt độ và thời gian có thể ảnh hưởng đáng kể.
+- Hình dầm là so sánh định tính giữa hai phương án, giữ I, L, sơ đồ tải và gối đỡ. Quan hệ δ tỉ lệ FL3/(EI) dùng trong mô hình dầm mảnh, tiết diện đều, đàn hồi tuyến tính, biến dạng nhỏ; hệ số phụ thuộc tải và liên kết. Đây không phải thiết kế cầu hoặc bảo đảm an toàn. Cần kiểm tra độ bền, độ võng, ổn định, mỏi và các yêu cầu liên quan.
+
+Phụ đề theo mốc câu, với số và ký hiệu chuẩn hóa để dễ đọc; không tuyên bố căn từng từ bằng nhận dạng giọng nói.
+Giọng: Piper vi_VN-vais1000-medium qua sherpa-onnx 1.12.40.
+Mô hình: https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+Attribution: VAIS1000 Vietnamese speech synthesis corpus, CC BY 4.0.
+https://ieee-dataport.org/documents/vais-1000-vietnamese-speech-synthesis-corpus
+https://creativecommons.org/licenses/by/4.0/
+Font: DejaVu Serif Bold và DejaVu Sans; giấy phép trong mã nguồn.
+Nhạc và tín hiệu chuyển mục được tổng hợp riêng; không dùng bản thu thương mại hay footage của video tham chiếu.
+Dựng bằng HyperFrames, GSAP, Chromium và FFmpeg.

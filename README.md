@@ -1,4 +1,23 @@
-## Video mới: Mô đun Young — từ nguyên tử đến độ võng
+## Video mới: Khám phá mô đun Young — hiểu độ cứng vật liệu
+
+**[TẢI VIDEO KHÁM PHÁ MÔ ĐUN YOUNG — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/kham-pha-mo-dun-young/kham-pha-mo-dun-young.mp4)**
+
+Video dọc 1080 × 1920, 30 fps, dài khoảng 3 phút 41 giây. Từ phép thử kéo, chuyển dữ liệu F–ΔL thành σ–ε, đọc độ dốc E, tính ví dụ 200 GPa và tránh lỗi nhầm phần trăm. Sơ đồ chuyển động giải thích sự khác nhau giữa E của vật liệu và độ cứng của chi tiết, cùng đàn hồi, dẻo và ứng dụng kết cấu. Có giọng Việt tổng hợp, phụ đề và nhạc tự phối.
+
+- [Phụ đề tiếng Việt](videos/kham-pha-mo-dun-young/phu-de.vi.srt)
+- [Lời dẫn](videos/kham-pha-mo-dun-young/loi-dan.txt)
+- [Caption TikTok](videos/kham-pha-mo-dun-young/CAPTION-TIKTOK.txt)
+- [Tải mã nguồn chỉnh sửa — ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/kham-pha-mo-dun-young/ma-nguon-video.zip)
+- [Giả thiết kỹ thuật, nguồn và giấy phép](videos/kham-pha-mo-dun-young/GHI-CHU.txt)
+- [Báo cáo kiểm tra](videos/kham-pha-mo-dun-young/KIEM-TRA.md)
+
+![Video khám phá mô đun Young](videos/kham-pha-mo-dun-young/anh-bia.jpg)
+
+Nếu trình duyệt mở video, chọn **⋮ → Tải xuống**; trên máy tính có thể nhấn chuột phải vào liên kết và chọn **Lưu liên kết thành…**.
+
+---
+
+## Video: Mô đun Young — từ nguyên tử đến độ võng
 
 **[TẢI VIDEO MÔ ĐUN YOUNG — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/mo-dun-young/mo-dun-young-nguyen-tu-ket-cau.mp4)**
 

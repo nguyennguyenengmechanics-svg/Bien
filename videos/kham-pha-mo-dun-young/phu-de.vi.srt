@@ -1,0 +1,143 @@
+1
+00:00:00,650 --> 00:00:05,308
+Một thanh thép dày hơn khó kéo dãn hơn. Vậy mô đun Young của nó có lớn hơn không?
+
+2
+00:00:05,568 --> 00:00:09,794
+Không nhất thiết. Ta cần tách độ cứng của vật liệu khỏi độ cứng của cả chi tiết.
+
+3
+00:00:10,053 --> 00:00:15,591
+Hãy bắt đầu từ phép thử kéo, rồi thử tự đọc và tính E qua một ví dụ đơn giản.
+
+4
+00:00:17,151 --> 00:00:23,282
+Mẫu thử được kẹp vào máy và kéo dọc trục. Thiết bị ghi lực, đồng thời đo độ dãn trên một đoạn đo xác định.
+
+5
+00:00:23,542 --> 00:00:27,671
+Lực và độ dãn còn phụ thuộc kích thước mẫu, không chỉ bản thân vật liệu.
+
+6
+00:00:27,931 --> 00:00:33,429
+Vì thế, cần biết diện tích mặt cắt ban đầu và chiều dài đoạn đo ban đầu để chuẩn hóa dữ liệu.
+
+7
+00:00:34,989 --> 00:00:41,620
+Lấy lực chia diện tích ban đầu, ta được ứng suất kỹ thuật. Lấy độ dãn chia chiều dài ban đầu, ta được biến dạng kỹ thuật.
+
+8
+00:00:41,880 --> 00:00:48,735
+Với cùng vật liệu và chiều dài trong đàn hồi tuyến tính, thanh có diện tích gấp đôi cần lực gấp đôi để đạt cùng độ dãn.
+
+9
+00:00:48,995 --> 00:00:53,160
+Nhưng sau chuẩn hóa, cả hai có thể cho cùng độ dốc ứng suất, biến dạng.
+
+10
+00:00:54,720 --> 00:01:00,059
+Trên phần tuyến tính của đồ thị, mô đun Young là độ dốc: độ tăng ứng suất chia độ tăng biến dạng.
+
+11
+00:01:00,319 --> 00:01:03,764
+Cùng một ứng suất, E lớn hơn thì biến dạng đàn hồi nhỏ hơn.
+
+12
+00:01:04,024 --> 00:01:09,284
+Đừng nhầm E với giới hạn chảy hoặc độ cứng chống ấn lõm; chúng mô tả những đặc tính khác nhau.
+
+13
+00:01:10,843 --> 00:01:18,960
+Ví dụ giả định: F = 10 kN; A₀ = 100 mm²; L₀ = 100 mm; ΔL = 0,05 mm.
+
+14
+00:01:19,220 --> 00:01:23,312
+σ = 100 MPa. ε = 0,0005.
+
+15
+00:01:23,572 --> 00:01:28,879
+E = 100 / 0,0005 = 200.000 MPa = 200 GPa.
+
+16
+00:01:30,439 --> 00:01:36,349
+Trong ví dụ: ε = 0,0005 = 0,05%.
+
+17
+00:01:36,609 --> 00:01:41,436
+Nhập nhầm ε = 0,05 → E nhỏ hơn đúng 100 lần.
+
+18
+00:01:41,696 --> 00:01:47,716
+Đổi % sang số thập phân và kiểm tra đơn vị trước khi kết luận.
+
+19
+00:01:49,276 --> 00:01:52,754
+Có thể hình dung liên kết giữa nguyên tử như những lò xo nhỏ.
+
+20
+00:01:53,013 --> 00:02:00,382
+Kéo nhẹ làm thay đổi khoảng cách nguyên tử. Khi bỏ tải trong mô hình đàn hồi lý tưởng, lực liên kết đưa chúng về gần vị trí cân bằng.
+
+21
+00:02:00,643 --> 00:02:06,619
+Đây chỉ là hình dung đơn giản hóa; E còn liên quan đến cấu trúc, mật độ và hướng liên kết của vật liệu.
+
+22
+00:02:08,178 --> 00:02:12,680
+Biến dạng dẻo trong kim loại thường gắn với chuyển động lệch và trượt trong tinh thể.
+
+23
+00:02:12,941 --> 00:02:17,292
+Sau khi cấu trúc đã sắp xếp lại, tháo tải không phục hồi toàn bộ biến dạng.
+
+24
+00:02:17,551 --> 00:02:23,380
+Không phải mọi vật liệu đều có một vùng dẻo dài rõ rệt. Và không phải mọi hành vi đàn hồi đều tuyến tính.
+
+25
+00:02:24,940 --> 00:02:30,680
+Thành phần và xử lý nhiệt có thể tăng khả năng chống chảy; E không tăng tương ứng.
+
+26
+00:02:30,940 --> 00:02:34,400
+E của nhiều loại thép vẫn gần 200 GPa.
+
+27
+00:02:34,660 --> 00:02:41,589
+Cùng tải, hình học và còn đàn hồi: độ bền khác nhau nhưng độ dãn có thể gần nhau.
+
+28
+00:02:43,149 --> 00:02:49,694
+Gốm, kim loại và polyme có thể có mô đun Young rất khác nhau; không có một con số đại diện cho mọi vật liệu trong nhóm.
+
+29
+00:02:49,954 --> 00:02:54,760
+Với gỗ hoặc composite, kéo dọc sợi và kéo ngang sợi có thể cho độ cứng khác nhau.
+
+30
+00:02:55,020 --> 00:03:01,559
+Chọn dữ liệu đúng vật liệu, đúng hướng và điều kiện làm việc, đặc biệt khi nhiệt độ hay thời gian ảnh hưởng đáng kể.
+
+31
+00:03:03,119 --> 00:03:08,081
+Với dầm cầu, chọn E lớn có thể giúp giảm võng khi giữ những yếu tố khác như nhau.
+
+32
+00:03:08,342 --> 00:03:12,681
+Nhưng độ võng còn phụ thuộc tiết diện, chiều dài nhịp, cách đặt tải và gối đỡ.
+
+33
+00:03:12,941 --> 00:03:20,199
+Một vật liệu E cao không tự bảo đảm cầu an toàn. Vẫn phải kiểm tra độ bền, ổn định, mỏi và các yêu cầu sử dụng liên quan.
+
+34
+00:03:21,759 --> 00:03:28,596
+Trước khi dùng E, hãy kiểm tra đúng vật liệu và hướng, đúng miền đàn hồi tuyến tính, đúng đơn vị và biến dạng.
+
+35
+00:03:28,856 --> 00:03:34,025
+Sau đó đưa E vào mô hình kết cấu phù hợp, thay vì chỉ nhìn một con số trên bảng tra.
+
+36
+00:03:34,284 --> 00:03:40,176
+Lưu lại để nhớ: chi tiết dày hơn có thể cứng hơn, nhưng mô đun Young của vật liệu không vì thế tự tăng.
