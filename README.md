@@ -1,3 +1,13 @@
+## Kỹ năng tạo video học thuật
+
+Đã lưu quy trình thành **[video-hoc-thuat](.agents/skills/video-hoc-thuat/SKILL.md)** để dùng lại phong cách video trong kho: sơ đồ chuyển động, giọng Việt, phụ đề và **từ khóa đậm, nhấn màu rõ**.
+
+**[TẢI GÓI KỸ NĂNG — ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/skills/video-hoc-thuat.zip)** · [Cách dùng và cài ở môi trường khác](skills/README.md)
+
+Cách gọi: **“Dùng $video-hoc-thuat để tạo video học thuật từ tài liệu này.”** Khi làm trong kho Bien, AGENTS.md cũng định tuyến các yêu cầu tạo video học thuật đến kỹ năng.
+
+---
+
 ## Video mới: Ứng suất phẳng trong thiết kế cơ khí
 
 **[TẢI VIDEO ỨNG SUẤT PHẲNG — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/ung-suat-phang/ung-suat-phang.mp4)**
