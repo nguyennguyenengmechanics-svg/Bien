@@ -8,22 +8,26 @@ Cách gọi: **“Dùng $video-hoc-thuat để tạo video học thuật từ t�
 
 ---
 
-## Video mới: METI Japan Internship — Thiết kế v3
+## Video mới: METI Japan Internship — Mở đầu động · v4
 
-**[TẢI VLOG METI — BẢN V3](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/meti-japan-internship/meti-japan-internship-ngay-1-v3.mp4)**
+**[TẢI VLOG METI — BẢN V4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/meti-japan-internship/meti-japan-internship-ngay-1-v4.mp4)**
 
-Bản thiết kế mới dùng **Be Vietnam Pro, nền kem sáng và xanh ngọc**, giảm các khối nền đậm để cảnh quay thoáng hơn. Nhật ký tham gia METI Japan Internship, từ Tân Sơn Nhất đến Narita rồi gặp các bạn đến từ nhiều nơi. Video dọc 1080 × 1920, 30 fps, dài khoảng 1 phút 31 giây; dựng từ cảnh quay thật và ảnh của người dùng, có lời Việt tổng hợp, nhạc nền và phụ đề nhấn từ khóa. Giữ trình tự part 1 → part 2, phân biệt hai hướng “Arrivals, Domestic” và “International Transfer”, dùng thẻ cho phần không ghi hình và nhắc Visit Japan Web bằng hình nhỏ. Các mốc đã xác nhận: 00:25 giờ Việt Nam → 08:00 giờ Nhật Bản.
+Bản v4 mở đầu bằng **bốn cảnh ngắn, chữ động và đường bay SGN → NRT**. Chữ trên cảnh quay đã bỏ khung nền kín, giữ người và cảnh ở phần giữa khung hình. Be Vietnam Pro, xanh ngọc và nền kem chỉ dành cho thẻ giải thích. Nhật ký tham gia **METI Japan Internship**, từ Tân Sơn Nhất đến Narita rồi gặp các bạn đến từ nhiều nơi. Video 1080 × 1920, 30 fps, khoảng 1 phút 31 giây, lời Việt tổng hợp; giữ bản sửa hai hướng **Arrivals, Domestic / International Transfer** và Visit Japan Web nhỏ. Các mốc đã xác nhận: **00:25 giờ Việt Nam → 08:00 giờ Nhật Bản**.
+
+**Nhạc hiện tại là nhạc nền gốc tạm 120 BPM, chưa phải nhạc trend đã xác minh.** Nguồn tra cứu bị proxy 403; xem [tình trạng nhạc TikTok](videos/meti-japan-internship/NHAC-TIKTOK-v4.md).
+
+**[Tải bản chỉ có lời dẫn, để ghép nhạc TikTok](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/meti-japan-internship/meti-japan-internship-ngay-1-v4-chi-loi-dan.mp4)**
 
 - [Caption TikTok](videos/meti-japan-internship/CAPTION-TIKTOK.txt)
 - [Phụ đề tiếng Việt](videos/meti-japan-internship/phu-de-v3.vi.srt)
 - [Lời dẫn](videos/meti-japan-internship/loi-dan-v3.txt)
-- [Tải mã nguồn v3 — ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/meti-japan-internship/ma-nguon-video-v3.zip)
-- [Nguồn và ghi chú v3](videos/meti-japan-internship/GHI-CHU-v3.txt)
-- [Báo cáo kiểm tra v3](videos/meti-japan-internship/KIEM-TRA-v3.md)
+- [Tải mã nguồn v4 — ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/meti-japan-internship/ma-nguon-video-v4.zip)
+- [Nguồn và ghi chú v4](videos/meti-japan-internship/GHI-CHU-v4.txt)
+- [Báo cáo kiểm tra v4](videos/meti-japan-internship/KIEM-TRA-v4.md)
 
 [Tải bản v1 để so sánh](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/meti-japan-internship/meti-japan-internship-ngay-1.mp4)
 
-![Vlog hành trình METI Japan Internship v3](videos/meti-japan-internship/anh-bia-v3.jpg)
+![Vlog hành trình METI Japan Internship v4](videos/meti-japan-internship/anh-bia-v4.jpg)
 
 Nếu trình duyệt mở video, chọn **⋮ → Tải xuống**.
 
