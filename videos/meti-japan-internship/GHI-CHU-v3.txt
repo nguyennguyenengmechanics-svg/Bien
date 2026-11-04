@@ -1,0 +1,39 @@
+NHẬT KÝ THỰC TẬP METI — TÂN SƠN NHẤT → NARITA
+
+NỘI DUNG ĐÃ CHỐT VỚI NGƯỜI DÙNG
+- Đây là hành trình tham gia METI Japan Internship. Giới thiệu chương trình dựa trên thông tin người dùng cung cấp: do Bộ Kinh tế, Thương mại và Công nghiệp Nhật Bản chủ trì, kết nối nhân sự quốc tế với doanh nghiệp vừa và nhỏ tại Nhật.
+- Mốc khởi hành đã sửa từ00:45 thành00:25 theo xác nhận của người dùng và bảng sân bay. Đến Narita08:00 theo thông tin người dùng. Các mốc là giờ địa phương: Việt NamUTC+7, Nhật BảnUTC+9. Không khẳng định ngày đến hoặc thời gian bay thực tế.
+- Giữ trình tự part1 trước part2. Cắt ngắn đoạn lặp và đoạn kết CapCut; không sử dụng cảnh bay minh họa AI đã chuẩn bị trước khi nhận được cảnh quay thật.
+- Hướng Arrivals dùng cho hành trình nhập cảnh tại Narita này. Domestic được chú thích là nội địa, Transit/Transfer là nối chuyến. Không hướng người xem đi vào khu vực Domestic chỉ vì chữ nằm cùng bảng.
+- Theo lời người dùng, khu vực nhập cảnh và hải quan không được quay. Hai đoạn này thể hiện bằng thẻ chữ và lời kể, không dùng cảnh của người khác để giả cảnh quay của người dùng. Trình tự kể: nhập cảnh → nhận hành lý → hải quan → khu vực đón xe.
+- Visit Japan Web chỉ là thông tin phụ trong phần nhập cảnh. Lời nhắc: có thể khai thông tin trước, chuẩn bị mã QR và xuất trình theo hướng dẫn. Không nói người dùng đã dùng dịch vụ, không bảo đảm thời gian làm thủ tục, không thay hướng dẫn hiện hành của cơ quan chức năng.
+- Trang chính thức được ghi: https://www.vjw.digital.go.jp/ . Môi trường không tải được trang trực tiếp (proxy403). Hình nhỏ là bản trình bày lại bằng công cụ ảnh từ ảnh chụp trang người dùng gửi trong chat, có ghi “Hình minh họa giao diện”; không phải bản chụp giao diện trực tiếp đã kiểm chứng. Không có màn hình đăng nhập hoặc mã nhập cảnh cá nhân. Các ký hiệu QR trong hình chỉ là một phần của minh họa, không dùng để nhập cảnh.
+- Theo yêu cầu cuối, trọng tâm hình/lời là tham gia METI, việc học hỏi và gặp các bạn đến từ nhiều nơi. Ảnh HEIC người dùng gửi được đặt ở cuối để khép lại ngày đầu tiên; không suy đoán tên, quốc tịch từng người, doanh nghiệp, nơi ở hoặc loại visa.
+
+TÀI NGUYÊN VÀ XỬ LÝ
+- Hai MOV người dùng gửi: part1 dài39,733giây và part2 dài40,167giây, HEVC720×1280,30fps. Bản xuất1080×1920 là phóng từ nguồn720p, không phải tuyên bố phục hồi chi tiết quay gốc1080p.
+- Ảnh HEIC được chuyển định dạng, căn hướng, cắt bố cục và che các nhãn/mã nhìn thấy được. Không tạo lại khuôn mặt hay chỉnh danh tính.
+- Mã vạch/QR trên vé và vùng nhãn cá nhân ở cảnh mở đã được che trực tiếp trong video nền trước khi dựng. Ảnh cuối cũng dùng bản dẫn xuất đã che nhãn và cắt khỏi tờ giấy có mã; file gốc không được đóng gói.
+- Hình chính là cảnh quay thật do người dùng cung cấp; phần không ghi hình là đồ họa có nhãn. Video tham khảo Narita73giây chỉ dùng tham khảo cách gắn nhãn và kể theo bước, không lấy hình hoặc voice track vào bản này.
+- Lời đọc Việt tổng hợp bằng sherpa-onnx1.12.40 và Piper vi_VN-vais1000-medium, chỉnh tốc độ, chuẩn hóa mức âm. Có cách viết phiên âm trong tệp tạo giọng để đọc tên riêng; phụ đề dùng tên tiếng Anh chuẩn. Không phải bản sao giọng người dẫn trong video tham khảo.
+- Nhạc nền được tổng hợp riêng. Âm thanh gốc của clip đã bỏ để tránh trộn lời/nhạc không phù hợp; không thêm âm thanh giả được gọi là ghi âm thực của chuyến đi.
+- Cân sáng nhẹ được lưu sẵn vào video nền bằng FFmpeg SDR eq: contrast1,025,brightness0,003,gamma1,012,saturation1,0. Giữ màu tự nhiên, không đổi bối cảnh trời; bản xuất không chạy shader màu theo từng khung để tránh chi phí xử lý thừa.
+
+NGUỒN GIỌNG VÀ PHẦN MỀM
+Mô hình: https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+Dữ liệu giọng: VAIS1000 Vietnamese speech synthesis corpus, CC BY4.0.
+https://ieee-dataport.org/documents/vais-1000-vietnamese-speech-synthesis-corpus
+https://creativecommons.org/licenses/by/4.0/
+Font v2 Be Vietnam Pro: xem OFL.txt. GSAP: thông báo trong gsap.min.js, https://gsap.com/standard-license/ . Nội dung/hình trang Visit Japan Web thuộc nguồn tương ứng; hình nhỏ chỉ minh họa lời nhắc của vlog.
+
+GÓI NGUỒN
+Gồm HTML, GSAP, font, video nền đã che mã, ảnh dẫn xuất đã xử lý, hình hướng dẫn, lời đọc và nhạc để render lại. Không gồm MOV/HEIC gốc, file RAR hay video tham khảo. edit-decisions.json mô tả các đoạn đã giữ; prepare_base.py là công cụ tái tạo khi người dùng tự cung cấp các file gốc tương ứng ở private-input, không cần chạy để render lại HTML đã có.
+
+
+BẢN THIẾT KẾ V2
+- Đổi hệ chữ sang Be Vietnam Pro (regular/medium/semibold/bold), giấy phép SIL OFL trong assets/OFL.txt; nguồn https://github.com/google/fonts/tree/main/ofl/bevietnampro . Không còn dùng font DejaVu cho các lớp chữ mới.
+- Nền kem#FCFAF5, chữ mực#17353B, xanh ngọc#31746A và điểm nhấn terracotta#A84936. Thẻ thông tin nhẹ, bo tròn, ít khối nền đậm.
+- Chỉ đổi nền đồ họa/che mã đã là màu đặc; không bỏ vùng che dữ liệu. Cảnh quay, ảnh đã che mã, giọng, nhạc và thời gian giữ nguyên. Phần mô tả chữ serif/nền xanh đậm ở bản v1 không còn áp dụng cho thiết kế v2.
+- File base.mp4 kèm theo đã có nền giấy. Không cần chạy prepare_base.py hoặc apply_theme_background.py để render lại; chúng chỉ dùng nếu dựng lại từ nguồn riêng do người dùng giữ.
+
+BẢN V3: Sửa biển thành hai hướng: Arrivals, Domestic và International Transfer. Đồ họa, lời đọc và phụ đề được sửa thống nhất. Hành trình này theo hướng Arrivals, Domestic để nhập cảnh; International Transfer là nối chuyến quốc tế. Giữ thời lượng, nguồn hình và phong cách v2.
