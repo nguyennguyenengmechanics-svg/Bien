@@ -8,7 +8,26 @@ Cách gọi: **“Dùng $video-hoc-thuat để tạo video học thuật từ t�
 
 ---
 
-## Video mới: Ứng suất phẳng trong thiết kế cơ khí
+## Video mới: METI Japan Internship — Ngày đầu tiên tại Nhật
+
+**[TẢI VLOG METI — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/meti-japan-internship/meti-japan-internship-ngay-1.mp4)**
+
+Nhật ký tham gia METI Japan Internship, từ Tân Sơn Nhất đến Narita rồi gặp các bạn đến từ nhiều nơi. Video dọc 1080 × 1920, 30 fps, dài khoảng 1 phút 31 giây; dựng từ cảnh quay thật và ảnh của người dùng, có lời Việt tổng hợp, nhạc nền và phụ đề nhấn từ khóa. Giữ trình tự part 1 → part 2, phân biệt Arrivals với Domestic/Transit, dùng thẻ cho phần không ghi hình và nhắc Visit Japan Web bằng hình nhỏ. Các mốc đã xác nhận: 00:25 giờ Việt Nam → 08:00 giờ Nhật Bản.
+
+- [Caption TikTok](videos/meti-japan-internship/CAPTION-TIKTOK.txt)
+- [Phụ đề tiếng Việt](videos/meti-japan-internship/phu-de.vi.srt)
+- [Lời dẫn](videos/meti-japan-internship/loi-dan.txt)
+- [Tải mã nguồn — ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/meti-japan-internship/ma-nguon-video.zip)
+- [Nguồn và ghi chú biên tập](videos/meti-japan-internship/GHI-CHU.txt)
+- [Báo cáo kiểm tra](videos/meti-japan-internship/KIEM-TRA.md)
+
+![Vlog hành trình METI Japan Internship](videos/meti-japan-internship/anh-bia.jpg)
+
+Nếu trình duyệt mở video, chọn **⋮ → Tải xuống**.
+
+---
+
+## Video: Ứng suất phẳng trong thiết kế cơ khí
 
 **[TẢI VIDEO ỨNG SUẤT PHẲNG — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/ung-suat-phang/ung-suat-phang.mp4)**
 
