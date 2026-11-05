@@ -1,0 +1,3 @@
+Mô phỏng đẹp chưa chắc đã đúng! 💻⚙️ Kỹ thuật tính toán kết hợp toán, vật lý và lập trình — nhưng giá trị nằm ở việc hiểu mô hình và kiểm tra lời giải. Video có ví dụ thanh chịu kéo, phân biệt FEA/CFD và verification/validation. Bạn thích lập trình, phân tích kết cấu hay dòng chảy?
+
+#KyThuatTinhToan #ComputationalEngineering #MoPhongKyThuat #FEA #CFD #CoKhi

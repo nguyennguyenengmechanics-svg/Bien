@@ -8,6 +8,18 @@ Cách gọi: **“Dùng $video-hoc-thuat để tạo video học thuật từ t�
 
 ---
 
+## Bộ 3 video học thuật mới
+
+Video tiếng Việt, 1080 × 1920, 30 fps; giọng đọc tổng hợp, phụ đề đồng bộ và sơ đồ động. Giữ phong cách nền kem, tiêu đề serif, từ khóa **đậm/cam**, nhánh sơ đồ xanh–cam rõ. Các ví dụ giả định và phạm vi áp dụng có nhãn; ghi chú nguồn, kiểm tra và ZIP mã nguồn nằm trong từng thư mục.
+
+| Chủ đề | Thời lượng | Tải video | Caption TikTok |
+| --- | --- | --- | --- |
+| [Kỹ thuật tính toán](videos/computational-engineering/) | 4:42 | [MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/computational-engineering/computational-engineering.mp4) | [Caption](videos/computational-engineering/CAPTION-TIKTOK.txt) |
+| [22 lĩnh vực kỹ thuật](videos/engineering-fields/) | 5:11 | [MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/engineering-fields/engineering-fields.mp4) | [Caption](videos/engineering-fields/CAPTION-TIKTOK.txt) |
+| [Từ thiết kế đến sản xuất](videos/design-to-manufacturing/) | 4:44 | [MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/design-to-manufacturing/design-to-manufacturing.mp4) | [Caption](videos/design-to-manufacturing/CAPTION-TIKTOK.txt) |
+
+---
+
 ## Video mới: METI Japan Internship — Mở đầu động · v4
 
 **[TẢI VLOG METI — BẢN V4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/meti-japan-internship/meti-japan-internship-ngay-1-v4.mp4)**
