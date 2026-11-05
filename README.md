@@ -1,3 +1,13 @@
+## Kỹ năng video du lịch — mẫu v3 đã chọn
+
+Đã lưu **[video-du-lich](.agents/skills/video-du-lich/SKILL.md)** theo bản METI–Narita **v3**: Be Vietnam Pro, nền kem–xanh ngọc, thẻ thông tin gọn, giọng Việt và cảnh quay thật. Có mẫu dựng không kèm tư liệu cá nhân.
+
+Cách gọi: **“Dùng $video-du-lich dựng vlog từ các clip này theo phong cách v3. Đưa kịch bản cho tôi duyệt trước.”**
+
+**[Tải gói kỹ năng ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/skills/video-du-lich.zip)** · [Xem bản v3 chuẩn](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/meti-japan-internship/meti-japan-internship-ngay-1-v3.mp4)
+
+---
+
 ## Kỹ năng tạo video học thuật
 
 Đã lưu quy trình thành **[video-hoc-thuat](.agents/skills/video-hoc-thuat/SKILL.md)** để dùng lại phong cách video trong kho: sơ đồ chuyển động, giọng Việt, phụ đề và **từ khóa đậm, nhấn màu rõ**.

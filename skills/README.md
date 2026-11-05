@@ -33,3 +33,17 @@ python .agents/skills/video-hoc-thuat/scripts/scaffold.py /duong/dan/du-an-moi
 Để chỉ thử bố cục, thêm `--demo`; mẫu thử dùng âm thanh im lặng, có đánh dấu rõ và không được giao như video thật. Điền nội dung, dựng hình mới và tạo giọng đọc trước khi sản xuất video hoàn chỉnh.
 
 Mẫu dựng được kiểm tra bằng HyperFrames; xem [báo cáo](KIEM-TRA.md). Font và GSAP kèm thông báo giấy phép; gói không chứa mô hình TTS hay dữ liệu riêng của người dùng.
+
+
+## Kỹ năng video du lịch — v3
+
+Gọi **$video-du-lich** để dựng vlog như bản METI–Narita v3 đã được chọn. Kỹ năng này tách khỏi video học thuật, có mẫu dựng dùng Be Vietnam Pro và nền kem–xanh ngọc.
+
+- [Đọc kỹ năng](../.agents/skills/video-du-lich/SKILL.md)
+- [Tải ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/skills/video-du-lich.zip)
+- [Thiết kế v3](../.agents/skills/video-du-lich/references/DESIGN.md)
+- [Quy trình và mẫu dữ liệu](../.agents/skills/video-du-lich/references/workflow.md)
+
+Ví dụ: “Dùng $video-du-lich tạo vlog từ các clip này, trọng tâm là chuyến đi của tôi. Duyệt kịch bản trước.”
+
+Giải nén ZIP rồi đặt thư mục video-du-lich vào thư mục kỹ năng cá nhân của môi trường, thường là $CODEX_HOME/skills (mặc định ~/.codex/skills), hoặc .agents/skills của dự án hỗ trợ nó. Gói không chứa cảnh quay, ảnh cá nhân hay giọng đọc của chuyến METI. Mẫu chỉ dựng được sau khi có tài nguyên và timing thực, không có video im lặng giả làm thành phẩm.

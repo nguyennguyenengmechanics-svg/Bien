@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video du lịch · Phong cách v3"
+  short_description: "Dựng vlog tiếng Việt theo mẫu du lịch v3 đã chọn"
+  default_prompt: "Dùng $video-du-lich để dựng vlog từ các video và ảnh này theo phong cách v3."
