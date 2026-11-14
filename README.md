@@ -242,3 +242,21 @@ Bản 2 giữ thời lượng khoảng 80 giây và phong cách điện ảnh xa
 ![Khung hình bản 2 với clip cá nhân](videos/anh-bia-v2.jpg)
 
 Thông số: 1080 × 1920, 30 fps. Giọng Việt tổng hợp, cảnh quay cá nhân kết hợp ảnh minh họa AI, motion graphic và nhạc tropical/chill tự phối.
+
+
+---
+
+## Video: API · CLI · MCP — Chọn đúng cách kết nối AI
+
+**[TẢI VIDEO API · CLI · MCP — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/api-cli-mcp/api-cli-mcp.mp4)**
+
+Video học thuật dọc Full HD, dài khoảng 4 phút 16 giây, gồm 10 cảnh. Có giọng Việt tổng hợp, phụ đề nhấn từ khóa, nhạc nền tự tạo và sơ đồ API, CLI, MCP, ngữ cảnh token cùng cách lựa chọn. Nội dung diễn giải lại bản ghi do người dùng cung cấp; sửa các khẳng định quá tuyệt đối về chi phí và tên gọi sản phẩm.
+
+- [Caption TikTok](videos/api-cli-mcp/CAPTION-TIKTOK.txt)
+- [Phụ đề tiếng Việt](videos/api-cli-mcp/phu-de.vi.srt)
+- [Lời dẫn](videos/api-cli-mcp/loi-dan.txt)
+- [Tải mã nguồn — ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/api-cli-mcp/ma-nguon-video.zip)
+- [Nguồn, hiệu chỉnh nội dung và giấy phép](videos/api-cli-mcp/GHI-CHU.txt)
+- [Báo cáo kiểm tra](videos/api-cli-mcp/KIEM-TRA.md)
+
+![API · CLI · MCP — sơ đồ lựa chọn](videos/api-cli-mcp/anh-bia.jpg)

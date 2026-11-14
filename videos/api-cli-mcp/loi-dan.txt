@@ -1,0 +1,29 @@
+01 / BỨC TRANH CHUNG
+AI có thể viết rất hay. Nhưng muốn đọc lịch, tạo tệp hay lấy báo cáo, nó cần công cụ để hành động. Ba khái niệm thường gặp là ây pi ai, xi eo ai và em xi pi. Chúng giúp kết nối theo những cách khác nhau. Đừng xem đây là ba nấc thang mà tầng cao hơn luôn tốt hơn. Hãy bắt đầu từ công việc bạn cần làm. Trong vài phút tới, chúng ta sẽ nhìn cơ chế, so sánh chi phí ngữ cảnh và chọn cách dùng phù hợp.
+
+02 / API
+Ây pi ai là giao diện lập trình ứng dụng. Nó quy định phần mềm có thể yêu cầu gì và nhận kết quả như thế nào. Với một dịch vụ trên mạng, chương trình gửi yêu cầu đúng địa chỉ, đúng tham số; dịch vụ xử lý rồi trả kết quả. Mã khóa chỉ là một cách xác thực. Có dịch vụ dùng đăng nhập ủy quyền, và có giao diện không cần khóa. Khi quy trình ngắn, rõ và đã có mã gọi ổn định, dùng trực tiếp ây pi ai có thể rất gọn.
+
+03 / CLI
+Xi eo ai là giao diện dòng lệnh. Thay vì tự viết mọi thao tác, bạn chạy câu lệnh mà công cụ đã cung cấp. Ví dụ, một công cụ có thể gom việc đọc cấu hình, lấy báo cáo và lưu tệp thành một lệnh dễ chạy lại. Bên trong, công cụ có thể gọi ây pi ai trên mạng, hoặc chỉ xử lý tệp ngay trên máy. Không phải lúc nào cũng gọi dịch vụ. Cách này hữu ích cho tác vụ lặp lại. Nhưng câu lệnh vẫn có thể sai, và cần kiểm tra kết quả cùng mã thoát.
+
+04 / MCP
+Em xi pi là giao thức chuẩn hóa cách ứng dụng AI kết nối máy chủ cung cấp công cụ, tài nguyên và mẫu lời nhắc. Bạn nói yêu cầu bằng tiếng Việt. Ứng dụng AI tìm công cụ phù hợp, rồi gửi lời gọi với tham số có cấu trúc. Máy chủ thực thi và trả kết quả. Nó có thể truy cập dịch vụ qua ây pi ai, chạy chương trình hoặc đọc dữ liệu được phép. Điểm mạnh là khả năng tích hợp và khám phá công cụ. Nhưng cần cả ứng dụng hỗ trợ lẫn máy chủ đáng tin cậy.
+
+05 / CÙNG MỘT MỤC TIÊU
+Giả sử bạn muốn lấy một báo cáo. Nếu đã biết chính xác dữ liệu và định dạng cần lấy, một lời gọi ây pi ai có thể đủ. Nếu mỗi sáng đều lấy cùng báo cáo rồi lưu vào thư mục, một câu lệnh hoặc tập lệnh ổn định sẽ tiện để chạy lại. Nếu bạn muốn hỏi tiếp vì sao số liệu thay đổi, kết nối em xi pi có thể giúp AI khám phá và phối hợp nhiều công cụ. Đây là gợi ý lựa chọn, không phải ranh giới cứng. Một ứng dụng hoàn toàn có thể kết hợp cả ba cách.
+
+06 / TOKEN VÀ NGỮ CẢNH
+Token là đơn vị mô hình dùng để xử lý nội dung. Ngữ cảnh chứa chỉ dẫn, mô tả công cụ, hội thoại và kết quả được đưa vào. Nếu ứng dụng nạp nhiều mô tả công cụ dài ngay từ đầu, phần đó có thể chiếm đáng kể chỗ trong ngữ cảnh. Nhưng không phải mọi kết nối em xi pi đều nạp toàn bộ. Một số ứng dụng chỉ tìm và tải công cụ khi cần. Xi eo ai cũng không miễn phí token. Câu lệnh, hướng dẫn và đầu ra mà AI đọc vẫn có thể được tính.
+
+07 / TỐI ƯU THỰC TẾ
+Muốn tiết kiệm, hãy bật những kết nối cần cho công việc và tận dụng cơ chế tìm công cụ theo nhu cầu nếu ứng dụng hỗ trợ. Ở cả ba cách, chỉ lấy trường dữ liệu cần dùng, giới hạn số dòng và tránh đưa cả tệp nhật ký dài vào cuộc trò chuyện. Để so sánh công bằng, giữ cùng nhiệm vụ, mô hình và chất lượng kết quả. Đo cả thời gian, số lần thử lại và token. Chi phí tiền còn phụ thuộc chính sách nền tảng, bộ nhớ đệm và giá mô hình. Không có một hệ số tiết kiệm cố định.
+
+08 / CÂY LỰA CHỌN
+Câu hỏi một: môi trường AI có chạy được lệnh không? Nếu không, hãy tìm kết nối mà ứng dụng đang hỗ trợ, chẳng hạn em xi pi. Câu hỏi hai: bạn có lặp lại một quy trình rõ ràng không? Nếu có công cụ dòng lệnh tốt, hãy thử xi eo ai hoặc tập lệnh. Câu hỏi ba: bạn cần tự kiểm soát tích hợp và luồng dữ liệu không? Khi đó, làm việc trực tiếp với ây pi ai thường linh hoạt. Nếu cần hỏi đáp để khám phá nhiều công cụ, cân nhắc em xi pi. Sau đó đo thực tế trước khi quyết định dùng lâu dài.
+
+09 / GỠ RỐI TÊN GỌI
+Skill thường là bộ hướng dẫn và tài nguyên giúp AI làm một loại công việc theo quy trình bạn mong muốn. Connector là phần kết nối tới dữ liệu hoặc dịch vụ. Tên gọi này không tự chứng minh nó đang dùng giao thức em xi pi. Plugin thường là một gói mở rộng, có thể chứa công cụ, kết nối hoặc skill. Thành phần cụ thể tùy sản phẩm. Vì giao diện thay đổi theo phiên bản, hãy đọc mô tả tính năng và quyền truy cập thay vì chỉ nhìn tên menu.
+
+10 / MANG VÀO CÔNG VIỆC
+Trước khi bắt đầu, cấp đúng quyền cần dùng, chọn đúng tài khoản và tách cấu hình giữa các dự án để tránh thao tác nhầm. Phạm vi cài đặt khác nhau tùy ứng dụng; đừng coi nó là lớp bảo mật thay cho quyền truy cập thật sự của tài khoản. Hãy nhớ: ây pi ai là giao diện phần mềm; xi eo ai là giao diện dòng lệnh; em xi pi là chuẩn kết nối cho ứng dụng AI. Chọn theo việc, theo môi trường và theo kết quả đo. Công cụ tốt là công cụ giúp bạn làm đúng, rõ ràng và dễ kiểm soát.

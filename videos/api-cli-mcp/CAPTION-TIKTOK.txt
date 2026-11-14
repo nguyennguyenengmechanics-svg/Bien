@@ -1,0 +1,5 @@
+API, CLI và MCP khác nhau ở đâu? 🤔 Ba khái niệm này không phải ba nấc thang mà tầng cao hơn luôn tốt hơn. Video giúp bạn hiểu cơ chế kết nối AI, tránh hiểu nhầm về token và chọn công cụ theo công việc thực tế.
+
+Bạn thường dùng AI để lấy báo cáo, xử lý tệp hay hỏi đáp với ứng dụng? Lưu lại cây lựa chọn để thử với quy trình của bạn nhé!
+
+#AI #MCP #API #CLI #KienThucCongNghe #TuDongHoa

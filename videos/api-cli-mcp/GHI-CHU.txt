@@ -1,0 +1,35 @@
+API · CLI · MCP — Chọn đúng cách kết nối AI
+
+NỘI DUNG
+Video diễn giải mới, rút gọn nội dung từ bản ghi tiếng Việt do người dùng cung cấp: “Tất tần tật MCP vs API vs CLI. 3 nấc thang sử dụng AI cho người mới.” Bản gốc dài khoảng 40 phút 40 giây. Không phát lại giọng, hình hay quảng bá cộng đồng của người nói trong bản ghi.
+
+ĐỐI CHIẾU THỰC SỰ ĐÃ ĐỌC
+1. MDN Web Docs — API (định nghĩa; API bao gồm giao diện cục bộ, không chỉ dịch vụ web):
+https://raw.githubusercontent.com/mdn/content/main/files/en-us/glossary/api/index.md
+2. Kho đặc tả MCP chính thức — README và schema TypeScript 2025-06-18, các phần tools/list, tools/call, Tool, Resource và Prompt:
+https://github.com/modelcontextprotocol/modelcontextprotocol
+https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/schema/2025-06-18/schema.ts
+Ngày đọc: 14/11/2026. Đây là phiên bản schema cụ thể dùng đối chiếu thuật ngữ, không khẳng định là bản mới nhất.
+
+CÁC HIỆU CHỈNH SO VỚI BẢN GHI
+- API không đồng nghĩa API key và không nhất thiết phải qua mạng. OAuth chỉ là một cơ chế ủy quyền/xác thực trong hệ thống phù hợp.
+- CLI có thể gọi API, xử lý tệp hoặc chạy chương trình cục bộ. MCP server cũng không bắt buộc luôn gọi một web API.
+- Ngôn ngữ tự nhiên nằm ở lớp người dùng và ứng dụng AI; lời gọi MCP có cấu trúc.
+- Nạp toàn bộ mô tả công cụ không phải yêu cầu chung của MCP. Việc tìm/tải theo nhu cầu tùy cách triển khai ở ứng dụng.
+- Không dùng các con số 22 nghìn, 4–30 lần hay 439,9 nghìn token trong bản ghi làm số liệu của video này; không có dữ liệu gốc đi kèm để kiểm chứng và các tỷ lệ đó không áp dụng chung.
+- CLI vẫn có thể phát sinh token khi AI đọc hướng dẫn, viết lệnh và đọc kết quả; không tuyên bố miễn phí hay đúng 100%.
+- Connector/plugin/skill là cách gọi và đóng gói tùy sản phẩm. Không mặc định tất cả connector hay plugin đều dùng MCP. Không dựng ảnh giao diện giả hoặc hướng dẫn theo menu chưa xác minh.
+- Phạm vi cài đặt không thay thế phân quyền thật của tài khoản và dịch vụ.
+
+HÌNH MINH HỌA
+Toàn bộ sơ đồ do dự án tự vẽ bằng SVG. Thanh ngữ cảnh thể hiện thành phần, không phải tỷ lệ đo. “1000 dòng → 10 dòng” là ví dụ giả định về lọc dữ liệu, không phải benchmark. “report export --today” và “GET /report?...” là ví dụ khái niệm, không phải lệnh thật của một sản phẩm được nêu tên. Tối ưu cần được đo cùng mô hình, tác vụ và yêu cầu đầu ra.
+
+TÀI NGUYÊN
+- Giọng Việt tổng hợp bằng sherpa-onnx và mô hình Piper vi_VN-vais1000-medium có sẵn trong môi trường. Model card nêu dữ liệu VAIS1000, CC BY 4.0: https://ieee-dataport.org/documents/vais-1000-vietnamese-speech-synthesis-corpus ; https://creativecommons.org/licenses/by/4.0/ . Không phải giọng của người nói trong tài liệu.
+- Nhạc nền nguyên bản tạo từ các nốt tổng hợp bằng mã make_audio.py. Không dùng nhạc thương mại hay mẫu âm thanh bên ngoài.
+- Font DejaVu: kèm FONT-LICENSE.txt trong gói nguồn.
+- GSAP: giữ thông báo bản quyền trong tệp thư viện, xem https://gsap.com/standard-license/ .
+- Dựng và render bằng HyperFrames 0.8.221, HTML/SVG/GSAP, 1080×1920, 30 fps.
+
+THỜI GIAN VÀ PHỤ ĐỀ
+Đo thời lượng thật của 40 đoạn giọng đọc. Phụ đề rút gọn cùng ý, căn theo từng đoạn WAV, không khẳng định căn chính xác từng từ. Giữa hai đoạn có khoảng nghỉ; không chồng caption. Bản nguồn có âm thanh đã tạo để render lại, không cần tải mô hình giọng nói.
