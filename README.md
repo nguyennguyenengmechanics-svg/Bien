@@ -260,3 +260,21 @@ Video học thuật dọc Full HD, dài khoảng 4 phút 16 giây, gồm 10 cả
 - [Báo cáo kiểm tra](videos/api-cli-mcp/KIEM-TRA.md)
 
 ![API · CLI · MCP — sơ đồ lựa chọn](videos/api-cli-mcp/anh-bia.jpg)
+
+
+---
+
+## Bản motion graphic: API · CLI · MCP — Một ví dụ, ba cách làm
+
+**[TẢI VIDEO MOTION GRAPHIC — MP4](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/api-cli-mcp-motion/api-cli-mcp-motion.mp4)**
+
+Bản dựng mới dài khoảng 3 phút 49 giây, 9 cảnh, Full HD dọc 30 fps. Một ví dụ giảm giá xuyên suốt, nhãn giá thay đổi, gói yêu cầu di chuyển, bánh răng vận hành và AI chọn công cụ theo lời giải thích. Có giọng Việt, phụ đề nhấn màu và nhạc nền tự tạo.
+
+- [Caption TikTok](videos/api-cli-mcp-motion/CAPTION-TIKTOK.txt)
+- [Phụ đề tiếng Việt](videos/api-cli-mcp-motion/phu-de.vi.srt)
+- [Lời dẫn](videos/api-cli-mcp-motion/loi-dan.txt)
+- [Tải mã nguồn — ZIP](https://github.com/nguyennguyenengmechanics-svg/Bien/raw/refs/heads/main/videos/api-cli-mcp-motion/ma-nguon-video.zip)
+- [Nguồn và giới hạn minh họa](videos/api-cli-mcp-motion/GHI-CHU.txt)
+- [Kiểm tra](videos/api-cli-mcp-motion/KIEM-TRA.md)
+
+![API · CLI · MCP — một ví dụ, ba cách làm](videos/api-cli-mcp-motion/anh-bia.jpg)

@@ -1,0 +1,143 @@
+1
+00:00:01,000 --> 00:00:05,307
+Bài toán: giảm 20% cho ba sản phẩm trong nhóm Áo.
+
+2
+00:00:05,727 --> 00:00:10,661
+100 → 80; 200 → 160; 300 → 240 nghìn đồng.
+
+3
+00:00:11,082 --> 00:00:16,457
+API, CLI hoặc AI kết nối qua MCP: nhiều cách thực hiện.
+
+4
+00:00:16,877 --> 00:00:21,312
+Cùng kết quả; khác cách tổ chức công việc.
+
+5
+00:00:23,332 --> 00:00:28,252
+Chọn món → gửi đơn → nhận bánh.
+
+6
+00:00:28,672 --> 00:00:33,513
+Giao diện che đi cách tổ chức bên trong.
+
+7
+00:00:33,933 --> 00:00:39,302
+API là giao diện để phần mềm yêu cầu chức năng.
+
+8
+00:00:39,722 --> 00:00:45,306
+API: gửi dữ liệu đúng cấu trúc và quy tắc.
+
+9
+00:00:47,327 --> 00:00:52,447
+Đọc tài liệu: thao tác, tham số và quyền truy cập.
+
+10
+00:00:52,867 --> 00:00:58,184
+Tạo yêu cầu: nhóm Áo + mức giảm 20% → gửi API.
+
+11
+00:00:58,604 --> 00:01:04,595
+Dịch vụ xử lý → trả kết quả có cấu trúc.
+
+12
+00:01:05,015 --> 00:01:10,298
+Đúng tài liệu, đúng phiên bản; luôn kiểm tra kết quả.
+
+13
+00:01:12,318 --> 00:01:17,717
+Tái sử dụng kịch bản đã kiểm tra, không cần AI lập lại kế hoạch.
+
+14
+00:01:18,137 --> 00:01:24,244
+Đổi đầu vào; giữ các bước kiểm tra và xử lý.
+
+15
+00:01:24,663 --> 00:01:31,060
+Không gọi mô hình AI ≠ mọi chi phí đều bằng 0.
+
+16
+00:01:31,480 --> 00:01:36,786
+Vẫn có phí dịch vụ, giới hạn tốc độ và công bảo trì.
+
+17
+00:01:38,806 --> 00:01:45,041
+Bạn: “Giảm 20% nhóm Áo.” → AI tìm công cụ qua MCP.
+
+18
+00:01:45,461 --> 00:01:51,034
+AI chọn công cụ và điền tham số có cấu trúc.
+
+19
+00:01:51,453 --> 00:01:57,153
+MCP server thực thi → trả kết quả → AI báo lại.
+
+20
+00:01:57,574 --> 00:02:03,925
+Ngôn ngữ tự nhiên ở lớp AI; MCP chuẩn hóa kết nối.
+
+21
+00:02:05,945 --> 00:02:11,216
+CLI đóng gói thao tác thành câu lệnh cho người hoặc AI chạy.
+
+22
+00:02:11,636 --> 00:02:18,010
+Nhập nhóm Áo + mức giảm → công cụ chạy các bước đã định.
+
+23
+00:02:18,430 --> 00:02:22,598
+Phía sau CLI có thể là API; kết quả có thể lưu thành tệp.
+
+24
+00:02:23,018 --> 00:02:29,136
+Cần môi trường chạy, đúng quyền và kiểm tra kết quả.
+
+25
+00:02:31,156 --> 00:02:36,810
+Bạn → CLI → API → cửa hàng.
+
+26
+00:02:37,230 --> 00:02:42,269
+Ứng dụng AI → MCP server → API → cửa hàng.
+
+27
+00:02:42,689 --> 00:02:47,739
+Ba vai trò khác nhau, có thể nằm trong cùng hệ thống.
+
+28
+00:02:48,159 --> 00:02:53,848
+CLI và MCP server còn có thể xử lý dữ liệu cục bộ.
+
+29
+00:02:55,868 --> 00:03:01,917
+Quy trình cố định, cần kiểm soát → cân nhắc kịch bản gọi API.
+
+30
+00:03:02,337 --> 00:03:07,573
+Đã có câu lệnh tốt cho nhiều bước → cân nhắc CLI.
+
+31
+00:03:07,993 --> 00:03:13,891
+Hỏi đáp, khám phá dữ liệu → cân nhắc AI kết nối qua MCP.
+
+32
+00:03:14,311 --> 00:03:22,171
+Đo cùng tác vụ; không có cách luôn rẻ hơn trong mọi tình huống.
+
+33
+00:03:24,191 --> 00:03:30,646
+API: giao diện · CLI: câu lệnh · MCP: chuẩn kết nối AI.
+
+34
+00:03:31,066 --> 00:03:36,128
+Có thể phối hợp; hãy hiểu đường đi của dữ liệu.
+
+35
+00:03:36,548 --> 00:03:41,831
+Thử nhỏ → đúng tài khoản, đúng quyền → kiểm tra kết quả.
+
+36
+00:03:42,251 --> 00:03:48,044
+Việc rõ: chuẩn hóa. Cần khám phá: dùng AI đúng chỗ.

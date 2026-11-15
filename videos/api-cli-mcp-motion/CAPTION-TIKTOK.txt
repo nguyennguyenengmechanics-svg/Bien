@@ -1,0 +1,6 @@
+Cùng giảm giá 20%, vì sao có lúc dùng API, lúc dùng CLI, lúc lại dùng AI qua MCP? 🛍️
+Xem yêu cầu chạy qua từng bước: từ đặt món, gửi dữ liệu tới dịch vụ, cho đến AI chọn công cụ và một câu lệnh kích hoạt cả quy trình. Ba vai trò khác nhau, hoàn toàn có thể phối hợp!
+
+Bạn đang cần tự động hóa việc lặp lại hay khám phá dữ liệu bằng AI? Lưu video để chọn công cụ theo đúng công việc nhé.
+
+#API #CLI #MCP #MotionGraphics #AI #TuDongHoa

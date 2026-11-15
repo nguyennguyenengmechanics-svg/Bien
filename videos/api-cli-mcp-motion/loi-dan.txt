@@ -1,0 +1,26 @@
+01 / CÙNG MỘT MỤC TIÊU
+Giả sử bạn có một cửa hàng và muốn giảm hai mươi phần trăm cho ba sản phẩm trong nhóm áo. Chiếc áo giá một trăm nghìn còn tám mươi nghìn. Áo hai trăm còn một trăm sáu mươi. Quy tắc rất rõ ràng. Bạn có thể viết chương trình gọi ây pi ai, chạy một câu lệnh xi eo ai, hoặc giao mục tiêu cho AI qua em xi pi. Cùng một kết quả, nhưng cách tổ chức công việc khác nhau. Hãy theo dõi từng đường đi của yêu cầu.
+
+02 / HIỂU GIAO DIỆN
+Trước hết, hãy tưởng tượng bạn đặt một chiếc bánh ở quầy. Bạn chọn món, gửi đơn và nhận chiếc bánh. Bạn không cần biết bếp chia ca thế nào hay nguyên liệu được cất ở đâu. Quầy đặt món che đi những chi tiết ấy. Ây pi ai cũng là một giao diện, nhưng dành cho phần mềm. Chương trình gửi yêu cầu theo quy tắc mà giao diện công bố. Nhớ điểm khác biệt: trong ví dụ nhà hàng, bạn đặt món; còn với ây pi ai, chương trình gửi dữ liệu có cấu trúc.
+
+03 / ĐƯỜNG ĐI API
+Quay lại cửa hàng. Chương trình đọc tài liệu để biết thao tác giảm giá cần những tham số và quyền truy cập nào. Nó tạo yêu cầu gồm nhóm sản phẩm và mức giảm hai mươi phần trăm, rồi gửi tới địa chỉ dịch vụ quy định. Dịch vụ kiểm tra, cập nhật giá và trả kết quả. Chẳng hạn, một đối tượng dữ liệu ghi rằng ba sản phẩm đã được xử lý. Bạn không tự bịa tên trường hay bỏ qua lỗi trả về. Cần đúng tài liệu, đúng phiên bản và kiểm tra kết quả.
+
+04 / QUY TRÌNH LẶP LẠI
+Khi đã viết một kịch bản ổn định, bạn có thể chạy lại với nhóm sản phẩm khác mà không nhờ AI suy nghĩ từ đầu. Hãy nhìn: đổi đầu vào từ nhóm áo sang nhóm túi, còn các bước kiểm tra, gửi yêu cầu và đọc kết quả vẫn được giữ lại. Trong kịch bản không gọi mô hình AI này, mỗi lần chạy không cần token suy luận của mô hình. Nhưng không có nghĩa mọi chi phí bằng không. Dịch vụ vẫn có thể tính phí, giới hạn tốc độ hoặc thay đổi giao diện. Mã vẫn cần theo dõi và bảo trì.
+
+05 / ĐƯỜNG ĐI MCP
+Với em xi pi, bạn nói: hãy giảm hai mươi phần trăm cho nhóm áo. Ứng dụng AI tìm công cụ phù hợp mà máy chủ cung cấp. AI chuyển ý định thành tham số có cấu trúc. Nó có thể gọi công cụ liệt kê sản phẩm, rồi công cụ cập nhật giá. Máy chủ thực thi, chẳng hạn bằng cách gọi ây pi ai của cửa hàng, rồi gửi kết quả về cho AI đọc và báo lại. Vậy ngôn ngữ tự nhiên nằm ở cuộc trò chuyện với AI. Em xi pi chuẩn hóa kết nối công cụ; không tự bảo đảm mọi thao tác luôn đúng.
+
+06 / ĐƯỜNG ĐI CLI
+Còn xi eo ai là giao diện dòng lệnh. Một công cụ có thể đóng gói quy trình thành câu lệnh ngắn để người hoặc AI chạy. Trong ví dụ minh họa này, bạn chỉ nhập nhóm áo và mức giảm. Công cụ lần lượt đọc cấu hình, lấy sản phẩm rồi cập nhật giá. Phía sau câu lệnh vẫn có thể là ây pi ai. Công cụ cũng có thể lưu tệp báo cáo ngay trên máy. Điều kiện là có môi trường chạy lệnh và quyền phù hợp. Câu lệnh không bảo đảm thành công: vẫn phải kiểm tra mã thoát và kết quả.
+
+07 / GHÉP CÁC VAI TRÒ
+Bây giờ ghép hai đường đi lại. Ở đường thứ nhất, bạn chạy xi eo ai; công cụ gọi ây pi ai để đổi giá trong cửa hàng. Ở đường thứ hai, ứng dụng AI gọi công cụ qua em xi pi; máy chủ có thể gọi cùng ây pi ai đó. Đây không phải cuộc thi để loại bỏ hai công cụ còn lại. Mỗi khái niệm giải quyết một phần khác nhau của hệ thống. Và không phải máy chủ em xi pi hay xi eo ai nào cũng cần dịch vụ trên mạng. Chúng còn có thể làm việc với tệp cục bộ.
+
+08 / CHỌN CHO ĐÚNG VIỆC
+Nếu cần đồng bộ tồn kho theo quy tắc cố định, hãy cân nhắc kịch bản gọi ây pi ai: luồng rõ, dễ chạy lại và kiểm soát. Nếu đã có công cụ gom nhiều bước thành câu lệnh tốt, xi eo ai là cách thuận tiện để vận hành quy trình đó. Nếu chưa rõ nguyên nhân doanh số giảm và muốn hỏi tiếp để khám phá dữ liệu, AI kết nối qua em xi pi có thể phù hợp. Chi phí token phụ thuộc cả cách ứng dụng tìm công cụ, số lần gọi và dữ liệu trả về. Hãy đo cùng tác vụ, đừng mặc định cách nào luôn rẻ hơn.
+
+09 / GHI NHỚ
+Hãy nhớ ba hình ảnh: ây pi ai là cửa nhận yêu cầu có cấu trúc; xi eo ai là bảng lệnh; em xi pi là kết nối chuẩn cho ứng dụng AI. Cùng việc giảm giá, bạn có thể dùng một cách hoặc phối hợp nhiều cách. Điều quan trọng là hiểu đường đi của dữ liệu. Bắt đầu từ một tác vụ nhỏ. Kiểm tra đúng tài khoản, cấp quyền vừa đủ và xem kết quả trước khi chạy hàng loạt. Khi việc đã rõ, hãy chuẩn hóa quy trình. Khi cần khám phá, hãy dùng AI đúng chỗ. Chọn theo việc, rồi đo và cải thiện.

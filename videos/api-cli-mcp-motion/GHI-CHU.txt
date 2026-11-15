@@ -1,0 +1,42 @@
+API · CLI · MCP — Một ví dụ, ba cách làm
+Bản motion graphic dựng lại theo yêu cầu ngày 15/11/2026.
+
+NGUỒN NỘI DUNG
+Bản ghi “API vs CLI vs MCP Explained in 5 Minutes” do người dùng cung cấp, người nói tự giới thiệu là Jan. Dù tiêu đề nêu 5 phút, bản ghi kéo dài khoảng 6 phút 28 giây. Video này diễn giải mới bằng tiếng Việt, không dùng giọng, footage, dashboard Shopify hay quảng cáo ở bản ghi gốc. Không đóng gói bản ghi gốc trong kho công khai.
+
+Các định nghĩa đã đối chiếu trong quá trình dựng bản trước và đọc lại từ tài liệu lưu của dự án:
+- MDN — API: https://raw.githubusercontent.com/mdn/content/main/files/en-us/glossary/api/index.md
+- Đặc tả MCP, schema 2025-06-18: https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/schema/2025-06-18/schema.ts
+- Kho MCP chính thức: https://github.com/modelcontextprotocol/modelcontextprotocol
+Không khẳng định phiên bản schema này là mới nhất. Không truy cập hay sử dụng tài khoản Shopify thật.
+
+MẠCH GIẢI THÍCH
+1. Cùng giảm giá 20% trong một cửa hàng mẫu.
+2. Ẩn chi tiết bên trong qua ví dụ đặt món ở quầy.
+3. API: tạo yêu cầu có cấu trúc, gửi đi, nhận kết quả.
+4. Kịch bản lặp lại: đổi đầu vào, giữ quy trình.
+5. MCP: ý định → AI chọn công cụ/tham số → máy chủ thực thi.
+6. CLI: một lệnh kích hoạt chuỗi thao tác và tạo tệp.
+7. Hai đường đi có thể cùng gọi API, không loại trừ nhau.
+8. Chọn theo công việc và môi trường; đo thực tế.
+9. Ghi nhớ vai trò và quyền truy cập.
+
+GIỚI HẠN VÀ HIỆU CHỈNH
+- Ví dụ hoàn toàn giả định. Giá 100, 200, 300 nghìn đồng giảm 20% thành 80, 160, 240 nghìn đồng. Đây là mức giảm trên giá gốc một lần, không phải giảm lặp chồng lên giá đã giảm.
+- “group: Áo”, “discount_percent: 20”, “{ updated: 3 }” là ký hiệu dữ liệu minh họa; không khẳng định là endpoint, trường dữ liệu hay JSON response thật của Shopify.
+- “shop sale --group shirts --off 20” là câu lệnh giả định, không hướng dẫn người xem chạy một CLI có thật.
+- API là giao diện lập trình; có cả API cục bộ và API qua mạng. Ví dụ cửa hàng minh họa loại qua mạng. Dữ liệu trả về không bắt buộc luôn là JSON.
+- Kịch bản không gọi mô hình AI có thể chạy mà không cần token suy luận của mô hình; điều đó không đồng nghĩa miễn phí API, hạ tầng hay bảo trì.
+- Ngôn ngữ tự nhiên nằm ở cuộc trò chuyện với ứng dụng AI. Lời gọi công cụ MCP có tên và tham số có cấu trúc.
+- MCP không tự bảo đảm máy chủ luôn mới, mọi thao tác luôn đúng hay công cụ luôn phù hợp. Vẫn cần phiên bản, quyền và kiểm tra kết quả.
+- CLI và MCP server có thể gọi API hoặc làm việc với tệp/chương trình cục bộ; không phải lúc nào cũng phụ thuộc web API.
+- Tác vụ rõ/lặp lại, CLI gom bước và MCP khám phá chỉ là gợi ý theo tình huống, không phải ranh giới cứng hoặc thứ bậc cao/thấp.
+- Không thực hiện benchmark. Không có tỷ lệ chi phí hay tốc độ giữa API, CLI và MCP trong video. Chi phí phụ thuộc ứng dụng, cơ chế tải mô tả, mô hình, dữ liệu và số lần gọi.
+
+TÀI NGUYÊN VÀ GIẤY PHÉP
+- Sơ đồ, biểu tượng áo, cửa hàng, bánh, tệp và bánh răng là SVG tự vẽ bằng mã graphics.py. Chuyển động GSAP hữu hạn, có thể seek lại.
+- Font DejaVu Sans, Serif Bold, Sans Mono: kèm FONT-LICENSE.txt.
+- GSAP: giữ thông báo bản quyền; https://gsap.com/standard-license/ .
+- Giọng Việt tổng hợp: sherpa-onnx + Piper vi_VN-vais1000-medium có sẵn. Không phải giọng Jan. Model card nêu dữ liệu VAIS1000, CC BY 4.0: https://ieee-dataport.org/documents/vais-1000-vietnamese-speech-synthesis-corpus ; https://creativecommons.org/licenses/by/4.0/ .
+- Nhạc nền nguyên bản tạo từ nốt tổng hợp bằng make_audio.py, không dùng bản nhạc hay mẫu âm thanh thương mại.
+- Phụ đề diễn đạt gọn cùng ý, theo thời lượng thật của 36 đoạn giọng. Không khẳng định căn từng từ.
